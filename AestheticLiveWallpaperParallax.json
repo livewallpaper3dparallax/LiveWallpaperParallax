@@ -3,19 +3,19 @@
     {
        "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
+      "main_ads_banner": "ca-app-pub-7316385158012425/7119643789",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/5806562111",
+      "main_ads_natives":"ca-app-pub-7316385158012425/9270615663",
       "backup_ads_natives":"",
-      "backup_ads_banner":"acb65b28e84410b3",
-      "backup_ads_intertitial":"b4969f26d4150327",
-      "open_ads_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-7316385158012425/4904813489",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
       "on_off_native_listview":"1",
       "interval_intertitial": 3,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,52 +28,275 @@
     }
 ],
   "Categories": [
+   
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Black Wallpaper",
-      "wallpaper_url": "category/beach.jpeg"
+      "name_category": "Aesthetic Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/originals/51/0b/b8/510bb89e3fd88b53ec564e1772c8fba6.jpg"
     }
   ],
   "Wallpaper": [
     
+    [
     {
-        "id": "76631631155743440",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper76631631155743440",
+        "id": "316800155040121569",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121569",
         "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/65/c3/f1/65c3f1edbdfb6e0a35495783248ae57c.jpg"
+        "wallpaper_url": "https://i.pinimg.com/originals/51/0b/b8/510bb89e3fd88b53ec564e1772c8fba6.jpg"
     },
     {
-        "id": "780248704200156030",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper780248704200156030",
+        "id": "316800155040121567",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121567",
         "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/70/74/ee/7074ee885e7b27f3e9deffee3a1544eb.jpg"
+        "wallpaper_url": "https://i.pinimg.com/originals/9b/90/06/9b9006a03f1c9fbebafe749ae958fe96.jpg"
     },
     {
-        "id": "30751209949305556",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper30751209949305556",
+        "id": "316800155040121566",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121566",
         "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/21/ca/d5/21cad5d6dfee98ef9e858265af0e2ca9.jpg"
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/58/c2/1d58c2cae34084a59c64f0f87e888917.jpg"
     },
     {
-        "id": "77968637291554518",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper77968637291554518",
+        "id": "316800155040121563",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121563",
         "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/8c/c6/d5/8cc6d532d85b2e981bcebef714260a1d.jpg"
+        "wallpaper_url": "https://i.pinimg.com/originals/fc/5a/e9/fc5ae92c8db67e74726bc2a02f671e95.png"
     },
     {
-        "id": "29132728830175578",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper29132728830175578",
+        "id": "316800155040121559",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121559",
         "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/f0/03/99/f003993e41992f4da671210cbfd673f6.jpg"
+        "wallpaper_url": "https://i.pinimg.com/originals/e8/17/2f/e8172f62385df7fc9df7d131d10b46e2.jpg"
+    },
+    {
+        "id": "316800155040121556",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121556",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bb/17/35/bb1735f0a7ebb6da8f8e681c763d83e1.jpg"
+    },
+    {
+        "id": "316800155040121553",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121553",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/23/9e/3a/239e3a2e714c6076d3eaa7d0550e6dbf.jpg"
+    },
+    {
+        "id": "316800155040121551",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121551",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c9/5a/2a/c95a2a7a2d912a67ccf4e75bc8a9b9af.jpg"
+    },
+    {
+        "id": "316800155040121543",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121543",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d7/5e/e0/d75ee033bd31905458f9ce5e81c49bed.jpg"
+    },
+    {
+        "id": "316800155040121542",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121542",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a1/53/5f/a1535f5cb199200dfe782bf07600fd6e.jpg"
+    },
+    {
+        "id": "316800155040121539",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121539",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8d/09/5b/8d095bea915f489e7134e500b7d05c64.jpg"
+    },
+    {
+        "id": "316800155040121537",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121537",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/73/40/e2/7340e27b2993691ab834e4c30d2532f4.png"
+    },
+    {
+        "id": "316800155040121535",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121535",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4f/17/31/4f1731e34d4a968a7cd9a567bf691d34.png"
+    },
+    {
+        "id": "316800155040121530",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121530",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/09/ff/e0/09ffe05b534d2d84e9bc9d2823b97176.jpg"
+    },
+    {
+        "id": "316800155040121529",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121529",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d2/97/29/d297295ca11e1207ec4e4d24ee2e4f0b.jpg"
+    },
+    {
+        "id": "316800155040121528",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121528",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/19/53/f1/1953f18ee90b3a37a965493024199e83.jpg"
+    },
+    {
+        "id": "316800155040121525",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121525",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bc/39/7a/bc397aad9b28519643729f36c6d334fa.jpg"
+    },
+    {
+        "id": "316800155040121524",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121524",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7b/16/14/7b1614f4f3c79c96265a0ffd3274aa35.jpg"
+    },
+    {
+        "id": "316800155040121523",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121523",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fb/57/7c/fb577c79f42c4720bd9ebcdfb9cdcbcb.jpg"
+    },
+    {
+        "id": "316800155040121522",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121522",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/10/e5/db/10e5dbd5f2ef51428c3a6bfbfaedefd8.jpg"
+    },
+    {
+        "id": "316800155040121521",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121521",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9c/67/58/9c67580f5a2d8090953e922ec8a79259.png"
+    },
+    {
+        "id": "316800155040121520",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121520",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ad/15/fd/ad15fd62dfb687eec4d3dc797cfff29d.png"
+    },
+    {
+        "id": "316800155040121519",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121519",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/eb/a2/a5/eba2a525f05c6623562a923559d50d6d.jpg"
+    },
+    {
+        "id": "316800155040121518",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121518",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1b/89/1e/1b891e4573641dc16ad53ce541506d69.jpg"
+    },
+    {
+        "id": "316800155040121517",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121517",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5e/2d/4b/5e2d4b33395f9d4faebd3b24440088f7.jpg"
+    },
+    {
+        "id": "223913412716001400",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper223913412716001400",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/88/81/33/8881333cd854053a9ce6cacf9934f3ba.jpg"
+    },
+    {
+        "id": "15481192459793285",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper15481192459793285",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/18/b4/85/18b485d51d24e694957cfbbf6b449021.jpg"
+    },
+    {
+        "id": "867294840719163244",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper867294840719163244",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a8/28/97/a8289767f5b864bc41d1c3dc41e06d27.jpg"
+    },
+    {
+        "id": "13510867623201296",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper13510867623201296",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d4/41/cd/d441cde2cf0468d03c5a0343e3eb93e5.jpg"
+    },
+    {
+        "id": "581457001909359531",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper581457001909359531",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/65/37/6d/65376de8fe86ddbcb1a80f9dcdbab571.jpg"
+    },
+    {
+        "id": "89298005104453762",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper89298005104453762",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/03/03/41/0303415cd8b99d5c02bdb1c42dd70941.jpg"
+    },
+    {
+        "id": "57491332736946028",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper57491332736946028",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/05/15/e9/0515e91f8748fe8f03943b4b44f4ea6b.jpg"
+    },
+    {
+        "id": "315674255145683169",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper315674255145683169",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/32/a3/84/32a384b0fd3650158a649022c8ddd9a9.jpg"
+    },
+    {
+        "id": "316800155040121569",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121569",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/51/0b/b8/510bb89e3fd88b53ec564e1772c8fba6.jpg"
+    },
+    {
+        "id": "316800155040121567",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121567",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9b/90/06/9b9006a03f1c9fbebafe749ae958fe96.jpg"
+    },
+    {
+        "id": "316800155040121566",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121566",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/58/c2/1d58c2cae34084a59c64f0f87e888917.jpg"
+    },
+    {
+        "id": "316800155040121563",
+        "name_category": "Aesthetic Wallpaper",
+        "wallpaper_name": "Aesthetic Wallpaper316800155040121563",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fc/5a/e9/fc5ae92c8db67e74726bc2a02f671e95.png"
     }
+
 
 
   ]
