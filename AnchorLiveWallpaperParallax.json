@@ -1,0 +1,77 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-7316385158012425/7119643789",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/5806562111",
+      "main_ads_natives":"ca-app-pub-7316385158012425/9270615663",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-7316385158012425/4904813489",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+],
+  "Categories": [
+   
+    {
+      "name_category": "Black Wallpaper",
+      "wallpaper_url": "category/beach.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    
+    {
+        "id": "76631631155743440",
+        "name_category": "Black Wallpaper",
+        "wallpaper_name": "Black Wallpaper76631631155743440",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/65/c3/f1/65c3f1edbdfb6e0a35495783248ae57c.jpg"
+    },
+    {
+        "id": "780248704200156030",
+        "name_category": "Black Wallpaper",
+        "wallpaper_name": "Black Wallpaper780248704200156030",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/70/74/ee/7074ee885e7b27f3e9deffee3a1544eb.jpg"
+    },
+    {
+        "id": "30751209949305556",
+        "name_category": "Black Wallpaper",
+        "wallpaper_name": "Black Wallpaper30751209949305556",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/21/ca/d5/21cad5d6dfee98ef9e858265af0e2ca9.jpg"
+    },
+    {
+        "id": "77968637291554518",
+        "name_category": "Black Wallpaper",
+        "wallpaper_name": "Black Wallpaper77968637291554518",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8c/c6/d5/8cc6d532d85b2e981bcebef714260a1d.jpg"
+    },
+    {
+        "id": "29132728830175578",
+        "name_category": "Black Wallpaper",
+        "wallpaper_name": "Black Wallpaper29132728830175578",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f0/03/99/f003993e41992f4da671210cbfd673f6.jpg"
+    }
+
+
+  ]
+}
