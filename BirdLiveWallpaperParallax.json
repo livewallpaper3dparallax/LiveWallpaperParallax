@@ -1,0 +1,1233 @@
+{
+    "Ads": [
+      {
+        "select_main_ads": "APPLOVIN-D",
+        "select_backup_ads":"ADMOB",
+        "main_ads_banner": "ca-app-pub-7316385158012425/3671121850",
+        "main_ads_intertitial":"ca-app-pub-7316385158012425/2189954579",
+        "main_ads_natives":"ca-app-pub-7316385158012425/9270615663",
+        "backup_ads_natives":"ca-app-pub-7316385158012425/9797546502",
+        "backup_ads_banner":"ca-app-pub-7316385158012425/7119643789",
+        "backup_ads_intertitial":"ca-app-pub-7316385158012425/5806562111",
+        "open_ads_admob":"ca-app-pub-7316385158012425/6249469149",
+        "open_ads_alien":"",
+        "switch_open_ads":"1",
+        "switch_banner_natives_ads":"1",
+        "on_off_native_listview":"1",
+        "interval_intertitial": 3,
+        "initialize_sdk":"",
+        "initialize_sdk_backup_ads":"",
+        "high_paying_keyword_1": "",
+        "high_paying_keyword_2": "",
+        "high_paying_keyword_3": "",
+        "high_paying_keyword_4": "",
+        "high_paying_keyword_5": "",
+        "status_app": "0",
+        "link_redirect": "https://"
+  
+      }
+  ],
+    "Categories": [
+     
+      {
+        "name_category": "Army Wallpaper",
+        "wallpaper_url": "https://i.pinimg.com/originals/05/fa/e3/05fae3249fbcfe4af1e6be0f3eaf300c.png"
+      }
+    ],
+    "Wallpaper": 
+
+
+    [
+      {
+        "id": "714242822171467322",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822171467322",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/a5/04/d9/a504d93f161a37f27b19331ecebc98f7.jpg"
+      },
+      {
+        "id": "714242822151849900",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849900",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/49/dd/80/49dd80d75da0806775e39624f254e373.jpg"
+      },
+      {
+        "id": "714242822151849894",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849894",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/25/70/8b/25708b87b20e0322f2624decaf942516.jpg"
+      },
+      {
+        "id": "714242822151849869",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849869",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/be/d2/ab/bed2ab4fb82d3a26eb09d231a628ffc2.jpg"
+      },
+      {
+        "id": "714242822151697117",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151697117",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/72/48/9f/72489f94f725730273cbf0cffd9ed422.jpg"
+      },
+      {
+        "id": "714242822151697067",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151697067",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/92/63/04/926304003467b25788d0c96f59fce970.png"
+      },
+      {
+        "id": "714242822151359451",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151359451",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/e3/d5/5e/e3d55ed96e6ca17eb0a474a133bf7f4b.jpg"
+      },
+      {
+        "id": "714242822150098949",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098949",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/f6/bb/e9/f6bbe9c0b8378f2829f661333d7faaa8.jpg"
+      },
+      {
+        "id": "714242822150098938",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098938",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/81/4e/6c/814e6cdbc54f4f18ca8acbe12fe6fb57.jpg"
+      },
+      {
+        "id": "714242822150098895",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098895",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/75/3a/88/753a88f4071b79d03ec95fe6216d472c.jpg"
+      },
+      {
+        "id": "714242822150098887",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098887",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/07/81/8a/07818aa1a0447fcf015948e1f1e3f228.jpg"
+      },
+      {
+        "id": "714242822150098881",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098881",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/93/68/5f/93685f24537ab2c891818d6cbefdfde2.jpg"
+      },
+      {
+        "id": "714242822150098876",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098876",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/65/77/9a/65779ae338cb2855de68fd112e6617f5.jpg"
+      },
+      {
+        "id": "714242822150098854",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098854",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/e5/71/29/e571296d68092b3096380ba6c8d97b53.jpg"
+      },
+      {
+        "id": "714242822149867350",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149867350",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/9e/df/21/9edf213a63bff946423768115fcadde6.jpg"
+      },
+      {
+        "id": "714242822149270900",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149270900",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/7a/d3/67/7ad367f92adc462c5f9fb8a7878b6bfc.jpg"
+      },
+      {
+        "id": "714242822149101280",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101280",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/83/d9/86/83d986c41f41635bcc21a642ab6291a8.jpg"
+      },
+      {
+        "id": "714242822149101277",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101277",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/bd/c1/a7/bdc1a77fa51ae74a37fdf5e1337a2c41.jpg"
+      },
+      {
+        "id": "714242822149101267",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101267",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/34/6d/4b/346d4b13cd79125d6ef85b69a914650a.jpg"
+      },
+      {
+        "id": "714242822149101258",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101258",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/3f/ce/ac/3fceac977ed6ce899f12bfd83584e90d.jpg"
+      },
+      {
+        "id": "714242822149100692",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100692",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/6b/e5/30/6be5300a5a9e596546dc26f82ac2a6e4.jpg"
+      },
+      {
+        "id": "714242822149100681",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100681",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/7d/49/1d7d49322f19840b1375f126058d3b69.jpg"
+      },
+      {
+        "id": "714242822149100668",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100668",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/83/d6/b3/83d6b3b301b01200097758cfdc457188.jpg"
+      },
+      {
+        "id": "714242822149100658",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100658",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/70/79/d6/7079d6a7e98404f3a9c36c09b2ae9363.jpg"
+      },
+      {
+        "id": "649503577527932077",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper649503577527932077",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/7b/d0/20/7bd0201c0284d152c0bb96a5d923d81e.jpg"
+      },
+      {
+        "id": "131659989099515311",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper131659989099515311",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/b5/2e/07/b52e07e5c3869647cc18e942223003e9.jpg"
+      },
+      {
+        "id": "384143043228848250",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper384143043228848250",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/b3/b5/11/b3b511eba7f7370d77d2ed9b2caa5317.jpg"
+      },
+      {
+        "id": "592012313529434213",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper592012313529434213",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/e5/ed/d9/e5edd96e0cc29a8ccbdd93bcefb483b2.jpg"
+      },
+      {
+        "id": "464644886567970648",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper464644886567970648",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/08/f5/8e/08f58ed94f5351206b52799e4e23ba48.jpg"
+      },
+      {
+        "id": "852939616944933466",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper852939616944933466",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/6a/c4/52/6ac452dae0a4bee9db46ceb8c4157377.jpg"
+      },
+      {
+        "id": "853643304386339341",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper853643304386339341",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/a9/8c/d0/a98cd0b492e455bf818962c2c3dc17d0.jpg"
+      },
+      {
+        "id": "714242822171467322",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822171467322",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/6c/71/9f/6c719fb2be2beeeafb1140fa8d87a74d.jpg"
+      },
+      {
+        "id": "714242822170033912",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822170033912",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/a3/59/1a/a3591aaa926d319aabceea0c36f68834.jpg"
+      },
+      {
+        "id": "714242822151849900",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849900",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/08/25/26/08252630dfccd5d427435c9faf93882a.jpg"
+      },
+      {
+        "id": "714242822151849894",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849894",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/9a/b8/3e/9ab83e3abe0af2ba5e5968fa06b1387f.jpg"
+      },
+      {
+        "id": "714242822151849869",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849869",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/26/6d/cf/266dcf385691065928948d247113a152.jpg"
+      },
+      {
+        "id": "714242822151697117",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151697117",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/42/57/49/4257496df193d695052f593c41f41d7a.jpg"
+      },
+      {
+        "id": "714242822151697067",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151697067",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/f2/af/f9/f2aff9aac80ec32706c511df8e2f5337.jpg"
+      },
+      {
+        "id": "714242822151359451",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151359451",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/bd/98/e6/bd98e6542274aaf38b6c6b585bfccb9c.jpg"
+      },
+      {
+        "id": "714242822150098949",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098949",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/05/fa/e3/05fae3249fbcfe4af1e6be0f3eaf300c.png"
+      },
+      {
+        "id": "714242822150098938",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098938",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/33/8a/88/338a885f5307a116204d1dc7063d1d22.png"
+      },
+      {
+        "id": "714242822150098895",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098895",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/07/11/67/0711679733000d1a0e744717d5f6187a.png"
+      },
+      {
+        "id": "714242822150098887",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098887",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/b5/60/85/b56085f6f85111734d50e900fccbb255.png"
+      },
+      {
+        "id": "714242822150098881",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098881",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/b7/3c/e1/b73ce1b9ddf2b9cb9185e625ee9047fd.png"
+      },
+      {
+        "id": "714242822150098876",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098876",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/4d/16/99/4d1699acdba9209b6cb5d9ebcfccc7b7.jpg"
+      },
+      {
+        "id": "714242822150098854",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098854",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/c8/d5/84/c8d5848c6435a3518b9f3c7165ecaedf.jpg"
+      },
+      {
+        "id": "714242822149867350",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149867350",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/31/6a/c8/316ac8c9afa27af166df92999bf5222c.jpg"
+      },
+      {
+        "id": "714242822149270900",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149270900",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/77/06/32/770632910263b492bc30e89d7d35da47.png"
+      },
+      {
+        "id": "714242822149101280",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101280",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/36/4a/4f/364a4f52aacf0c4bb4cdf3d47b6e243c.jpg"
+      },
+      {
+        "id": "714242822149101277",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101277",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/08/d1/42/08d142d1b2cfa1b9aad13ddf37a961da.jpg"
+      },
+      {
+        "id": "714242822149101267",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101267",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/67/2e/f5/672ef5ebc77d7cc8dc6eb74b4f15d371.png"
+      },
+      {
+        "id": "714242822149101258",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101258",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/8c/d5/61/8cd56134f1353382729220cccb9dfc6b.jpg"
+      },
+      {
+        "id": "714242822149100692",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100692",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/e7/83/d1/e783d110cb4f520d8232d0749ae65d16.jpg"
+      },
+      {
+        "id": "714242822149100681",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100681",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/87/8c/59/878c59bbc72a26f801be41c69a1187c1.jpg"
+      },
+      {
+        "id": "714242822149100668",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100668",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/f9/d0/b9/f9d0b9974fcc8b3d1453aea0db014a5b.jpg"
+      },
+      {
+        "id": "714242822149100658",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100658",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/85/f9/c0/85f9c00ba1d11228feefe77977c0a2bf.png"
+      },
+      {
+        "id": "358880664069089576",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper358880664069089576",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/c1/09/01/c10901c1f6e888660cdab430df66de4d.png"
+      },
+      {
+        "id": "586875395186062912",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper586875395186062912",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/42/bf/5c/42bf5c9f5e15301bf9eadba6ec2765f1.jpg"
+      },
+      {
+        "id": "62346776084541613",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper62346776084541613",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/91/c3/4e/91c34ef185ffffe732987f347ff9ecbb.jpg"
+      },
+      {
+        "id": "499618152421404401",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper499618152421404401",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/bb/6b/c0/bb6bc089e4449f0d0c1360e66ba01b9f.jpg"
+      },
+      {
+        "id": "585256914095741118",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper585256914095741118",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/5c/0e/43/5c0e4380e19dcd16620e351ffbc80790.jpg"
+      },
+      {
+        "id": "571605377716374282",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper571605377716374282",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/e1/25/aa/e125aaf63810e48935d9c7c66b77cdd4.jpg"
+      },
+      {
+        "id": "714242822171467322",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822171467322",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/69/1a/e6/691ae6bd0b4b6d4bc9b1a3c20233f138.png"
+      },
+      {
+        "id": "714242822170033912",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822170033912",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/d2/6e/19/d26e195a9f52a794012b62c5ce4c9766.jpg"
+      },
+      {
+        "id": "714242822151849900",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849900",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/dd/85/ab/dd85abc2b4eda9245cb42654ef3c3211.jpg"
+      },
+      {
+        "id": "714242822151849894",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849894",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/9a/8f/7c/9a8f7c6df4d11938c76c33014cbca6cd.jpg"
+      },
+      {
+        "id": "714242822151849869",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849869",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/4c/d9/c3/4cd9c32d2bec061902611ea4b3c26b6e.jpg"
+      },
+      {
+        "id": "714242822151697117",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151697117",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/d9/81/54/d9815475d3b9adab2c55a66fa5ad5972.jpg"
+      },
+      {
+        "id": "714242822151697067",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151697067",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/26/93/b0/2693b02066deb16f66f12d68233a3f65.jpg"
+      },
+      {
+        "id": "714242822151359451",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151359451",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/c5/83/e4/c583e4539314bb246d5d5f392eee9a6d.png"
+      },
+      {
+        "id": "714242822150098949",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098949",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/ab/de/80/abde80e3dd4feab6e4b9855467874952.png"
+      },
+      {
+        "id": "714242822150098938",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098938",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/e5/73/e6/e573e6a37fa99f3af017a87ace2c5284.jpg"
+      },
+      {
+        "id": "714242822150098895",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098895",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/1a/e1/a7/1ae1a7af0b033c12b238aa27c7435572.jpg"
+      },
+      {
+        "id": "714242822150098887",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098887",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/a8/5c/30/a85c3069e277bfe2bc715726ed0369cc.jpg"
+      },
+      {
+        "id": "714242822150098881",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098881",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/c6/bf/34/c6bf34333912ae12df2be59d87295545.jpg"
+      },
+      {
+        "id": "714242822150098876",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098876",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/8d/e6/b0/8de6b032e04fdf2159f4160107c876ee.jpg"
+      },
+      {
+        "id": "714242822150098854",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098854",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/7b/83/fa/7b83fa29058600bcfe0033bbb115f6ea.jpg"
+      },
+      {
+        "id": "714242822149867350",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149867350",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/d6/a3/6f/d6a36f24bf2e6f7a00e03379d4052951.jpg"
+      },
+      {
+        "id": "714242822149270900",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149270900",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/be/66/5f/be665fab58697673bdc560a1272a3929.jpg"
+      },
+      {
+        "id": "714242822149101280",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101280",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/8f/b5/3f/8fb53f5461777c7efcf14fa6b6329b09.jpg"
+      },
+      {
+        "id": "714242822149101277",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101277",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/ac/17/b3/ac17b3b4c04f841d1e291a71da802728.jpg"
+      },
+      {
+        "id": "714242822149101267",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101267",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/c6/d6/cf/c6d6cf1fd2ec9227e9f93ff923f54635.jpg"
+      },
+      {
+        "id": "714242822149101258",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101258",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/15/19/b1/1519b175b3acde763dd6b9e9d979850b.jpg"
+      },
+      {
+        "id": "714242822149100692",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100692",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/55/24/d3/5524d30b31a5a8b6ed2eec4ff74cf105.jpg"
+      },
+      {
+        "id": "714242822149100681",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100681",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/ae/dd/5a/aedd5a8fd707353f5c348e41069f2770.jpg"
+      },
+      {
+        "id": "714242822149100668",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100668",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/97/da/38/97da389c2ae6fdcec78548afed640f13.jpg"
+      },
+      {
+        "id": "714242822149100658",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100658",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/36/28/68/36286837bb42c983488a669f60d428a1.jpg"
+      },
+      {
+        "id": "27795722692716389",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper27795722692716389",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/29/29/da/2929da6464bb2804a9384e7921b197a9.jpg"
+      },
+      {
+        "id": "24769866692117946",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper24769866692117946",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/c9/f4/6d/c9f46d862fe72fedbcda3dedb2d12240.jpg"
+      },
+      {
+        "id": "389913280252701740",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper389913280252701740",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/18/fe/2a/18fe2a339acff03031bde38708664bc2.jpg"
+      },
+      {
+        "id": "361765782578553077",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper361765782578553077",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/11/78/d0/1178d0f7fd7e9b1d0f86036c47cb1944.jpg"
+      },
+      {
+        "id": "79657487151474684",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper79657487151474684",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/a3/ef/e6/a3efe6d373bb7f6bb30ee37c3fdbb827.jpg"
+      },
+      {
+        "id": "925489792152442896",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper925489792152442896",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/7d/b5/18/7db5180a02d15d8df38539220f2ea1c5.jpg"
+      },
+      {
+        "id": "14214555063601230",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper14214555063601230",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/a0/ae/69/a0ae69d6af9357f4f8a4c78238f5a009.jpg"
+      },
+      {
+        "id": "714242822171467322",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822171467322",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/14/eb/1b/14eb1b4436c67657619b57a7cf2d15a3.png"
+      },
+      {
+        "id": "714242822170033912",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822170033912",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/34/d8/98/34d8981e4c663cb1071da38bbdbe35ea.jpg"
+      },
+      {
+        "id": "714242822151849900",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849900",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/7a/1f/ef/7a1fef7aa99c7f843d1fcb90f7ca5a40.png"
+      },
+      {
+        "id": "714242822151849894",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849894",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/fc/d9/ab/fcd9ab7956e0818ba23c9f6d55dc573c.jpg"
+      },
+      {
+        "id": "714242822151849869",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151849869",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/0d/9c/24/0d9c240895f57e65ae5f4353d0e80ab3.jpg"
+      },
+      {
+        "id": "714242822151697117",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151697117",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/2f/19/ea/2f19eac782fcdcafb13fe9c93a77ce00.jpg"
+      },
+      {
+        "id": "714242822151697067",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151697067",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/ee/d6/06/eed6062eb6e4dde5a2ad61f5ea1ece2f.jpg"
+      },
+      {
+        "id": "714242822151359451",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822151359451",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/7c/bc/17/7cbc174dd2aaf4068329512b6c398044.jpg"
+      },
+      {
+        "id": "714242822150098949",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098949",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/46/bf/5b/46bf5b2739ac0c3674a56f66f73db549.jpg"
+      },
+      {
+        "id": "714242822150098938",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098938",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/48/57/2d/48572d4204f5dc13a0699fe9cb22bd4e.png"
+      },
+      {
+        "id": "714242822150098895",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098895",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/1f/ec/29/1fec290534e059491e5405a1ede86934.jpg"
+      },
+      {
+        "id": "714242822150098887",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098887",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/e1/b1/3d/e1b13d7ae2913a4a33425eec30e7f529.jpg"
+      },
+      {
+        "id": "714242822150098881",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098881",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/48/9e/74/489e74ada93a3bf5e27221a7786c39ba.png"
+      },
+      {
+        "id": "714242822150098876",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098876",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/46/71/64/467164a0a41ece10c84fc599062c7c4e.jpg"
+      },
+      {
+        "id": "714242822150098854",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822150098854",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/1a/89/21/1a8921cff91f8060a8db75146471e410.jpg"
+      },
+      {
+        "id": "714242822149867350",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149867350",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/77/79/13/77791334f1116f1af1c07ce67cd21add.jpg"
+      },
+      {
+        "id": "714242822149270900",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149270900",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/db/32/ac/db32ac3efb1e70a802f7b9f64dd2c63b.jpg"
+      },
+      {
+        "id": "714242822149101280",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101280",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/76/47/86/7647868887ce7899ef75ca397176ad39.png"
+      },
+      {
+        "id": "714242822149101277",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101277",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/e9/c4/11/e9c4113a2f3ce87349452f46df6bae0d.jpg"
+      },
+      {
+        "id": "714242822149101267",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101267",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/ef/71/85/ef7185d3e8ab46223332e7879930fd08.jpg"
+      },
+      {
+        "id": "714242822149101258",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149101258",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/91/eb/74/91eb74cff923f43f429650694be37dac.jpg"
+      },
+      {
+        "id": "714242822149100692",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100692",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/36/aa/7d/36aa7d986fd1de686de91d949c7fc776.png"
+      },
+      {
+        "id": "714242822149100681",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100681",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/81/64/a2/8164a251a788ce2f5c0f494820db3264.jpg"
+      },
+      {
+        "id": "714242822149100668",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100668",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/98/c2/ce/98c2ced6a47eac3e2e9d3a0823439080.jpg"
+      },
+      {
+        "id": "714242822149100658",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper714242822149100658",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/b0/3c/1db03cd71c1f95a82c4ac43cda722da7.jpg"
+      },
+      {
+        "id": "943785665636379210",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper943785665636379210",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/f3/47/9b/f3479bcc4e055f88ef68a30c64c47c17.jpg"
+      },
+      {
+        "id": "1056797868791042381",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper1056797868791042381",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/76/71/00/767100f5365ac1f33de733a5f63a9013.jpg"
+      },
+      {
+        "id": "48273027249542210",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper48273027249542210",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/ad/5a/3e/ad5a3e406394c3d54f5c614049285120.jpg"
+      },
+      {
+        "id": "3940718417209888",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper3940718417209888",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/90/d3/0a/90d30a073262b4d59d3622e0cf8264f7.jpg"
+      },
+      {
+        "id": "425168021084759006",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper425168021084759006",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/7b/15/01/7b1501c0347210a6692ba2d96e320373.jpg"
+      },
+      {
+        "id": "731060952026444941",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper731060952026444941",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/f9/9a/6f/f99a6f26e0086bd214a6517af49537a1.jpg"
+      },
+      {
+        "id": "611715561905282987",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper611715561905282987",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/4f/9b/db/4f9bdb252783fbc3109d8f7012e6d966.jpg"
+      },
+      {
+        "id": "762163936957845179",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper762163936957845179",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/da/1f/16/da1f16c40834feed4e4bd91aa6bf3884.jpg"
+      },
+      {
+        "id": "762163936957544557",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper762163936957544557",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/ef/0d/6d/ef0d6d3bdcc365a9f49e368a5222363a.png"
+      },
+      {
+        "id": "762163936957544550",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper762163936957544550",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/82/9f/5c/829f5c1756940b0a8679712bf0e686e7.jpg"
+      },
+      {
+        "id": "762163936957497726",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper762163936957497726",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/a7/e1/47/a7e147dc338c5a65d552d488d5b2c605.jpg"
+      },
+      {
+        "id": "762163936957432366",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper762163936957432366",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/9f/c1/5b/9fc15b62724bfee59c8a6774bbcb1579.jpg"
+      },
+      {
+        "id": "762163936957390277",
+        "name_category": "Bird Wallpaper",
+        "wallpaper_name": "Bird Wallpaper762163936957390277",
+        "wallpaper_detail": "This is Exclusive wallpaper Bird",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/a7/16/c8/a716c87a4788ae1ed048e9a2cca5a5eb.jpg"
+      }
+    ]
+
+
+  }
+  
