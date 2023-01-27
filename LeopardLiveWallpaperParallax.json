@@ -1,0 +1,328 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Abstract Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/originals/d2/f7/35/d2f7359da3c82948154a02f55b75c17f.jpg"
+    }
+  ],
+  "Wallpaper": [
+         {
+        "id": "714242822171467322",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822171467322",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/d2/f7/35/d2f7359da3c82948154a02f55b75c17f.jpg"
+    },
+    {
+        "id": "714242822170033912",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822170033912",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/66/14/58/661458ec90b6a6b985a8a963acc33d02.jpg"
+    },
+    {
+        "id": "714242822151849900",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822151849900",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/7f/69/4f/7f694f670c6be2e5cb603e0e9da509eb.jpg"
+    },
+    {
+        "id": "714242822151849894",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822151849894",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/26/43/bd/2643bd2989106e7846f2404c8e91936d.jpg"
+    },
+    {
+        "id": "714242822151849869",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822151849869",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/0f/e0/1d/0fe01de5c73e58cf70f6ce4cd01e7d33.jpg"
+    },
+    {
+        "id": "714242822151697117",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822151697117",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/3e/0f/c9/3e0fc97f97f4cc09c559fb7d45ec6205.jpg"
+    },
+    {
+        "id": "714242822151697067",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822151697067",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/bd/fd/80/bdfd802846bbae332f8de8b929638afb.jpg"
+    },
+    {
+        "id": "714242822151359451",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822151359451",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/9e/98/44/9e984493ed3cb2819e8c2be54583d4d4.jpg"
+    },
+    {
+        "id": "714242822150098949",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822150098949",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/66/6a/f1/666af11c9b6507acd64886cafa30ff3d.jpg"
+    },
+    {
+        "id": "714242822150098938",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822150098938",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/fa/de/cc/fadecc1aed1b8374ed3b4c367de6033b.jpg"
+    },
+    {
+        "id": "714242822150098895",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822150098895",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/74/c5/fd/74c5fdb2a5abe45329b5319a25bf3d99.jpg"
+    },
+    {
+        "id": "714242822150098887",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822150098887",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/94/dc/7e/94dc7ee93556ba0e6b3280ee3f3ee8cb.jpg"
+    },
+    {
+        "id": "714242822150098881",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822150098881",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/9c/19/34/9c1934c7104b4f0b504b0c31078eec3c.jpg"
+    },
+    {
+        "id": "714242822150098876",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822150098876",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/88/02/42/880242e77095402dcc8b0838e0158795.jpg"
+    },
+    {
+        "id": "714242822150098854",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822150098854",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/fa/b5/dd/fab5ddcd0eadcd4e2ae4f2f2708c261a.jpg"
+    },
+    {
+        "id": "714242822149867350",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149867350",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/54/6d/50/546d50a11d1b297f448fd03597375b46.jpg"
+    },
+    {
+        "id": "714242822149270900",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149270900",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/b4/51/ed/b451ed9a1cdf7fd462963a1e8de18f84.jpg"
+    },
+    {
+        "id": "714242822149101280",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149101280",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/2b/10/90/2b1090c7659998e6c072b6c9eb38a5b9.jpg"
+    },
+    {
+        "id": "714242822149101277",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149101277",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/ea/d1/ea/ead1eaf75b346f079cff4843ca2a99c9.jpg"
+    },
+    {
+        "id": "714242822149101267",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149101267",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/0b/3e/33/0b3e339a79d63a9a89616f7b6bb4b3ee.jpg"
+    },
+    {
+        "id": "714242822149101258",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149101258",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/a1/d0/f0/a1d0f050076eff3e0a39af28c6afcb2f.jpg"
+    },
+    {
+        "id": "714242822149100692",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149100692",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/72/6c/8d/726c8da4a054302b0011ece94d1e9186.jpg"
+    },
+    {
+        "id": "714242822149100681",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149100681",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/c2/85/19/c28519ce8bda4ee1f80fed0b944a3713.jpg"
+    },
+    {
+        "id": "714242822149100668",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149100668",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/e6/c8/9c/e6c89c60a89dfa4e22a494a38c57af75.jpg"
+    },
+    {
+        "id": "714242822149100658",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper714242822149100658",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 1,
+        "wallpaper_url": "https://i.pinimg.com/originals/db/4e/2f/db4e2f9773cad4ae84188717d1c466bf.jpg"
+    },
+    {
+        "id": "649503577527932077",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper649503577527932077",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/ec/82/9c/ec829c93bb3a12d70d5fa92b26f1628d.jpg"
+    },
+    {
+        "id": "131659989099515311",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper131659989099515311",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/c3/d0/ef/c3d0ef53af4aa1131d8d3b137aea4ac6.jpg"
+    },
+    {
+        "id": "384143043228848250",
+        "name_category": "Abstract Wallpaper",
+        "wallpaper_name": "Abstract Wallpaper384143043228848250",
+        "wallpaper_detail": "This is Exclusive wallpaper Abstract",
+        "wallpaper_type": "IMAGE",
+        "lock": 0,
+        "wallpaper_url": "https://i.pinimg.com/originals/e0/39/66/e0396694bce76daeac18696ce79bb2c8.jpg"
+    }
+
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
