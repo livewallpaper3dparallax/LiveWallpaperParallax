@@ -1,1720 +1,223 @@
 {
-    "Ads": [
-      {
-        "select_main_ads": "APPLOVIN-D",
-        "select_backup_ads":"ADMOB",
-        "main_ads_banner": "ca-app-pub-9751399769703775/5133249471",
-        "main_ads_intertitial":"ca-app-pub-9751399769703775/7186381958",
-        "main_ads_natives":"ca-app-pub-9751399769703775/7545474607",
-        "backup_ads_natives":"ca-app-pub-9751399769703775/7545474607",
-        "backup_ads_banner":"ca-app-pub-9751399769703775/5133249471",
-        "backup_ads_intertitial":"ca-app-pub-9751399769703775/7186381958",
-        "open_ads_admob":"ca-app-pub-9751399769703775/8009327271",
-        "open_ads_alien":"",
-        "switch_open_ads":"1",
-        "switch_banner_natives_ads":"1",
-        "on_off_native_listview":"1",
-        "interval_intertitial": 3,
-        "initialize_sdk":"",
-        "initialize_sdk_backup_ads":"",
-        "high_paying_keyword_1": "",
-        "high_paying_keyword_2": "",
-        "high_paying_keyword_3": "",
-        "high_paying_keyword_4": "",
-        "high_paying_keyword_5": "",
-        "status_app": "0",
-        "link_redirect": "https://"
-  
-      }
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
   ],
-    "Categories": [
-     
-      {
-        "name_category": "Black Wallpaper",
-        "wallpaper_url": "https://i.pinimg.com/originals/a4/08/8a/a4088a222434e0f2a13d3fa0997b8e09.jpg"
-      }
-    ],
-    "Wallpaper": 
+   "Categories": [
+    {
+      "name_category": "Super Car",
+      "wallpaper_url": "category/supercar.jpeg"
+    },
+    {
+      "name_category": "Nature",
+      "wallpaper_url": "category/beach.jpeg"
+    },
+    {
+      "name_category": "Animals",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
+    },
+    {
+      "name_category": "Vector",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Super Cr",
+      "wallpaper_name": "Targa",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/car.jpeg",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 2,
+      "name_category": "Super Car",
+      "wallpaper_name": "AUDI",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/car2.jpeg",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 0
+    },
+    {
+      "id": 3,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lamborghini online",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=WzHojpVr-9e08Y-AH_0by4YHda7dyOSAC4DGq8TIZxJ3jV4F_gjM0NL7HhgDgttsEwouIA3wm_f6rG7fwmr8hANlNM34saxpAy6hfUQhD0uc2biWhL2U66babd429tqfcKIucYirg-8PZKu5YdgXyDgnGbJ8OZSBinsPEH0UcmxYI0lW1cXc1BXAebjTmHhlddILS_sr9sjH_mni",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 4,
+      "name_category": "Animals",
+      "wallpaper_name": "Cats Eyes",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=G0Vz_ghyvO5D_KvhbcnTegU8qEgLp2VYnuf-UvbcL38AfKP9qSbV2URnXV6VFrcbd5_CvlDTUqucxjskrhFuGV_Lyx8Wf8FK3MAzehtwz3U3IqvPok36dyyDtzZYbDb0ulO6ETF0oBoTbiVfvbyTN6uRW6Vllp1J5qwdiNz9UDNyAhz0IPGe4o1TEVFU8CgofeYzAJw6RPQqYQOn",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "wallpaper_name": "Waterfall",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=f1Ck9IjB97H0HoRDVgmJ17ssp-DnEka5YgeS1jwjNOrGealcOZVtB8EKCm08pN0RkfWw0Ind39wZYvPh75wY6Nzz2EbYapMooRs05PhX3hhsLjpgtZCYdOLnJI_JYLLQo1UylmGWwQ36Garqn5UAkDVnVqrRGhM1HK8LScKOJvzWF207blSQZnJBYOyMZqB7oBv25Ps4GbBiT6Lq",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
 
-    [
-      {
-        "id": "7142428221714673221",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "BlackMP4 Wallpaper7142428221714673221",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "MP4",
-        "lock": 1,
-        "wallpaper_url": "https://raw.githubusercontent.com/dialect-prints/9106481131672454443417/main/public/710658671674807980597.mp4"
-      },
-      {
-        "id": "71424282217146732212",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "BlackMP4 Wallpaper71424282217146732212",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "MP4",
-        "lock": 1,
-        "wallpaper_url": "https://raw.githubusercontent.com/dialect-prints/9106481131672454443417/main/public/2212881581674808614549.mp4"
-      },
-        
-          {
-        "id": "8900679541674812138773",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "BlackMP4 8900679541674812138773",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "MP4",
-        "lock": 1,
-        "wallpaper_url": "https://raw.githubusercontent.com/dialect-prints/9106481131672454443417/main/public/8900679541674812138773.mp4"
-      },
-  
-                
-      {
-        "id": "714242822171467322",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/2d/b1/41/2db14103161241309fba309a074929ed.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/21/ca/d5/21cad5d6dfee98ef9e858265af0e2ca9.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4b/9d/be/4b9dbef4bda4a204112b8469cf556f3a.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/8c/c6/d5/8cc6d532d85b2e981bcebef714260a1d.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/ab/df/23/abdf239b4250d300da3d80c1a73c6b75.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/04/07/10/040710aca93975f84e6f7c7410210829.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/74/ce/10/74ce1063a1bd6e81e3176004bee07e11.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/fd/77/7d/fd777d0e50f86b7176639ce844685073.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/b4/49/47/b44947bdd056559947272aee78722186.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4b/29/5e/4b295ed6627db2373c8423f04d7fd203.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/75/19/d3/7519d34b9d3a1af5ce2fa4f794d06238.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/5e/fa/9d/5efa9d8db10c7b8be2e6c4fb63822972.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/c1/f2/54/c1f2545545e17c65aaa48492bf80052b.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/b3/e0/de/b3e0ded368ac19bde6c6792071e1491d.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/f0/03/99/f003993e41992f4da671210cbfd673f6.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/5b/ea/ae/5beaaee814a18b1e698791b189569889.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/fa/8f/9b/fa8f9b103cea336974eb82b19c27a6d9.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/39/26/f3/3926f372d96334ffab16ff091a5b5e16.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/3d/4c/ef/3d4cef84a43ef5a427218929daa67436.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/14/4f/85/144f8504dc4c3fa878f3f523e135220a.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/47/0d/6b/470d6ba9dd37b2736b9221d714a5d5c5.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/be/66/48/be6648700946a9ea1799a439432a842a.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/f9/6f/28/f96f28413c6d0c3588df500e1d16f54a.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/20/34/de/2034deded1136013dea21757ac9540b4.jpg"
-      },
-      {
-        "id": "649503577527932077",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper649503577527932077",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/05/98/81/059881afa4b9f6ccaea863b69d60d321.jpg"
-      },
-      {
-        "id": "131659989099515311",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper131659989099515311",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/37/a2/a5/37a2a5a2757b198507fe696943e86113.jpg"
-      },
-      {
-        "id": "384143043228848250",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper384143043228848250",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/81/d2/6c/81d26ce3372fea74bc20bc4d5bc6217b.jpg"
-      },
-      {
-        "id": "592012313529434213",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper592012313529434213",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/0d/5f/06/0d5f0628ed90c8db097e9769e4e61c08.jpg"
-      },
-      {
-        "id": "464644886567970648",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper464644886567970648",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/3c/9a/54/3c9a5469338bc2c29fb1783cd3f3f3fd.png"
-      },
-      {
-        "id": "852939616944933466",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper852939616944933466",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/fc/a4/e8/fca4e83c84f4effd3200f40073fcc5bb.jpg"
-      },
-      {
-        "id": "853643304386339341",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper853643304386339341",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/86/32/11/863211e3e24f0fd8ad95259d27171583.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/5e/8d/25/5e8d25dab76a95fdd159b8e8766cd448.jpg"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/e6/42/da/e642da2c5f90fb64b799c06adae22b3c.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/69/07/53/690753cee840eb4478f8d214a8bd8629.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/a1/f4/4b/a1f44bb4344cc03149cb9cbd81f56bb1.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/c8/c5/f0/c8c5f03d4525d98704f84764390a1758.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/2b/51/47/2b51479f1e820b1a9380f6187b062561.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/56/f2/1d/56f21d9a6a21748b35ea6d1ab902fb9e.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/e2/c3/62/e2c362ab49092d7900ba83fb9acbc84e.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/1b/a8/6d/1ba86df033e149f31bcfb3dd3136cc6f.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/2b/fe/34/2bfe345e68cbb92ab6e4071381e1eaff.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/a1/2e/99/a12e997b1303520b3e08ca8c0a064bdd.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/ed/91/c8/ed91c88886e80346365f92cdd7a35369.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/df/3a/79/df3a79f76304d4daac32e837b7bbbbc5.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/75/6f/f1/756ff1504a8323082cc1329deda829e1.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/1f/c9/9d/1fc99dafee82d7cffc719cee7c610a0e.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/5e/a4/fa/5ea4faecdc9d1ca481d467751721a0e7.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/21/d8/a8/21d8a80c2fc39969a6bd138c34193d02.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/43/f6/59/43f6595f2622fd3c689ea91ef501512c.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/8e/f3/46/8ef34633f8df316c78412d98aca37cb8.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/59/73/d4/5973d4aa3a328219eea76af3f79bad72.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/16/53/32/16533238f9e9c3ddf554931c0a5d1743.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/dc/31/8d/dc318d09a3df8f33257878b1993bb725.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4f/92/c7/4f92c76cbc9bf127ce1f3783b1974673.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/04/f9/e3/04f9e363e093b7a7614fc39c80d264ab.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/82/e0/d6/82e0d6e5831a244d523b654ee2577820.png"
-      },
-      {
-        "id": "358880664069089576",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper358880664069089576",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/51/94/8e/51948e5005bb08c29de23b72c4032c7a.jpg"
-      },
-      {
-        "id": "586875395186062912",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper586875395186062912",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/6c/47/16/6c47164671908aa2e650a8d4e18461db.jpg"
-      },
-      {
-        "id": "62346776084541613",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper62346776084541613",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/78/b3/f7/78b3f7e5b30ad5cf391552df7785c96d.jpg"
-      },
-      {
-        "id": "499618152421404401",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper499618152421404401",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/dd/b0/70/ddb070a6cd80af8add275329674cb69e.png"
-      },
-      {
-        "id": "585256914095741118",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper585256914095741118",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/9a/54/d2/9a54d25534e9f5ddbcca54d41d280630.jpg"
-      },
-      {
-        "id": "571605377716374282",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper571605377716374282",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/79/10/19/791019e78e59d710028cc4b8260e9fda.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/47/b6/4c/47b64c6749910921e686607dcb0b14f3.png"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/c2/67/cc/c267cc49b73eda207728ee175b086b6a.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/ef/64/08/ef640889b6cac92d31799e1aa450ef65.png"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/15/64/c4/1564c48dabdaf984b7d5123424cc1f36.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/f4/44/25/f44425b6005fe14890124c8a3e8b1bce.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/d7/09/bb/d709bbb8ebdd5565b1b5f776ed33562c.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/46/c1/78/46c178b95968d262a04c168067b91033.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/d6/cf/6f/d6cf6fc1b7016353b53de0857f80f624.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/54/69/a1/5469a195bc7ceef65b3eab1d3af291a6.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/8b/fc/6e/8bfc6ee121a59063c6247b5bae236351.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/35/78/e6/3578e6ee7c55c8f4a6943994cf7ee6fc.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/63/cd/79/63cd79551e78c7a3aed09b47a7f36ed4.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/a1/1c/f0/a11cf05d4fb5a29e1bf7ae335cd52127.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/58/f0/e7/58f0e732780c4e61550ab425c147debb.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/e0/87/ae/e087ae9a7eec17444aa413c520904f00.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/44/69/95/4469953661bf9bd5088fb2b6d9afd6d0.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/8d/02/46/8d0246b3069672a66e256426223a5f59.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/46/5d/fe/465dfe2655cb06f752e18043c57152f0.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/be/7a/6d/be7a6defe06417a73d98f8d5683a2a83.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/c7/8e/71/c78e712c373191018d1902bfff5b348c.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/cc/40/04/cc4004c2360feb8c54974261c99a34bc.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4a/8c/9d/4a8c9d6e5260bd2f7d80e328773cc6fe.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/17/25/96/17259680df2d7d90b88f7e442d520708.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/c3/3f/d9/c33fd94eae04f9e9a2083e81763948e1.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/92/27/60/92276081d3638c0f43673aeff91db361.jpg"
-      },
-      {
-        "id": "27795722692716389",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper27795722692716389",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/52/3b/4b/523b4bda7621e79bd4f7b691581aa3cd.jpg"
-      },
-      {
-        "id": "24769866692117946",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper24769866692117946",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/16/c8/b9/16c8b9ed875d87dc5eca8fe9b7b8d4e5.jpg"
-      },
-      {
-        "id": "389913280252701740",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper389913280252701740",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/92/e2/5d/92e25dbcaa2c54a7698d7bd903fb5b02.jpg"
-      },
-      {
-        "id": "361765782578553077",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper361765782578553077",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/10/dc/bc/10dcbc8a7db9cbba80c4ffef430f103f.jpg"
-      },
-      {
-        "id": "79657487151474684",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper79657487151474684",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "MP4",
-        "lock": 0,
-        "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/da/ad/20/daad20b2d7af3896f726c1bdb59070eb.mp4"
-      },
-      {
-        "id": "925489792152442896",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper925489792152442896",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/37/de/a4/37dea45487e1bc21c338ff3d9bd68001.jpg"
-      },
-      {
-        "id": "14214555063601230",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper14214555063601230",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/2f/5c/59/2f5c59e47dc506976a17f22cb75b3df8.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/1f/09/99/1f0999964c07d7da3559a94bb2129db2.jpg"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/8c/e2/52/8ce252b8fe76a14d6959265d69389903.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/bc/92/16/bc9216b3c54c4b74971bcee1dc51cb60.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/a0/a9/99/a0a999370d1cd884ee2494a74b0b3b70.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/58/70/e2/5870e24c935396970320bef9decd3f45.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/7a/57/ea/7a57ea490c2d5978c6c4ab9e7f231de3.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/29/35/97/2935972be551cbb7a82265d250e91646.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4c/f2/46/4cf246952719242c655297c7444b817f.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/34/15/13/341513294d26d4304ac7eef5bd129970.png"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/41/16/6b/41166b71832caa5722188889b2de2301.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "GIF",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/5e/ea/2b/5eea2b92e254e5d704e748fc5eecefaa.gif"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/80/12/76/8012760f60ecbf059e13045d9cd9f557.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/a4/8f/4e/a48f4ed1cb02daa00e171c874c716ac2.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/1d/7a/90/1d7a9062a71fd71e0c91bcb690825c6d.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/f1/a2/01/f1a20143868f06e1da7c876e7441c953.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/7d/07/80/7d0780baea4f7fecadd5df6eac5bab4f.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/48/d4/b9/48d4b945a8b65302fb91cf856c7c2247.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4d/3d/a4/4d3da4792a13aa07771ca32bafc85e8b.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4c/a0/b4/4ca0b45c45656565c1631e8736b37676.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/71/c7/b2/71c7b25a30545ba4f1e2cc26718a1e9a.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/12/06/bb/1206bb735a434a2c24f26f9b99d96f51.png"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/52/24/0d/52240d5e5ee353339ac0bb3377df4bde.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/07/3a/00/073a00ebfe0b60cda9bee83888f18b9a.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/1b/d4/fe/1bd4fe2323026d1bc6635d20f58637d6.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/66/0f/51/660f5146964686f64cce4a6e3682b721.jpg"
-      },
-      {
-        "id": "943785665636379210",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper943785665636379210",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/81/22/55/812255bccd5f1dc1a92c29ff268901ff.png"
-      },
-      {
-        "id": "1056797868791042381",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper1056797868791042381",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/b9/1c/66/b91c66818bd1ff9fdfc7cf6fb26b52e8.jpg"
-      },
-      {
-        "id": "48273027249542210",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper48273027249542210",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/76/15/61/76156151824fda8b32dac7bfd3de39df.jpg"
-      },
-      {
-        "id": "3940718417209888",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper3940718417209888",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/fa/ab/72/faab72581ab76db0f9080c52c3cbee3e.jpg"
-      },
-      {
-        "id": "425168021084759006",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper425168021084759006",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/da/33/41/da3341c58dbfd1697167dfa69ba3580c.png"
-      },
-      {
-        "id": "731060952026444941",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper731060952026444941",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/09/a7/b8/09a7b82b576d655f2fe3d7fb035846a6.jpg"
-      },
-      {
-        "id": "611715561905282987",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper611715561905282987",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/8d/a6/41/8da64192b8374a817ad515ee59d91bd9.jpg"
-      },
-      {
-        "id": "762163936957845179",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957845179",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/d6/31/a6/d631a6bdb73965ec7c5387aba3c1da73.jpg"
-      },
-      {
-        "id": "762163936957544557",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957544557",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/41/3a/bc/413abc35895314603747da6f31d80683.jpg"
-      },
-      {
-        "id": "762163936957544550",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957544550",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/cc/d8/ed/ccd8ed2985c3898f1c500daead7e8869.jpg"
-      },
-      {
-        "id": "762163936957497726",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957497726",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/a5/c8/ac/a5c8ac228b1361a247d1c1d01e0db239.png"
-      },
-      {
-        "id": "762163936957432366",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957432366",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/bd/79/ba/bd79ba0a3207900347f54709f3d7b61e.jpg"
-      },
-      {
-        "id": "762163936957390277",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957390277",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/bb/79/c1/bb79c14271b3304e01aefc9d8152ae23.jpg"
-      },
-      {
-        "id": "762163936957370733",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957370733",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/66/4b/69/664b69a660b749bf0e451d754d86da72.jpg"
-      },
-      {
-        "id": "762163936957354584",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957354584",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/e6/e7/e5/e6e7e5f89294eb19efefe2c53510db06.jpg"
-      },
-      {
-        "id": "762163936957354561",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936957354561",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/31/de/81/31de81e4c6d322e65f7d92310a1ce8c4.jpg"
-      },
-      {
-        "id": "762163936956730517",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936956730517",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/af/28/e3/af28e3452d5537c674ea7557e64a47c0.jpg"
-      },
-      {
-        "id": "762163936956664522",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936956664522",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/df/0b/7b/df0b7b04d2209a0be2c33edf7bc63da4.jpg"
-      },
-      {
-        "id": "762163936955911041",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955911041",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/8f/f8/b9/8ff8b9e86968aa30061131d5049b38e9.jpg"
-      },
-      {
-        "id": "762163936955911013",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955911013",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/a4/08/8a/a4088a222434e0f2a13d3fa0997b8e09.jpg"
-      },
-      {
-        "id": "762163936955640601",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955640601",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/43/b2/5c/43b25c3e5986db31deaf992b4253178b.jpg"
-      },
-      {
-        "id": "762163936955594026",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955594026",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/d6/8d/e7/d68de7b454acfa1eafa6b01904730092.jpg"
-      },
-      {
-        "id": "762163936955567696",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955567696",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/7a/27/42/7a27421011111f35bec31e1abd5eee22.jpg"
-      },
-      {
-        "id": "762163936955549676",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955549676",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/41/e6/49/41e6490ed6a9b63d7afc2c98fc359862.jpg"
-      },
-      {
-        "id": "762163936955395541",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955395541",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/3f/86/65/3f86655c24c2c5e2b98387446932e2ea.jpg"
-      },
-      {
-        "id": "762163936955381591",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955381591",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/7d/88/e0/7d88e0ad0858edbea83e949a86a4bb7a.jpg"
-      },
-      {
-        "id": "762163936955240129",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955240129",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/bd/a0/6c/bda06c24e3c2ec44161f435c7a03fbaf.jpg"
-      },
-      {
-        "id": "762163936955042878",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955042878",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/33/01/ff/3301ff8e68aed1abf9311a5907f5f3e5.jpg"
-      },
-      {
-        "id": "762163936955042867",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936955042867",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/d0/19/fa/d019fa1c875724eb32edffde44972d01.jpg"
-      },
-      {
-        "id": "762163936954975867",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936954975867",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/79/8e/c6/798ec6bf67385e36d510f572ac85e25d.jpg"
-      },
-      {
-        "id": "762163936954962297",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936954962297",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/6e/08/9c/6e089ca1ab6a69c5b51ad518c84b13dd.jpg"
-      },
-      {
-        "id": "762163936954961611",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper762163936954961611",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/b1/c5/76/b1c576390fea6462b1daa0a6bd4bc7a9.jpg"
-      },
-      {
-        "id": "27795722692716389",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper27795722692716389",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/cf/c6/bb/cfc6bbc3b339529cb959ea05af9c769e.jpg"
-      },
-      {
-        "id": "753086368955302585",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper753086368955302585",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/cb/76/af/cb76af0a72be4a3f6970ab4091035b44.jpg"
-      },
-      {
-        "id": "1829656091530868",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper1829656091530868",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/32/d4/35/32d43576af577e937c831f337b5ec6d8.jpg"
-      },
-      {
-        "id": "1121326007201543357",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper1121326007201543357",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/69/1c/0c/691c0c31ae2afb8072c7ae44aede57b4.jpg"
-      },
-      {
-        "id": "115967759146006445",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper115967759146006445",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/26/fc/e4/26fce44c1ade18378d0e08b2a4daf78f.jpg"
-      },
-      {
-        "id": "776096948303992611",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper776096948303992611",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/40/95/cf/4095cf0c2104321ec62253e58df3ca25.jpg"
-      },
-      {
-        "id": "586875395186062912",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black Wallpaper586875395186062912",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/38/41/a7/3841a732e795ab2d513c333ffa86d90e.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/22/03/4d/22034dd24a15a3e61dd03d63fc963109.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/3b/1a/b1/3b1ab16faa11802df38d802d67e7790b.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/62/74/c9/6274c9f9cbadc8599dc96fa7cc55309d.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/2a/f8/e9/2af8e93cf09bbe399a43d911d1544116.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/ff/06/67/ff0667cabb143bdc3f065adca183c153.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/ec/7c/5f/ec7c5fe1fa8fa92215bfe961a89389e3.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/8e/d0/aa/8ed0aae7a41ddf977b9c416a72d5a0b9.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/93/18/e3/9318e321f7e238c60fff78fc9d91e400.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/ea/ab/ff/eaabff8cd378671d5fed65a911acc134.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/f7/4f/8a/f74f8adbd68e46a4704fdfaa666e6d5b.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/ce/30/fe/ce30fe4fc2919134f0152fc1f6633276.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/72/76/e6/7276e6aa233a1090aa1dc542ce15b719.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/f4/df/d9/f4dfd95c8a276144ad97ab31b9073838.png"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/d9/dd/c5/d9ddc562c685df6595cffdd4ff825d35.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/3e/35/4b/3e354b1203b9202e095dc9740d4fd771.png"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/8e/1e/5d/8e1e5dd92ea93cc9357478c31e1165d4.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4b/c0/92/4bc092700029f60e6bebd8c94b16ae47.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/0e/2a/02/0e2a02cacc8e9679424eea213a1af120.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/d1/74/26/d174263d9b97de899179a88509a8eb1a.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/b8/03/b4/b803b4cd217fb695628b5f68d41ae2a1.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/4d/b8/3c/4db83c419f3ddda089078b56fa9e5419.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/41/ed/90/41ed90671d93c75d477f97046270792b.png"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/3c/a9/fb/3ca9fb2e7f0820d033bf7046acf1f9aa.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 1,
-        "wallpaper_url": "https://i.pinimg.com/originals/ea/21/36/ea21361828b441d2640d4d084148dbf4.jpg"
-      },
-      {
-        "id": "649503577527932077",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Aesthetic N1 Wallpaper649503577527932077",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/originals/81/6d/fc/816dfc1c50ab4b1ceb0b7d94785eb915.jpg"
-      }
-    ]
-
-  }
-  
+      "lock": 0
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "wallpaper_name": "Mountains",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=nAu7dUDvECaSSV2dpCP904JxubxjbxI3sruHIJmxwGTK-ziYxtcDgGJDAMkjzwz9JKbmCjQiiP8m18Oh1Wvblk5CFoL7P_tQOpEk7ukwvBH1fH_odtMtGBxik_2j7a5H8jJnKbh8i43bWZpYoskMtjs_wQxOEYdDLknIbxUS_vEd4N6xfjAGrugdhW_KS24iYgmHOzo6tPuBd3uE",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 0
+    },
+    {
+      "id": 7,
+      "name_category": "Animals",
+      "wallpaper_name": "Loves Bird",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=jQ2USSikr_q5y0tJHcZVC_gvPC9uSELWX9lqlv-4VMdPm8dcdF9Kk8PmSCGvxzgunrDI6zEYvht_tF0ZVpKzgXWLHKCsOlgoW0z1E53lNTKNTIxbWzY75j_im4r7wDxCqmonLHlM9fuxXGvAmDNXFjYI8OU0ehKjj5kl6kcdzG0GDxd4GC5uXvLVviqSIHYtGuHTLXRnGVHw-9kW",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "wallpaper_name": "Live Waterfall Online",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/river2.gif",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 9,
+      "name_category": "Nature",
+      "wallpaper_name": "Live Waterfall Folder Asset",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "gif/waterfall.gif",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 10,
+      "name_category": "Nature",
+      "wallpaper_name": "Live Beach Online",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 10,
+      "name_category": "Animals",
+      "wallpaper_name": "Live Frog Folder Asset",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 11,
+      "name_category": "Vector",
+      "wallpaper_name": "Blue Ink",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/blueink.mp4",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 12,
+      "name_category": "Nature",
+      "wallpaper_name": "Summer",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/flower.mp4",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 0
+    },
+    {
+      "id": 13,
+      "name_category": "Vector",
+      "wallpaper_name": "Sunset vecto",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=5l2rRlSKwIQro0aaWoR2NVS_VttrfMP5dUlY9nAT7LkFJpD_hrPVJrHj8RO9wjKSor9crYTTtF71kWafZ07t0Jeh2QidDsVN0kMmHJubyznNyOnv8p_FdK8teCa87OX_UtaK2YCaUmt9Btfp0NKJcWep_9txBuYIvcNtPLUQWLXo9ToKPGNG562fl4MNRASa1RXcRCmYicZLonmc",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    },
+    {
+      "id": 14,
+      "name_category": "Vector",
+      "wallpaper_name": "Vector island pirate",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=cPXcg20dkirK_YZRY3MIiy-0ZGAIqWCGcb1GBFmowZPQuRyie9SbHbUsPMOMb7ZhkNUszfJFABiot7XmpRwDCNhVFdfFAKTIcebBNPHcMj211yiCnYMXtaSo0fu-RDe5WA_knLZZIsn0Q2jP0oWLcDdOUiZNg3PT05CzlNXB4CRjDtJpf6i8i4x4BCdDVLuf5ZSBqwf8vgYBdE2m",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
+      "lock": 1
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
