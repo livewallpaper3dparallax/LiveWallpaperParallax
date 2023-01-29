@@ -60,13 +60,12 @@
       },
         
           {
-        "id": "8900679541674812138773",
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "8900679541674812138773",
-        "wallpaper_detail": "This is Exclusive wallpaper Black",
-        "wallpaper_type": "MP4",
-        
-        "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
+       "id": 10,
+      "name_category": "Nature",
+      "wallpaper_name": "Live Beach Online",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4",
+      "wallpaper_detail": "Ini adalah contoh penulisan deskripsi pada bagian wallpaper, tidak mendukung format html hanya text biasa saja",
       },
   
                 
