@@ -1,0 +1,1785 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/3320811643",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/1666585679",
+      "main_ads_natives":"ca-app-pub-7316385158012425/9694648302",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/4352458760",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/32/4b/ae324b6b00cd42dee5e8f564dcfafcca.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/e1/8a/83/e18a83750baf589c96f8472b57705d5b.mp4"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/fe/4c/4e/fe4c4e3a00975415e91315494b0c7ca5.png"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/fb/a4/bf/fba4bfc7b9e6450069c9085eeb601ad7.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/f5/c2/f4/f5c2f4ebaaef781c382945c1ed9f1249.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/f4/56/30/f45630ec1cb1df4cab0018a5e26fe97b.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ef/11/d7/ef11d7d43bdd6e49e79a9687d95bbbc1.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/eb/07/6f/eb076fc88dbdd1affe5cc8dfb5d6372d.png"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e8/ed/c7/e8edc75f97dd639a25dd9773a7cca757.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e6/9b/89/e69b89518786d40fb541176ea3b9799b.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e6/43/12/e64312134c55933a3b97291e7d9ecee8.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e5/9f/68/e59f682f38b525ab7476cb8592ab7a39.png"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e4/e3/54/e4e35422b64747b6bee3c04ec09e0313.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e4/7a/9f/e47a9f2fa5c6d69a8ff13cba2b0e4bac.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e3/a5/f1/e3a5f1f1569b026948169354a025c182.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e2/99/4d/e2994df95ca593496359a57cd8d5f112.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e1/25/aa/e125aaf63810e48935d9c7c66b77cdd4.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e0/3e/78/e03e78c693b20d3b53c98f9bb3d4074d.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e0/03/ee/e003ee89cc26a4d10ec02581f274c75d.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/76/d0/dd76d0bc08d6ecd9140ab4d2ffcc1485.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d8/4a/61/d84a61a2782436f8985890424373c32b.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d8/2b/5a/d82b5a893c93f5989e21ed6983beaa53.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d4/de/7a/d4de7a6149ad5efe351a53e5450cb6d2.png"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d3/5f/75/d35f755a22a5a39b6da52bf4b9556a71.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d3/34/84/d334843566209982a3a24129d064babb.png"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ce/38/62/ce38625520a2d3920c9cfab0afb9b858.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/cd/6f/7f/cd6f7f07215ecf7eaccb4e61e279502f.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/c7/19/11/c71911150808d22b131416d41becff6c.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/c6/8b/59/c68b59c489c69c1d145b964623f9287d.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/be/79/51/be7951920a3d84bcceea34b07d34ff53.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/b9/7d/76/b97d760bd31d9bfa85cc249b212a110b.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/b9/1c/75/b91c758ab19e2e7febfa8ff815657a39.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/b7/c6/fc/b7c6fc175afc4057507ec0a1401c3fb9.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b1/6a/96/b16a96c9231d17c0f22c4777051bb29d.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a7/80/15/a780152b87d3bad2de3be964f365040e.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a3/e5/db/a3e5db68f84c415ec4bcabd78cd2dc10.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a3/9c/48/a39c4813eed405e79a1ccf2b9217531c.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a2/c2/11/a2c2116e4ab9417b5a4687dda7a5538d.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a1/73/b6/a173b646482569321295195f8e4db396.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/9d/ef/b8/9defb8a3097ebe9393bdac327ef7e0a5.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/99/73/ab/9973abcafa331a95d855c3427825d74f.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/98/3c/cf/983ccf2e80d1f31eb226a2918276d28e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/92/bf/ae/92bfaeb4034adb225398527ef1bd09be.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8e/bd/b3/8ebdb3c0b35c9f83e937308fdde14701.png"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8a/4e/97/8a4e976f983bff648dd313f7d3a18c57.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/86/2e/91/862e91eb87709bae4c4081cace886664.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/83/e5/9b/83e59b25f6d9c178f6f5836dea8fcb44.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/80/09/31/8009319570170745a846356c35993e3b.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/7f/35/52/7f3552ac79925fbd75ad644dd66419e6.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/7d/54/30/7d54309a279106f8d36213438026d6d6.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/7b/4c/44/7b4c44f4207005a7cc8a4c71b9f706a4.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/79/0a/e5/790ae5a4fd9235338d4032560ea99855.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/78/dd/9d/78dd9d6540437cce1170795869ab6792.webp"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/78/15/da/7815da186f2de9fa77d369b8cb286730.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/76/f1/14/76f114ad7c658cc48449490f1a43edee.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/76/cd/71/76cd711057333186f2f71f2694304589.png"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/72/0b/59/720b590a2c35ef63229085bfcbee9389.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/6f/07/f2/6f07f224d816d233fad4b4689e826b55.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/6e/11/82/6e11824ff0ed1c764da546aa0222c06f.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/6d/69/f8/6d69f86f8f94e1ca6f46fa93bb408db9.png"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/6b/4d/50/6b4d50f570e7e8058d9fd8a4e845fd04.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/68/78/d7/6878d70e1660368e5ac7d3fb7483ffe6.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/64/a5/eb/64a5eb741cbc2933b24a81d45f580091.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/62/7c/2a/627c2a57655e648c3002a5c2a6dd28f4.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/62/3f/22/623f22134fcb1bd3e0326acdcbcb8ff8.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/60/e4/86/60e48674c5176219db0abc5675efd1ff.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/54/72/ab/5472ab1390dcb72278d635b70508a1d2.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/53/b5/5d/53b55de8715e8f600ecede8b5cdd4d1a.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4c/34/83/4c348362ab0be29b64d061b42a5b29c3.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/48/86/fc/4886fcd02d299a810603b212a9a83d81.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/47/54/5b/47545b4754858bd3af3423fe69e08459.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/45/0f/89/450f89519d0f88547b31ca44057205f4.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3c/b0/69/3cb069f2f0f71235881661d1215125cd.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3b/ff/4b/3bff4bdbe46cde993a738451a32fda43.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/37/ce/d5/37ced569d877952e7c768c89c8254ae0.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2e/d9/6d/2ed96dc9461b50a5c5380281a4ee2790.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2b/65/67/2b6567d1d0220928c12b11b35b00e776.png"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/29/62/5b/29625bed601a563fdc13bdde1b8ce87a.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/25/26/de/2526defbe2e065c19fb7c07cd05d895d.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1c/7d/d3/1c7dd3f72dbeb28ef10182cbc45a36ee.png"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/16/f2/43/16f2431a6ff89fec28ba649e7ba60cb1.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/0f/6d/a9/0f6da9715ce58c40b3e715e05d761f1f.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/0f/35/e5/0f35e5032a3da3b9be9a5642d9378d27.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/0e/df/96/0edf96457af3983f3b72216b4b38f7d1.png"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/0d/94/64/0d94646613cf90bcf9802feec91ce7b3.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/0c/c1/32/0cc132cf3eec207f81bc3804606d8b02.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/07/22/a0/0722a060c4d492ae9cfe165117b92904.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/06/56/08/065608ef22a6fda216df2d23d8202d4e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/02/ae/56/02ae569262d5f9a6b133490c2e47dd60.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/00/72/12/00721291e75690d9dd8dcce992a82252.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/474x/d2/a2/7c/d2a27c0411fb84e9ae732db747d9a371.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/474x/70/29/10/702910c4a4a3ca3b44e227adaebe92b9.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/fe/2d/a4/fe2da46c481850c13eaefeba18cb0d02.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/fd/0b/91/fd0b916384dc5696da51354b3d3b7d2f.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/43/4f/fb434f010bda41197980fa0b92671a50.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/84/01/f784017eb75cda7cebe57d7dd542e59b.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/8f/77/ef8f77532b1d8653a838fd0e213f444d.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/dd/23/e9dd23c4088bdb1a5d4d7a4dde11e3f5.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/b7/31/e9b7315c69515105a7f15e5fc9ec3fa9.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/72/70/e07270cb111db9c0cd0b5ddd2ecfb28d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dc/bb/1c/dcbb1c52e43d9625d62e038e0fa1af0b.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/20/24/db2024b756a0788d2a1b960ea72cdca0.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/a2/82/d6a282863c6ad4051d5d06926a5de90d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/10/7e/d6107e5f013e2466a063b6e25c076464.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/78/31/d57831b91e3b9ed37fac23903e0b3862.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/2a/93/d52a93b1eb9cc370726eb1adf359798b.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d3/70/58/d37058b66d3083eb244f531ca63cb67c.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/b6/b6/d1b6b6ea1ec27ef99e454fed1bd91482.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/4b/3e/d14b3e7248fbc9fff94bbfc6d29efe4f.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/03/d0/d103d04ad5ee92303f65d41aa9f875d0.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/78/50/cd78506c01627e9d63fab0eff181e359.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cc/6c/3b/cc6c3b55899aa9f7971a9b82c4d7fc96.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/95/5f/c6955fff8ac3d0db5fd495cd5e036395.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/3c/fc/c63cfceb5d5b01423662895bea5bf2f3.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c5/c2/fc/c5c2fc8094ddca00708b53323029b8c9.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c5/62/cd/c562cd65591640904ef05907e5782282.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c5/4d/5a/c54d5a3f5d0008a6582d3a6fe5090274.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/c2/bd/c3c2bd7c06e8a24c8950170b56c2572b.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/be/9f/1e/be9f1e6c69b31ae6eb7de5d0318bf429.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/e1/bc/bbe1bc6128d5b40c629367de9fe15f6e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/97/6e/b9976e9c248d6277182d6f5607dd776b.jpg"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/00/b2/b600b2670c8f954ee5ffa353c747b5bd.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/db/5f/b4db5f385e5f45199aed898f6a127947.jpg"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/af/1b/fa/af1bfa56eb18fb570ee324a6cf78b04a.jpg"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/32/4b/ae324b6b00cd42dee5e8f564dcfafcca.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/c1/12/abc112ce2aa60c006190970951a2d435.jpg"
+    },
+    {
+      "id": "731060952026444941",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper731060952026444941",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/a9/0c/a9a90cd7c121d374f7ac60f031922c9e.jpg"
+    },
+    {
+      "id": "611715561905282987",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper611715561905282987",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/9c/01/a79c01552696e71c4fe217001ef4f4bc.jpg"
+    },
+    {
+      "id": "762163936957845179",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957845179",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9f/84/08/9f840870827d675f49307c62609fbcaf.jpg"
+    },
+    {
+      "id": "762163936957544557",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957544557",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/a7/5a/9da75a398f0b973a6702ff0cef39080d.jpg"
+    },
+    {
+      "id": "762163936957544550",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957544550",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/3a/0b/9c3a0b6d709d0c52ef6af4701f400c53.jpg"
+    },
+    {
+      "id": "762163936957497726",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957497726",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/43/d8/9a43d853b25ac287ebe7b2b0a22e5f0b.jpg"
+    },
+    {
+      "id": "762163936957432366",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957432366",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/05/71/990571438c5af559a3c72cb97bab4644.jpg"
+    },
+    {
+      "id": "762163936957390277",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957390277",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/b9/31/92b9315b4c88e456fbc93ea54853c386.jpg"
+    },
+    {
+      "id": "762163936957370733",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957370733",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/39/89/9139899da8636d43baaf956fc68eed27.jpg"
+    },
+    {
+      "id": "762163936957354584",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957354584",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/ad/f8/90adf83315d0075607ecaf02aa5eaa88.jpg"
+    },
+    {
+      "id": "762163936957354561",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936957354561",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/fc/7c/8cfc7cef3ba8b5c67124d383bd20381a.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8b/4a/7f/8b4a7f90eed89252c8fbc6f8f58716ae.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/77/9a/8a779a2c98f17c411d2fda2980a7d91a.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/89/a8/4e/89a84e655fc7dd3696ab82014a50234e.jpg"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/ca/91/88ca91a1e737ad233c43cf0f9054a129.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/78/2a/d5/782ad524f76393b5e6fb9cd44fef3342.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/f4/80/77f480bd9a5e6d1c521d26f8fcb6e4fd.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/91/c3/7791c3d733c29524b2167171d33e9f2b.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/ec/85/76ec85c503043fe1efcb3fde8be800cd.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/94/4a/f9/944af9e1d6912834d90b43b924905729.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/51/8f/bd518fa6290e5d03833a502296fa85f3.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/34/a1/6e34a1cfcfdf7f892880024f36a3b1ab.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/2a/09/6e2a091087f6b85fe67e8bef4acf7ee8.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6c/5b/79/6c5b7981ed32966ffb82c18441acdfdf.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/69/ab/6d/69ab6dc51a248c39ffe5ee537dff8bc7.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/68/8e/cd/688ecd47d25f6a1785d887c7cf006c61.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/de/65/66de659408f671a205246be881f6ed00.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/05/47/6605471166ff02cfdb2753094194ca78.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/f9/75/62f975fed15ffbaf36b1bbc46a1c839a.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/cc/df/61ccdf34780dce82a1d009cd4df775e0.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/9b/ca/619bcaedc6bb114b9ca432f9707d424f.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/5f/55/2b/5f552b653c71c7a2f84126fe03b53d7d.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/5e/0d/a6/5e0da61569dea42cd022f5515626beb4.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/ee/50/5cee508184e2a0edbe7e7fd1aeb794ea.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/b7/6f/5cb76fcecec65c023cf1db3ffee3a09f.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5b/7e/e2/5b7ee2cc14e52d18be7f6d3fc13b26eb.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/14/cf/dd14cf0ac390e6a8c19a2d5aa576183b.png"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/07/7f/6b/077f6b178dcd05d7cc9efc32a73885fc.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/56/1d/34/561d34bcae46729310553c618df76096.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/d1/60/52d16064426820064d434ef0242ddf0e.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/5f/e3/525fe3dd60688150a39ca5572c2c157d.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/ff/58/4eff585a6baf8fd0afb489c38f478962.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/26/31/45263104e16b551999ab29dd84dc18c3.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/f0/34/3df034a984db3d234877f0b67a754d5a.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/0c/e4/3b0ce41e257d4c2408345c29d525b140.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/f6/6e/34f66e666d117e51b21eb21720d7eb07.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/8b/c9/308bc930197780ed8524d800e021fb76.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/26/d3/2c26d32f0565aec6276baa6e3b3e18d7.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/10/c1/2710c1b024fa3ee1a3c90d3622d452f6.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/93/45/23934504c8acd12a1f58dfb2990d80af.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/12/4b/23124b48829ee688890719c1fd0a09e9.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/db/10/20db103285443c7f72d1d0981f8b8634.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/80/f1/2080f1d0fe67c856fccefb90d956bc48.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/ed/d8/1eedd8e56d3d3ece5a04eae929c328af.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/originals/13/b2/30/13b230e7cd861d65445e83f123df7822.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/4d/51/174d51e0a2eb1b92dd6813714d0e3cef.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/5f/09/155f0931ac1eb950ffd8c67a667afd7e.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/14/c1/49/14c149c4614020e05a14d25f36780b72.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/11/6c/4e/116c4e7228b33b310220c7220f700554.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/f3/bb/0ff3bb8501661280dd8865d6cc1b4ecd.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/e0/6e/0fe06e8ea03f4c2758771212543a7baa.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/09/37/41/0937411d135db978237fb22106bc0569.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/04/04/9a/04049a164b845e9176711de68402af48.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/97/2a/03972aefe1f0cfc9bc88b3afc8e9284c.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Black AMOLED Wallpaper",
+      "wallpaper_name": "Black AMOLED Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/00/b8/40/00b84075327e0d04837e1e43790a5363.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
