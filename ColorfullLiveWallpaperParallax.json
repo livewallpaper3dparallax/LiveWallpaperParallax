@@ -1,0 +1,263 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/4751682503",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/9013542909",
+      "main_ads_natives": "ca-app-pub-7316385158012425/1235125231",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/2125519168",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/19/e8/dd19e80ebe2fe277f4e84845e456e14b.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/19/e8/dd19e80ebe2fe277f4e84845e456e14b.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/9c/d7/1f9cd734601bc2a814bfff0482d640a1.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/58/1a/c7581a279b2c7acc2ced17900e5abe59.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/81/e2/a481e2731c1df26dd09a5dfab2f83b3a.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/22/63/9e/22639ea69f2e29dc6a9d7da6ea2d21f9.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/6c/44/fa6c449bec89d3282fc8aba70279315b.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/10/df/0b10df3fe54a46e9d0fc749570816b7d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4f/68/72/4f687222a615690c026bd6d09435703f.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/fb/5f/1dfb5f430c2ff87d3c1fc65caf3ab2bb.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7a/fc/77/7afc77809475d46b0b94c8096b8e72b5.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/74/29/15/742915cacd7b831f600f800fc497b2b1.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d2/ef/7b/d2ef7b0941d25fff00b0f6391e5ea08a.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ad/85/52/ad8552ad24ac3a10b901ee3a9342835b.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/22/e0/6022e0d363ed0aa3fb8c5231caa9c6ec.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/8c/72/608c7270f8d5dd335ef6049238349b31.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/fb/f5/b0fbf5ecfaa47ebfadada21223429439.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/af/42/7baf42a08469f9f0ce5d4d9afea7c4f8.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/94/e4/eb94e4da1deff2d61f46be0a732cdb30.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/61/5d/5a615dbe5e0d44333c6cca8c33e22c2d.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/56/1e/34561e5fd200848fab3f8b7409e41eaf.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Colorfull Wallpaper",
+      "wallpaper_name": "Colorfull Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Colorfull",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/97/4c/2c974c31d6208756aae42c9c61520672.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
