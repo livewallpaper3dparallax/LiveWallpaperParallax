@@ -1,0 +1,1568 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/9966999099",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/8653917420",
+      "main_ads_natives": "ca-app-pub-7316385158012425/3884790561",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/7340835754",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/05/5d/b1/055db1256b76f6f984edffb5691cce49.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/5d/b1/055db1256b76f6f984edffb5691cce49.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/5f/4c/055f4cb56b18db2bc7aa823fbca90315.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/d6/4e/05d64edede2a5f4f7b167888668b6b2e.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/24/95/07249598e5d1cde47cc35272cf304599.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/31/16/07311699102fe44225b6463e2d2692da.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/09/72/f6/0972f63149c8528dc5683cf3dee34c1c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0a/e0/50/0ae05059e18527ae748d4106cbba426f.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0a/f7/e1/0af7e1572eaf2951ab0d17d729ff89a4.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0d/25/d5/0d25d53917d657752571f99f80094ef9.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/10/64/70/106470e2701813283b6781ab6306ca6b.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/12/24/91/122491038c96d9426f9fb7f60a881b0f.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/b9/19/13b9190685d72f67911767a590bbd9c7.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/14/86/16/14861679b15840bc00a61266c0203579.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/90/e4/1590e4087b624f5e5887f714535fd3f3.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/fd/ed/15fdedec7ee2989f5a654228fe5408a4.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/8e/f9/168ef95f3d92598f50feb6fcf31498c0.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/ca/b6/19cab62b22f6c498d9eaf02699cb4aab.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/07/d7/1a07d757957246c5a1a164f9929d1250.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/4e/a2/1a4ea28f90689cc8831e2aad73d80405.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/ca/72/1aca723375d575730dc0aedfb2304fe1.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/8c/4d/1c8c4dcf84994e005dd1ba9e929b5c83.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/fa/da/1cfada1366a22cafc86e64338bd9cce8.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/e1/3c/1ee13ce247f92f2576d50e416a141f2f.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/79/8b/20798ba70522c2b9576111f2bda3f289.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/21/7a/43/217a43272008971dea821d18f49d3237.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/67/4f/25674fb9a084d210314873e683293e32.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/0c/d6/290cd685b7c6f8a39ebe2d6dbac9846d.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/f4/0f/29f40f391c5130bfe52339f1f8edba14.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/b3/ba/2cb3ba98d163e44ef60c5dfb4c97a4de.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/c7/2c/2dc72c3d8c0faddbecc46e702e38781a.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2f/ca/01/2fca0104db23a132f44bd932771924b0.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/75/30/30753018cdde7abe1d3261fd5efe03eb.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/c7/6a/32c76a31e554751317bfff1a02fdde20.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/3e/7b/363e7b7e7c34c9fa040d5a844e2206ae.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/33/32/3e33325f75b1478ad45c702fe5fc648d.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/c9/c7/40c9c77e52a92f4c4ede9083c9d29b90.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/54/bc/4254bcd5ac07fabf09a3f21170997ad9.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/7f/25/427f2525ecf4c0ab63fdc23ebdfc603b.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/63/1e/46631e5cc59a3359c10983d358272629.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/8e/a2/468ea2da1059517e14f0674858f4dbfd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/a1/9d/46a19d53614d099e5238a6093fc0e700.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/a5/a5/46a5a506cb0c2dbb8f52922465ab4931.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/65/6c/47656ce881e59d9355af0e3fd111c1fc.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/a5/e0/47a5e086aeb4df5fe4a0cc561876930b.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/06/53/480653f0a6214cf6665002b1a527bcbb.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/52/c1/4a52c15cd81de230ff3b2e03451385f2.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/5b/e0/4c5be01458a2a176c901b8f748e1018b.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/4a/75/4e4a753cdedcdbf50f16678b200f9cab.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/53/65/ba/5365bad58f81455919fdcdacd36d8702.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/35/52/5535524ab35603e0e8d1139a734ddd1c.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/db/7e/55db7e0c216a270f26dc0674eb43c12c.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/f5/2c/59f52c221d1f585a7fd993cbe00d3f94.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/7e/06/5a7e061533b221e432c2d45e323c7e0d.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/28/04/5c2804bed00d0a67f507319dfe3380aa.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/f7/15/5cf7159544d5f2fc2bcc1fe30f30207a.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5d/c1/b3/5dc1b30ca774f3b1a23a251617047814.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5e/c5/7c/5ec57ce94927b211ba3507d72aabd84e.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/b9/06/63b9060527c6e83d7a29bf9ac6320123.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/bb/36/63bb3691241df221d0a17dca42c7c667.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/03/7e/66037e53f2ebdb75ddd300db288c57d1.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/53/ff/6653ff2755e6709117df8aca2f5d3a7b.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/fd/bc/66fdbc79c124eadc63e01136193958ce.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/51/01/675101869a1cbc8b5ff90ee734709da4.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/b2/68/67b2680198d0711a064f197192d38677.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/69/09/de/6909de7b4828541e6db0ec780e5fbefb.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/51/2c/6b512c83431703efed23d9836e752f09.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/b2/75/6bb27543a5713d91db4bd2eccffe214b.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6d/17/6c/6d176c289f8458b1215bcee428319ba1.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/2b/41/6f2b411eec9ae550aa693c5cd253e71b.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/73/5a/6f735a41e563813252cab5884bd19819.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/84/05/6f840571eb2ee481de4f71b994b3d576.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/1b/05/711b05dc4b6347ead5a5b962d36e9db1.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/b1/65/71b1651c1cbbb48236748af0c8ed94e5.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/c7/a3/71c7a34f1a962113592bdc654e5f1cf1.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/36/b0/7336b064e455132f9fa540ac13c53864.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/b8/d1/73b8d1504da8881d82be1ff87775f592.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/fb/3f/75fb3f451acbaa48af43104dc2de9502.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/8d/7d/768d7de7ddc4b1f1c1a724ae772a92c8.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/28/a9/7728a9f14654ed918e6618af9def7870.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/ac/06/77ac06d3e46c737c378626ae52cfb691.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/78/45/72/784572b01d6f1721d0758f9b70dc22ad.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/78/a7/57/78a757e0220b467c3357d31222dad7fc.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7a/90/4a/7a904a8f12b6c095e890e45ec775e1cd.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/80/49/7b8049c1c292175a22d0e378a64f3b26.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/80/5f/1e/805f1e5ba7ebfc1110ce2bba3f0e9d05.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/80/b5/03/80b503566551de0552417081d25a2181.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/db/38/82db38ea60338f0c9125e720b9ad973e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/3d/f9/833df98ec851dd4dbf48875c6cb8c606.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/76/54/86765495b23dba5b902ca2c062b4aec8.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/b9/fc/87b9fc91d152e2c1b3e445d3155a8672.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/89/2e/df/892edf8c927ed8ed48c1b076d19fa065.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/89/6b/c8/896bc87f44b10ccde3696b5ca6876102.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/a0/88/8aa08878cf4ca892c2ffc3645dc981c2.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/16/ec/9016ecaf41bfb2c608a1ffadbb234d77.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/95/44/84/954484dc7e75f13dfcfb91b0c8f2122a.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/8d/bc/968dbc689dde18aa4b422450066b6157.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/87/54/998754f9d593b2a2c57d2e84d73e51af.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/aa/55/9aaa5584b6a26f53fe05a7c90a7981f4.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/e0/7c/9ae07c039d41dfe0aa8c95fc6dc28017.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/4a/ee/9c4aee9980b984d510cdd1b028215fa4.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/a1/1a/9ca11ab70091e797a443290883f47be7.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/ea/df/9ceadfbc16fe509e065894a73f46e701.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/d1/a2/9dd1a207d1732f57b7987424c4ea0f72.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/28/54/9e2854ab327df422a4ead52704429462.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/3c/88/a03c88221c51ce0af83439c1518b3d55.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/3e/3d/a03e3d1eeffad90d16e67d26e5f059df.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a2/40/5c/a2405c5cc3aeba06d7d9368dbab586fe.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/db/4b/a7db4bef7117ddaf62195833628b6eea.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/db/3f/a9db3f7365da968501f6b1924ea9e746.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/14/7e/aa147e5977fbcfbb9e01fe48b7738506.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/63/78/ab637818ca31929ce51da066e99d3086.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/70/63/b07063bf8c47d908be034bebd31b0e2d.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/98/56/b198563261b096971075902bcb7f82e2.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/0f/de/b20fde240138f3b6d00ecf608c366afc.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/34/21/b434218b48f55d72b71089e78c6d0032.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/31/a3/b531a308aa587d4e73c2b7647f06dd24.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/d4/e9/b5d4e924ce3d501180f8e2afd765a11d.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/8b/b8/b68bb8437dff55a9e9f5639473c09074.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/e3/2f/bce32fec739eb5a913942d2d12d6c34b.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/be/99/3b/be993bff9cbe1ab5aed0de7c01f33782.jpg"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/be/a3/ec/bea3ecb9f499dbb6f769fcbc424f9396.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/86/f6/bf86f6e5918e12779a67ac7d4fa473e0.jpg"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/97/ea/c197ea5c5081581581523e31d1b49d2d.jpg"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c2/26/98/c226983140d143c0ef5eb6edacb7c132.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c2/2a/e4/c22ae4c2418abf997ae95335782af435.jpg"
+    },
+    {
+      "id": "731060952026444941",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper731060952026444941",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/07/ab/c607ab728a031ad78106be392b562b9d.jpg"
+    },
+    {
+      "id": "611715561905282987",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper611715561905282987",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/da/f4/c6daf4e347921090ace7e5bd05f4c35a.jpg"
+    },
+    {
+      "id": "762163936957845179",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957845179",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/95/c3/c795c327f8228503b44f493c08da8ec8.jpg"
+    },
+    {
+      "id": "762163936957544557",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957544557",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/d8/d5/c8d8d50e15d681bf969e7cd806191880.jpg"
+    },
+    {
+      "id": "762163936957544550",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957544550",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/52/d5/c952d53a3358886df1fa963b98046425.jpg"
+    },
+    {
+      "id": "762163936957497726",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957497726",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/96/fd/cb96fda561410dcbbdfa53653c367181.jpg"
+    },
+    {
+      "id": "762163936957432366",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957432366",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cc/fb/49/ccfb4945989f4b2952f5ea0e9dba1adc.jpg"
+    },
+    {
+      "id": "762163936957390277",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957390277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d2/e1/5f/d2e15f134fc9802e242c598ac5b2d29e.jpg"
+    },
+    {
+      "id": "762163936957370733",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957370733",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/8e/5b/d58e5bfff35f8372c737e86ae8c7633d.jpg"
+    },
+    {
+      "id": "762163936957354584",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957354584",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/e9/c1/d5e9c1f25127359322093c0bdb4c7e73.jpg"
+    },
+    {
+      "id": "762163936957354561",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936957354561",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/3b/51/d63b51386d90f678e8bf5e5da1c8f914.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/6b/2f/d86b2fe6c9c7b9e88a3235890d8ad406.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/0d/c0/db0dc03843abc9b0d01701a80f24e6d3.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/6c/05/db6c0531e26123856cef62f657c05053.jpg"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/4b/ac/de4bacfc1fd5657ac37b18a8a90eeb64.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/df/ef/4b/dfef4ba5c1d39fcda9bcbf572e70768d.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/87/a4/e087a4558077f9ebb18ded3b2865e29a.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/0f/b5/e20fb540dbaa7af8b6ee5b3979ed7db8.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e3/ed/97/e3ed97682b2b6c3ec7ea2eda84833191.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/94/4a/f9/944af9e1d6912834d90b43b924905729.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/51/8f/bd518fa6290e5d03833a502296fa85f3.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/0a/0f/e80a0f4d7ff32a4314ae87b0bf6df60c.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/c2/14/e8c214f0725ad74e1f1a9216085bff2b.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/cd/87/e8cd8702d309f2298ecd6384c0554dfe.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ea/46/de/ea46de0c3b1bd24ddedaebe399434819.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ea/9c/42/ea9c42b6312c2eebaab5cabd47a00c07.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/65/80/eb6580352db4fce2baf9240a599815f0.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/e4/c1/ece4c1bc3ef08483306898f1ed30cf18.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/9c/12/ed9c125490d13f7afe03f1026c216f3b.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/39/76/f039765f5d57eef37c3dbb4a82ffc7de.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f3/22/13/f322136c7091d8426d57b728f90b4d0f.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f8/4d/3d/f84d3db65fc34867f9cd159acd2a0811.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/91/d1/fa91d1c08d96d48c6d26656ee8c8c785.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/12/00/fb120053e8f41b2bcd7c8a95704ef355.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/27/eb/fb27ebb598c15c210416eb0cf2a6bba4.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fc/55/3b/fc553b395340e662ecfe9c9511695d2a.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/14/cf/dd14cf0ac390e6a8c19a2d5aa576183b.png"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/07/7f/6b/077f6b178dcd05d7cc9efc32a73885fc.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/13/02/ba/1302ba2180195f70850f8f57696e85a4.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/5f/7b/f5/5f7bf5ebea083dc36396b0fcdc6204c5.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Cute Kawaii Wallpaper",
+      "wallpaper_name": "Cute Kawaii Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Kawaii",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/6d/00/11/6d0011e060f3a4a026a4478e06a4d574.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

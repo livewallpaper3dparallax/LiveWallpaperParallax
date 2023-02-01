@@ -1,0 +1,1073 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/6308338573",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/3469857594",
+      "main_ads_natives": "ca-app-pub-7316385158012425/4995256904",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8878096949",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/474x/e2/e8/29/e2e829a807b08e74cbb0aa586a263e4a.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/e2/e8/29/e2e829a807b08e74cbb0aa586a263e4a.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/da/3c/98/da3c9866c983c8a7014a76004e18a5df.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/c9/30/7e/c9307e1c64c0e0d575957435579c1862.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/7b/8d/81/7b8d81f5d47685404bfecdf9aa3edf97.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/38/6c/7f/386c7f5aa5490ab1a6dd26b02aff503a.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fe/37/44/fe3744356675674c0274f6bcb2cb6495.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/c3/5c/fac35c0fad22891c76e835c9cae6ed31.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/46/c3/fa46c3238b036851f0c02ebf512799fd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f9/51/1c/f9511ca16e031e1c8bb462bc81d40b6c.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f8/30/f3/f830f374e8d26a4bf5a3bf6503873fa1.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f4/48/41/f448415093dcefa90c4e9744c6341507.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/9d/58/f29d58e5c304b66de51d3cf5055d7feb.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/04/a4/f004a46f0c7f108dfdf1b48d745c3553.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/4a/b6/ee4ab62c3b99f73b759a497a9a55503f.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/0c/97/ed0c97017c1fb367ab315279bdd4e1fd.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/f7/6f/ebf76fe5d43b1507938137d5de7d638d.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/5d/8f/e75d8fcb14343eb76e65916c871c1c54.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e4/6b/67/e46b67204bc820f8ba24d992721962aa.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/84/ae/e284aef88038fa676d183b2123585176.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/c4/a4/e1c4a4acfbe0645910826cdb0f6abe4b.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/b4/cc/e0b4cc7f80802f5507dcbdd5846373af.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/84/1e/e0841edad31e5a5cfaa5840df3985ad0.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dc/a0/24/dca024f741409390f6f651c47a569c75.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/00/8c/da008cc8402af8c6b473e8c1e4b77dd2.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/e6/e0/d9e6e0126e9cf8ca543a1ca26c9b176c.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/49/bc/d649bc996872561b0ec6150ad73e1bcd.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/14/2a/d6142a69fee69b7103d09ab7b42b02e2.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/cc/18/d1cc18ebf74d098e624e9ecc025c2095.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/42/13/d1421390c97fba17c62c185910b380a7.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/91/11/cf911168c63c2c2629288afe83e8fff0.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/90/c9/cf90c95dfef077aa3acf7ed8c64287e2.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/6a/55/cf6a5513bdbce26e72c5b52e6b829ecf.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/7a/85/cd7a850444d29c58cf23892e1c9a442c.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/3e/b6/c63eb690ba36ac7eec4cfce265234f7c.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c4/6d/10/c46d1009fb3034c5ad834bf96eeae54f.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/f8/91/c3f8917ab9e5065e427627775ca8f29a.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/8c/d3/bb8cd3014bbf1a8d081376ca6041cf2b.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/7c/58/bb7c581bc074d56a331ebb8f9707eb88.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/0c/f7/ba0cf7a0a03b329a335284010c6c76ea.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/34/b2/b634b243a1512fbb671f3fb63dbcb677.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/c9/90/b3c99082830b8fd325ef368767d0e036.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/9e/90/b29e907580eb244e5e89da3fe2fe1dd7.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/f3/35/aef3359d6d36e4042a2f9f0c2027a048.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ad/8e/82/ad8e824e73597542869e56afec2321a4.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/ec/95/abec950848348635b4c376e8a2b86fbc.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/c4/3b/aac43bed40ad85255105b744d32eace1.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/c2/55/a8c255676af0980df471c0e6a93f3c97.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/3a/56/a73a56da83367841315d0f80d06fd9c7.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/1d/e6/a71de6f09860e7d081bcd9bc31707db1.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a6/6a/01/a66a01bbc0424601c607e9bbab718552.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9f/52/7b/9f527bf4ed1abf78f8043a607a997f10.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/32/45/9e32452f7ca13d9f16a83f11b8340d59.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/87/3a/9c873aa1b99ec13647f50eaedd7ecbbf.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/72/f7/9c72f7bba6fecfb6d169510b8f3d689b.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/aa/c8/9aaac8ae1c04ba4dee483471304c6168.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/98/da/6a/98da6a536e66f8214bdbfd18e139d894.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/de/a7/96dea77254755e772efe588293b01fc1.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/b5/ba/96b5ba71b256e478631d4b0cb478ab40.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/a9/a5/96a9a56ba78e0a140b8bc04fbccb1d75.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/d8/6f/90d86fa79cb29457c6620cc24f61690c.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/81/39/8d8139514222ec77369e29322c0eaa23.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/98/1f/8c981ff5b59953b3f4de384fb5b99ca5.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/19/47/8a19477c8b41d037be71644e58dc1671.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/05/7c/88057ce23a5df83da0999653c250fd20.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/84/a0/8784a063ba0c35e67849945f488b406a.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/21/3c/84213c3640ac00afade35f30a68b377a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7e/b3/4e/7eb34eee7388fc4b779d85b9ad1ac4b0.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/aa/6c/6aaa6cb01d4a71727f1c935d60969678.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/68/17/13/6817130632a61b8971c2ba55d1995f61.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/30/73/6730733da715cdb151c86100229b7f05.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/65/e0/b1/65e0b1ddd91f338ec91960055271dfba.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/64/b8/0f/64b80f2b94a5bc9bc41df960f21e749f.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/ce/b3/63ceb3b820144a7d3785348a4737846a.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/81/c9/6381c98fda3c026a4af485b427f457fe.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/22/63/5922635ea599e1a16822532b69b9d67e.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/56/c9/c5/56c9c50be662aa56d19fb401dd5728d3.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/54/40/14/54401440f30af6ad5eae49f7bd4750c6.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/c2/38/51c238eb64f9f1e13b27b0ce8ad3babc.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/ad/c7/51adc7a9fbf83642292bd9b4648840d1.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/1c/db/4d1cdb04f191fc68699ac5c526b6c6fb.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/79/cd/4c79cd59d6d9e13e96fb2b55bbf1486b.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/2c/5e/4b2c5e2c238358ef2dc3a3e2202b766c.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/da/e8/47dae819e8a505f1fcbcad6526f2508f.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/c7/a1/44c7a1e9c3223c2ffaea32de68145643.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/d4/aa/42d4aa4d6658301596e5cfcd08fc09b7.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/62/fe/4262fef64520377d095f59aedf592f52.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/1d/d3/421dd36715b5fdee15e84fa012983312.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/ec/46/3dec461abfe4947a7b43b67fde826033.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/d8/0d/3bd80d75656eb44fb0a63a6f212202bf.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/63/bd/3b63bd965ba37ef683cef1e03fd5aff8.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/3f/1e/3a3f1e0f966d1a093e4468537b55c8ae.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/38/b1/f5/38b1f597b6934a262af4343a03a82b5b.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/38/21/5a/38215af90a0ba01674dcb84d8e90a0e2.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/7a/ec/377aec8cf8083a745a98bdbc148d1832.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/74/f4/3674f49f9017d7258314533d707eac6e.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/14/85/3214859123be05c8cf44b15a704fbed5.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/08/2b/2d082b9c06728d85ebf8c61d8984dae0.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/f7/b7/29f7b737e57bf4ed5f1c3341ee2e855a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/7c/02/297c0295e9938642f89c29e6d0494761.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/93/07/259307e3ab5aff70c551d27c97119361.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/e6/be/24e6be30b1ea72bb872b004ab3833315.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/c6/71/1bc671b05b08f2e434310d9f7d3f72ba.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/50/a1/1b50a1d6778d7816d93d46c0af47bb9b.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/18/e1/7e/18e17e0eb63ddf19cf08ed01dfabe782.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/18/c2/6b/18c26b75e41bb96790f89ab7e5c5d6a3.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/a9/2b/17a92baee555edd59d21a11ea61f2c43.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/12/df/52/12df52a2f7cd1301b2193e9d43dd046d.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/ba/77/0fba77e2a26a230d518ec98a4ace93e9.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/3d/88/073d88fc198d6f034c6a71d694363167.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/09/96/0309960db97a87f88a35cd2c4aa51584.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Profile Wallpaper",
+      "wallpaper_name": "Cute Profile Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Profile",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/01/a3/2f/01a32fa4af6ac45db4cdd858f4623083.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
