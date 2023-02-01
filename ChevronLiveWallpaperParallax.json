@@ -1,0 +1,1082 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/2576675807",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/6779080043",
+      "main_ads_natives": "ca-app-pub-7316385158012425/6395936666",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/7254287411",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/48/04/05/48040536de012f31abad10e64a76a695.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/04/05/48040536de012f31abad10e64a76a695.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/1e/4d/8a1e4d17773c21c78cfdbb464c22868d.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/90/ed/6a90ed3417cf920a54555286c1832e3b.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/c2/33/a8c233397d0b29ad6e93a2fa32f50776.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/23/0b/2c230b7b077db3e11c103c49b13dc283.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/c1/33/b4c133534238441423ad1d717104379b.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/ee/1d/27ee1da68a03711e255579d9935baae0.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/bf/10/c6bf1099da66da5846697f79dca6bc50.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9f/e9/8e/9fe98e347a9f666d74ffb3cc4705d4dc.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/4b/54/394b541c219b8b5ae4a99fa7977819d3.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/77/8f/75778f81148141816f887994566090f8.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/b2/0c/a0b20c055e6af3c8fea0bec88c5efd0e.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/ee/d4/97eed4d46a16d1d94fc465665f91bbe7.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/21/59/6a/21596ac6cf48fd11a0e83f0ab3ca935c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d7/28/0b/d7280bee549a0fdfa4bbfce9d30f273d.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/eb/4f/b4eb4fd7c6232d3b0877a0c4bc096fc5.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/02/e5/d802e58413bc0294ebe532184350f692.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/07/5b/2d075bf900f53304ac50fe051a255e3d.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/26/58/f8/2658f8ac8a932c48cd9488c4799b60bf.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/a3/fd/1ca3fd8406ab56d18b6b304e824209ea.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/9d/33/a99d336558218a538be1620913d4250a.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/15/0b/e0150bd4ca323ad71cdab86ddba45912.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/4f/0f/d14f0f838fdb4463ba275eb54a6fe94d.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/f4/a5/2bf4a5b71a44ffb38a5acee916f8fd11.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/3e/66/cb3e66d4431590226291b0c3a578dd15.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/01/f6/8f/01f68fd73d6301c69fea8b196b9abb3d.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/54/51/8d54517c96bc74a4260d593e2c44f009.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/35/0a/61350a5e88fecbc4ed2941bb6f971cc8.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/7f/70/eb7f709c1bdce95d1ce29354a5283bf5.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/e3/42/b8e3423dc394b4fb9222b83563ced174.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/94/f5/7994f578f20ac42e64a4c27e04dadb3b.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/27/2c/e0272c5f4c6247017263b833a7f6b718.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/17/4d/02174da8f263d1a7569dda208f3742af.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/f2/17/3df217e58e4665fd1cd1f3a005ac1486.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/48/3a/23483aea12b12fb077d280de3873e500.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6d/46/18/6d4618f314d8590b072080cfff990ed6.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/bc/0f/cfbc0ff48c689db8afcb3953058e1b90.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/8e/6d/278e6d2a4bda1326ea48eadf68f9db38.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c2/6e/d3/c26ed37ca1e279c0b5431815238b78c6.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/3c/14/8a3c14b4cd1008234aed3a64bba9c5d1.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/28/a0/dd/28a0dd70047402d01373380e706b4506.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/736x/84/33/6a/84336a60568b668678bc2c3d27570dc5.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/17/93/c61793ef81287b598e99153735d65866.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/26/57/452657cd79767af16263da765723e7b8.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/3b/5e/193b5e19f498981e0e9bb42e9030c472.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/00/35/4d/00354d921639c60dd8b41272aec59c22.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/10/e3/f4/10e3f4bf68e400125ff7a5be36a7e7bf.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/4f/6e/c94f6e962cb49e4797734bf919661569.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/55/62/b555626da62197e40d4237863825c768.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/a6/10/05a6102d8e502cc4ddcff3dc1fd847e8.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/64/00/136400ae34ecb7382c0a8b84d0a90f27.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/d8/1d/84d81df5c576f59d71d13354dc48f568.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/ec/12/9dec12896da1641773a85df398427d33.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/ec/c2/8decc2b48aa652e0e620679650494256.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/48/07/0248072c0cd1143f9fd52aa84705a59e.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/6b/fa/026bfaad61fc9a8ca21aeffd1e3d4d09.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/cc/8c/05cc8c04a3eef6f84adf618ac9b681e5.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/1a/f8/081af8d92245b403df794f70f13e6db2.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/f4/64/0cf464e9085f49eedbbaf4d25f30a0fb.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/fd/5e/0ffd5eaa36baf0ca43fe76a41966f998.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/ba/db/13badb7b69bd37fcbb583734bd857772.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/db/d5/16dbd5484ba5d19ddab7f03b3f3ef9bd.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/f6/d2/16f6d2f3753333ea0c0daf21844b8fe1.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/e9/25/17e92506b104de74089f6596613bcc0c.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/18/21/fb/1821fb8bdb8c0699532aa48dc0aeca84.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/f3/40/1bf340205af455bcba5bfa2c8e5b440f.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/21/39/03/21390361690c69205e8b7006363915d1.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/6d/24/256d243cc4fd8cc9430ef01f15dcc4c3.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/3b/e9/373be927982d2811468cd530c6b3659f.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/0c/54/400c543f131d0e5e5c3f6a2630d8f391.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/6c/e3/446ce39f2150a23b258651a657b22947.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/3f/70/473f706146c08b07b8948dd729a1b063.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/6f/b7/4d6fb74cd7477cac2875de41af490d8e.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/5b/e7/515be710606f487d22b06aac67ff85a7.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/07/6f/52076fe95bbc2b770f3fdb8563a39619.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/65/7a/52657a8b0223089a1863c84a22c71f5c.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/ce/b7/52ceb7939509925073a53716c7162c4c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/00/5f/57005f93409ed16372c9befb8a9b5c3b.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/2e/2d/5c2e2d477e5cb6ec2b3ca5e195631520.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5d/09/ee/5d09ee2f308a844e0400c899900679fd.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/33/b4/6233b4171f30beab66b24bb233747431.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/68/4e/fa/684efabc992a9895324ffd97098a4630.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/35/f9/6a35f9d9f5d99dc051aa8b31079f5fec.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/af/54/6eaf54fd6db2e92dfc4951fd7693f1d4.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/33/77/6f3377c75921d9a017298e0845376c27.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/3e/31/6f3e317a69ac53d965a244d5a532475a.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/de/64/6fde643a147cc517469939e8e5e1bc5d.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/8e/7f/858e7fa75ed7d23bcee6b27dc9bc6525.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/52/1a/8f521aa18f14c5cdfff263d87d5ef5c0.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/1c/3e/9c1c3edb5e153fa638b4fe561d15b979.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/74/6c/9c746c8a9dd3989a6f760222330b7c5e.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/d8/79/9dd879b89f04760b04f317484d452dcb.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/71/82/aa718294a3fed34ff0509cddc6c563a2.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/22/77/b12277a1de44480fd92cfbb79cb04e11.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/97/aa/b497aa14dfd94e982ec2e146be6043a6.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/ea/d5/b8ead597d4cb92e63d156ac6201583a7.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bd/76/b8/bd76b8125672090443484b4eba760925.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c0/f1/a4/c0f1a4d4cdf75dcb27215ed0816c2c99.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/f7/54/c7f754019954dc86e561e56cfcb29087.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/05/5a/cb055a3696df0b9ff66227d22b60e2c7.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/1e/63/cd1e63262ff67d27874abceb8c2aad91.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/69/58/ce695833a12b33f0db2124f7448e142e.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/27/2e/d0272e609b41db570a0c5e16c9a68243.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/c5/07/d5c5075b744866688da438f5898519d1.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/26/10/d82610145ac7783f2808aeb515dfa5de.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/13/c0/da13c0a7b2d1e5a6b9a2751444c1e322.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/bb/a0/dabba0921e1cdd25a9c4dad7628ae844.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/35/40/e13540ad01dc54724f9a122a6572d2ee.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/9d/66/e69d66fa080d78bae1e659b70eb338d1.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/af/c8/edafc82a71e8ab168d2d563b0c96c05f.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/59/47/f65947652c50508dfb9a28f3097952f1.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Chevron Wallpaper",
+      "wallpaper_name": "Chevron Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Chevron",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f9/d9/2f/f9d92f40f583e092f9bffdf569e57f05.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
