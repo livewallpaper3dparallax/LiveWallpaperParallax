@@ -1,0 +1,1982 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/1739603830",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/4361897749",
+      "main_ads_natives": "ca-app-pub-7316385158012425/5757341095",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/6800358823",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Boston Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/02/a3/ef/02a3ef60680199f35ff9c759edcf5570.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4d/3a/b7/4d3ab7c9abc34de79f5f1cf13364b7cf.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c4/0f/30/c40f30b9df1a245be9bba8c45ee5ad20.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/80/4f/9d/804f9d9f98aec636235b4de0668b4b62.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/89/15/1e/89151e7d9aca8bc332e4e4bdad6ca35c.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/69/99/95/6999957e7bd7525eae54f5eac6cefa3e.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/7d/3b/0b/7d3b0b84b804c5107ce5c4480178c61d.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1d/81/f1/1d81f1df5713a14b1a74b9809fb3b545.png"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a0/6e/3d/a06e3df1c21017fabefe442e0cd0383e.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2b/cc/d2/2bccd2c58b116f60f76ca4d9586d5eb2.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3f/d3/ea/3fd3eab404c904b53751bf41c971c9f8.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/43/f4/cd/43f4cdcc8837cdb097b592c43bfe4e91.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/7a/cb/7d/7acb7d3620e2d67d3b920cd9e44d2c82.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/36/3d/4d/363d4d3f53bc99bd7cc9577c49ab7cad.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/47/78/0b/47780bc85dda9875a4022192f64451b4.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/97/20/b4/9720b4ac606dc0af900f61af51692784.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/78/f2/a9/78f2a923e54b3e0d518c5c2f7fef29ab.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/01/fe/29/01fe29450f8df08277a5ff8007e59a41.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c3/46/5c/c3465c6d5b6a713b3fefa629d4674f30.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d5/7f/25/d57f25c73c93a078a85372fb0e3d1bd5.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/93/02/8d/93028d0d4a848cca46e6b474df4da9f7.png"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/9c/49/27/9c4927c07a97e9571e4bc2236b42cdc0.png"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8e/46/f1/8e46f18053246cba61839427ec19c8a7.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/41/54/dd4154a599f5d4f01c4b0583236b07db.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/30/65/27/306527318c6036dbc22f049dd8da375f.png"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/43/a8/3d/43a83d717c45c058c819bbcb9f48820d.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/91/72/2f/91722f20f81563440cc7ac578a11fc7d.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d4/47/f6/d447f62c44747abe655616d5e0c311f9.png"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d9/34/7a/d9347ace09d9a18856cbeaf6ab94f595.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/12/11/f4/1211f482c972d6b6ba58be5741b1990a.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3e/58/3f/3e583f33527ebb6c188d9120b2a2b286.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/81/0e/40/810e40e251cfa590085c64928b062aaf.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/6f/db/0e/6fdb0e9f302061596ceb6196c60aa26d.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1a/3e/e1/1a3ee1e83c2191a213e5a69ce6feba62.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/04/23/cf/0423cf70888a80cfd7bd236376600d50.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/16/c4/72/16c472e7109981ab8a3318631a753abe.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/fd/11/b6/fd11b6fd04fb355aa7c6c3d44ae97c9d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/14/2b/d4/142bd42b6a3b781eecd168a6ed67878b.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/41/ca/bb/41cabba6567f8f35390a2a3c6fa9ee81.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b0/9d/ba/b09dba76ac201000bc68a4493b4e5339.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/87/6a/22/876a2287fe796e0542340c068bf3a592.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8f/88/76/8f8876d6706f80b6ebb6d8b98c1288a6.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/9a/d9/bd9ad9c366837f6f94b2fb510ac35386.png"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/06/c5/5c/06c55c1f731be46123858f528606e192.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4e/70/6d/4e706d67154b607e86c9c7511de282b4.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c6/d3/a0/c6d3a0e215b2aaa4aa5a9b9e556ad818.png"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c5/14/d5/c514d53ea3eedd4b8025aafebb149328.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a8/f3/ac/a8f3ac86b152badfc1182f9d7b637c45.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c0/93/46/c09346a904b21facdf0b87eb93a4291c.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/89/38/ab/8938ab50ee0df71abff5e35c9c3ce140.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e0/5d/e0/e05de0082994c3e7899abb95a0653c3a.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/36/11/2d/36112d0f5c3544723a4c4b3940e8f072.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/01/94/73/01947325fe46caa62df6e944581ace3d.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/e9/71/4be971293dfae04dc578f89ad8c634a4.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/07/93/ca/0793ca25b6464d92bd90097651347de3.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d5/d9/d7/d5d9d7d098c170170779c7a662889986.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/32/0a/11/320a11b70b9da1a4c3d91bdbcd87d805.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e8/4c/b2/e84cb2438c5eb2798829661d0bd32b52.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/63/40/91/634091d40a3c5bd27fc0efcfcefa0ccb.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b8/cb/57/b8cb572d23b32dadc00f0afe1dc23023.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3e/58/f1/3e58f1ee30c58fee843e28b407943fce.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a0/c1/6d/a0c16db2390c992839572d752e9a0171.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a3/b7/78/a3b778713a9d47e73988573cfeba4322.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/79/6d/6f/796d6f25d54e5cab8f3c252b16335a70.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/03/96/f9/0396f96c2962a5a485ad3d77d2af2ba6.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ff/9b/6c/ff9b6c5350b1121c71bfdbf821643f99.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/f8/b5/d0/f8b5d05d561eaf36c00ab878ab3ae6e2.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/61/d1/81/61d181c152ba5f3f383e9c4f6743c7f2.png"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3b/5a/d1/3b5ad1ea729b834ae9e8024d8f5b9943.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/15/10/88/151088d50a764f41d864625430ab2c3f.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/63/1a/a1/631aa1b78d771c968830bbe00f4a8fa5.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/fb/3a/48/fb3a48dde868cc94a04ddd278c6d98e4.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3e/7a/2b/3e7a2b3a0027642c0d6b7df69e115c8d.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/53/a4/52/53a4524fdcfd38027a7281598b51ce4a.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/70/54/2a/70542a2cd3b9a327686c93a04858e7c6.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/20/d7/d4/20d7d4a145ba939226e29a7c60920cce.png"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/63/2b/97/632b974bc88a8f8f2dce0b613652ea8b.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/bf/87/de/bf87ded25bb769169bc152f67f4971be.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e3/09/93/e30993ce05cfcce1a18f604b312fda34.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d4/47/1e/d4471e9902d4f452ec2c4ed3fcb06887.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/da/0c/7d/da0c7d952d2d465dcccedc5300dbb233.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/39/35/62/39356291cc3afcff729e207ee0ef2eca.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/49/03/2c/49032ce56f5c8b1edb052e2f1963b46b.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ea/cf/e1/eacfe16e95a842935d450a38f9a9b594.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/37/6e/13/376e13d19950fbeea55e44791a45863a.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/09/5e/d0/095ed0ddbd11c20af863fdc2dd7893d0.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d1/e8/33/d1e833f21da2f59ed16fbffaa5c890bb.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1c/67/c7/1c67c798b246ceed933200a471b6df10.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/71/8f/22/718f227629bb4e959d8a38a6fc4b6fb9.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8f/89/ae/8f89ae68b569e69000699d0b6f95a5ab.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3d/3b/dd/3d3bddf3d1de8cb8d8050fe168e47d3c.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/79/5a/80/795a80ca7672930fb6ac3f30f44172f7.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/48/92/01/489201a6894edb56452b65be8899a28e.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/0e/c8/4b0ec88dc1defdc1e10790efe440f576.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/31/a3/c2/31a3c2464fd9bb07ed25862316393957.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8d/29/69/8d2969849bda42a7b624d920395fbf08.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/61/99/7b/61997b8c4df37186f602a5386872b718.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/86/e6/dd/86e6ddf878d244ff1adb65b2a487c70f.png"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/40/6a/a0/406aa0f18c7a2567455063456f73834b.png"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b0/37/e1/b037e10a09f00db271590099fba98b3b.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/f7/41/8a/f7418a19c967c6ad052eaf7e9661fe8b.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/21/93/84/2193845c9cf1da2082631782f8f06dbd.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/0c/fe/4b0cfe77931555660d13cd9f95d8c35c.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2e/16/7f/2e167fe75b15f179a135d7240348ae37.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/89/61/8e/89618e1b8964841208833953c38e7c98.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/cc/03/72/cc03728ea6c0cbab84d8eb12a46f5a94.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/fd/2f/c8/fd2fc87e421defe5a0ca2a638f86381c.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/9d/36/f4/9d36f49e9ce3eea1a1f9dada7999a843.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8d/71/4b/8d714b4a2796acf436fe75b1a1fa4d8f.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/57/b5/12/57b5128a028e98b31dc740183bc1fcee.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/46/55/3b/46553b174b61e68ab7169300996111cb.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b8/00/be/b800be5ebc01722029f0fe847cdc9b46.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/f2/a2/c0/f2a2c074b7f9272e17c9bfb572c0aeaf.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4c/1c/ab/4c1cabff06e96881488a431d25c45986.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/95/1a/7b/951a7b9b8455196ba42560d399b6be1f.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ea/f4/36/eaf4369cc77a8162f1a60a1ec2889bc6.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/9d/6f/39/9d6f398aee3fabe79115e125ac4ca02d.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e4/85/06/e4850699241f64a1ca81af6b745244e1.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a7/d5/59/a7d5594d7a07fe4791078d9e5dab1a07.png"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/aa/22/66/aa22660e826d5fd78f45c4cacac3d851.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/14/01/bd/1401bdb5d62faa11ff8887fef34ca23f.png"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2f/ae/c6/2faec6b2683be56f55ff72da29d90978.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b3/18/4d/b3184d1fc215aa60224f9530ce558dc6.png"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b1/83/84/b1838428b8cd0f0011fa38900094f2e5.png"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/f9/82/00/f9820047a3b2ef6bdb68bc1982546cb3.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2f/01/1d/2f011d23fd1875bb08d5cedf3b692047.jpg"
+    },
+    {
+      "id": "731060952026444941",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper731060952026444941",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/05/43/48/0543483f14115fe513ff1bb0aa3d9a08.jpg"
+    },
+    {
+      "id": "611715561905282987",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper611715561905282987",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/7c/82/e8/7c82e89d4762c1ec618e2b1b513d8c2e.jpg"
+    },
+    {
+      "id": "762163936957845179",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957845179",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/eb/ed/f4/ebedf4ac06cfd3623f88d4152971f326.jpg"
+    },
+    {
+      "id": "762163936957544557",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957544557",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/77/c6/6e/77c66e9b416b9a028a0bd5175a67b0e9.jpg"
+    },
+    {
+      "id": "762163936957544550",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957544550",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/56/4f/10/564f106274c2d9c45268ed89e3e365cc.jpg"
+    },
+    {
+      "id": "762163936957497726",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957497726",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/29/62/7a/29627ad50de7ae59a052a26d0d8679e6.jpg"
+    },
+    {
+      "id": "762163936957432366",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957432366",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e0/2f/00/e02f00d0348b323cdf110946c692d992.webp"
+    },
+    {
+      "id": "762163936957390277",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957390277",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/94/b4/cd/94b4cd42d1a00359d9f3f72d08847b92.jpg"
+    },
+    {
+      "id": "762163936957370733",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957370733",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3a/e9/66/3ae96697f52dcb5f6ee3b1d6160d12e7.jpg"
+    },
+    {
+      "id": "762163936957354584",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957354584",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e9/71/8c/e9718c02b261dd12af4604392802fbe4.jpg"
+    },
+    {
+      "id": "762163936957354561",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936957354561",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e9/62/b0/e962b03e7a2b97800111682bd7e50f28.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4f/84/d6/4f84d6db765572d3c8c0db544dc006af.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ce/29/e1/ce29e19ecb76ef05a0772d32944919d7.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/46/31/1a/46311a37e730b9dfe8d451f31768ef68.jpg"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/39/46/40/394640837cf9a87d970dce67cafbfdb4.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c6/a6/2a/c6a62ad0041c6bd69b369f0ef02a3564.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c8/1f/d9/c81fd91ea628e8b713445d4872978b5a.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/7b/4c/fd/7b4cfdbb7fd4cd7b80603cbb631f5a10.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/42/b5/99/42b599c7d735d0e2ccd7df3b0529b934.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/94/4a/f9/944af9e1d6912834d90b43b924905729.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/51/8f/bd518fa6290e5d03833a502296fa85f3.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/37/81/61/378161f1bf577d06b527c910e6421e96.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1c/2e/20/1c2e204174d62226356145f3cdb8a432.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c9/c9/ba/c9c9bac1cb51f41bd5cc29c396f58f9c.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b8/56/9a/b8569a15d9fe0eef749b0cf2214ee771.png"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/09/99/58/099958f29b9b2b0526b026cc851b3144.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/57/9e/92/579e9241eb382932c999f66f71e65adc.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2c/a4/f5/2ca4f57f08c32c29ddaa92055f613f25.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/75/4f/dd754f85ed88f67f67fafe9bc678ce4b.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/5c/91/0a/5c910a6270079421e5ade211ba6d2567.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/86/a8/71/86a8714596f75f11dd53b9b5d92b37c0.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/93/53/15/935315a15b1d9fd8cdca77cf7b8eac3e.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/6f/f4/e0/6ff4e04a891f0d3619138d419ea303d4.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ee/a8/5b/eea85bdf8266122d44881337d0b8b6ff.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b8/c2/9d/b8c29d9d5fbf17c1f783312dfd3505f5.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8a/17/28/8a1728cb1506eb30db5232ff820919fe.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/14/cf/dd14cf0ac390e6a8c19a2d5aa576183b.png"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/07/7f/6b/077f6b178dcd05d7cc9efc32a73885fc.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/99/f1/96/99f19633af89f11ab8ddb32f1a88e78f.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/97/4d/ff/974dffb62aad420e4774cbd876c9d05d.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/73/3f/ac/733fac893e38289e597ce48166307283.png"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ea/13/de/ea13def00c82b8aa7face78ce3f65c62.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/38/ac/1f/38ac1f735ef6148df93e637317e278d4.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2b/65/a5/2b65a50f570cbc143354b0620b384924.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8b/ce/96/8bce96da2dd19449b7efc63f343e2ded.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/8d/3c/d3/8d3cd31f0a4e8ccab066d17954669275.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b2/6e/db/b26edb1833949de884e412a98a7e56ee.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c2/0e/c4/c20ec46e1bc147d28980f381b160df0f.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b4/25/d5/b425d5b5cb76d17ec9312a84b1255bbd.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/45/44/57/45445710c7401f941a911dee594b7b60.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/93/b1/d8/93b1d85a851645f8ce50c66ed98df57b.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/52/98/a7/5298a71dcb7947ac8be1fb73c4dd5d62.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c7/20/f7/c720f7b9f9e4a832c6803cbd99fb82d8.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/ed/d8/1eedd8e56d3d3ece5a04eae929c328af.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/13/b2/30/13b230e7cd861d65445e83f123df7822.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/84/8a/bd/848abd0265e29e5cda1e17a52da1643a.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/fd/53/80/fd53808062df4858ecaf9c955f91f192.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/9a/16/51/9a16511855ceadcfb3f91875c631ea29.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/d6/7b/fd/d67bfd33a5f9abbb2a62f55c8fee1d4f.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/32/fe/40/32fe40e9c6c66045b229b3d2892f4013.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/b5/cb/58/b5cb58d22c8e5b6abd38875c62c31046.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/cb/e9/5c/cbe95cfd393033cfb30f2a86a102fdcc.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/11/70/35/1170355a73921c81a726e30b3e3ac639.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/6e/38/b0/6e38b0ed47112dc008af9a15b8a806cd.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c8/d5/73/c8d5736cc7e362dae97073ba3872953d.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/73/64/06/7364064871c5c4f050d833a6ffbedd62.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/61/99/d6/6199d6d43cfd0e22ea03dde39857f9e3.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/9c/1d/19/9c1d195988f9afd180264a8923ea5e2c.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/55/b8/90/55b8908772d53a4b9e072b978f91d0dd.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/42/9a/b5/429ab5ca03d134a6ff6adf87e8edda40.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/ed/d8/1eedd8e56d3d3ece5a04eae929c328af.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/13/b2/30/13b230e7cd861d65445e83f123df7822.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/62/bb/11/62bb118598c757d0d1ad88b07615bd64.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/7d/9f/40/7d9f402eed1dd61e23fa6e9ebade1979.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/f9/e7/71/f9e7714fc46303badb56e1ecdd7dc012.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/27/33/a2/2733a260d9c2ff4a4e337c4a0764e75d.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/9c/be/1e9cbe207514ce3abfddb88e80470205.jpg"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/c0/28/bf/c028bff715d8d9b5648e5a15df0d7fe0.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/87/c5/17/87c51708b7b3d56ca4f20f78409926fa.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/09/1d/fd/091dfd91e4dd6ff853a6361648b4331e.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e4/ce/0d/e4ce0d6e6a923c3ed55defde66b0627b.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/73/13/4b73130b0dc9fb181e46d3efce37bbed.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/a6/1b/61/a61b6117c99a915619b6648d1ceafa85.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/e6/c5/1ee6c5e5f0bfd915e25dfbc781560354.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/f8/af/30/f8af3067066731ab11a48d76f490e942.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/5d/81/4e/5d814ee07b6d5580e6d06a31eff89a15.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Boston Wallpaper",
+      "wallpaper_name": "Boston Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Boston",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/28/0c/f9/280cf9ee12962e9e250d0b2cbd1b2a61.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
