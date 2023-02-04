@@ -1,0 +1,992 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/4719677312",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/6727711795",
+      "main_ads_natives": "ca-app-pub-7316385158012425/9401158353",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/9818308366",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Duck Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/140x140_RS/90/66/90/906690055f0c01fbfe868274e8a542ec.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/140x140_RS/90/66/90/906690055f0c01fbfe868274e8a542ec.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/01/27/d7/0127d7d205a03fc2986e32dcc48596cf.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/c2/e2/02c2e2a050ff9276dde44cb279ef8bc0.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/aa/fd/07aafdb174c85724aa1419b7440a51be.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0a/a9/6c/0aa96c8a4727779891c750841710fa53.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0e/b5/8a/0eb58a1509f5a66704d96687bb932456.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/30/2f/15302f9d2090ed9609a9056977aa7555.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/27/ef/1727ef65596f357b6093e5612e6be62c.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/97/f6/1797f6098a4ae879de34d3b2b9843acb.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/8a/97/198a97a574d695d636362209922d7f13.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/70/6e/1f706e754e78d7035f6085133b85edb9.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/3b/69/203b69b6eeb862e03dae621d7123da1c.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/8e/f4/298ef4795b04d30d9eb24e021623fbe0.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/85/7a/2a857a55e49a936743e5a20da9027759.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/d8/01/30d8015f6897dbb6a2bcd9bf7a7f0926.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/3a/f0/363af07aab295d387accf37908e74486.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/47/7b/36477bee7ed3d37884a049619cd93823.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/75/44/377544191761dcf1d10db5aea33257d4.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/7b/3d/3b7b3ddd78e38f63e0a316bb3e3616f9.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/0e/6a/3d0e6a618c07978e59228f013c741a80.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/c5/bc/3ec5bc7f311d1fcf3966aa6409d70495.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/43/c7/f0/43c7f0ec94285cc4ea13f0142b5b2526.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/23/4c/44234cdba00e8e0cab75aaa4ead6231a.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/a5/4e/47a54e95579f9537843fac72233f3164.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/ac/6f/4bac6f6df7842c6e96cea06d4062c117.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/ad/c4/4cadc4dfdca23d2d93fc02d68e2c7d63.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/e2/0a/4ce20a1eaf0b20faa40002d5ec800628.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/c9/da/4dc9dafe8c16e7eddf2d5ac0e25478a8.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4f/47/ba/4f47bacf3d4096484fcb83025eb958c5.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/6f/37/526f3785d666ec637010a538353c21f4.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/28/97/55289723eab8445aaf95050fc6e4c75d.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/50/b1/5550b17427b4112b9fed9a0a1f18d016.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/72/7c/55727c4487838beb801a318492de7ec8.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/56/b2/d1/56b2d132651fb32b337340acef66947e.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5b/a2/26/5ba226f52739f9ef1aa835f460577026.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/6b/5f/5c6b5ff2cec2fd9f93fe708c0e9ca73f.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5d/65/fa/5d65fadcf8fe7b490779debffd2577ff.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/36/ee/6136ee4eb04b4f02c64123d78abb48df.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/07/87/6207879d410babc52343653d253ccbc5.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/5d/6f/625d6f06f85f3d9cb76f6287a31efa1d.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/64/d4/fc/64d4fc5dfb577591ff08ec6821c8aa08.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/65/68/e5/6568e5693d4a9072556de3c965103a34.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/25/2d/6a252d113f68e753f77f163031a643d7.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/ec/65/70ec655430907d6b757d9c86c3c5d4fb.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/08/84/7208840fcab4031110582789e8860c21.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/74/9d/5b/749d5b48d2bbd04ef673dd36bbd699d6.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/74/f0/b9/74f0b91f23fcc2b666caaee5b1d960b4.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/0d/ed/7b0ded91fd57dc729bfbeec7a548b1c4.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/98/14/7f98149f8716b02e29bc70a693dd43cb.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/89/7b/84897b02d367d6045455aea318d19235.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/b1/0e/86b10eac737b47abc933c20995438357.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/ea/aa/87eaaa469c7bf32f239a12bb3d0aba11.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/89/dd/67/89dd67b210fcdf13bd6be3b09630ad7b.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/40/c3/8c40c3ed76dd5ff91a240a47d29afc10.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8e/cf/e3/8ecfe3261e5154c1f1f1caf6d396dab7.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/6e/b6/906eb680ac5a32738b29a86275fd213b.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/c7/9e/90c79e75d3c443615e030cc6c280541d.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/97/82/9297821eb76e37f32f0f1dd4b4a82767.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/3b/a2/973ba246af112e0a00e95b8c9472d477.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/10/87/9c1087bbfff2a20cb681e91787a7aec2.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/fc/88/9efc880e7c89dcbed33f2cd3a24b0793.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9f/19/61/9f19610405bb6c422baf06cb4aa13e0f.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a1/4a/7e/a14a7e0886430b452903d10510b904ee.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/c0/a6/a7c0a6cbaa2f168bc5aab34d94f12a4e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/6e/06/a86e067995c8e5c6c1ac846d9167a5e2.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/c7/d3/acc7d3cd0de37360cefe4ca348913843.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ad/3c/45/ad3c4597d5a6fc0c2254d605442ac3e4.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/26/88/ae2688daa1a0992cd4458f7d4c5157bc.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/58/ad/ae58ada47b26613b7ee5c44f96e43373.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/af/0c/43/af0c43df90c51341344df0fea9df6147.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/3e/44/b13e44110151639967f6416a42495226.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/58/7b/b3587b45f82e831a3d0efacc89e9237c.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/b9/18/b6b9183b9dfb2ebd6d18c1d87e2cef61.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/0d/94/b80d94af384ebf15f65edb918e01799c.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/16/84/b8168446f7dff62e33575f9a96e61c5a.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/2a/a0/ba2aa01983cb18324defbd249a77811e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/f5/f4/baf5f4063d5116682134e0c13cb9750c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/fc/70/bbfc705ba6d5d813bca9cb6d432cb96e.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c0/c2/bb/c0c2bbb1a6632dfe2680670320d0fc01.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/c3/e6/c1c3e67818ac1f685f58b0c20f79f182.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/4a/01/c34a013eefb45941662a988a54a06307.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/e5/54/c8e554d946694c05a864451a44b28a4e.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/f1/15/c8f115c0d576b75078f4cc0f07877e9a.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/db/83/c9db8373ec2ca9bc98731ef9453c6abd.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/0f/a3/ca0fa3d66a573db63ed7206614ebdf12.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/f6/ce/cbf6ceb7d22e2a1c9ee75d1c0c1d022e.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/8d/87/db8d8788459d643a1a96138f2a32beb6.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/df/47/01/df47011977269c4a444fd2c3881e9ae9.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/df/c5/fc/dfc5fc1d828756fef2829a99b1b25775.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/0a/48/e70a4805a8ab206ba65a68eb497ede09.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/0b/bc/e70bbc1f1aa808e7d029eac4cbb4ee77.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/b8/4c/e8b84c4982aace161c419eb3bc4bd337.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/5a/98/ee5a988a873059aaa7f41863bdb431dd.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/6b/2c/ef6b2c6125505297b03318b2c88aec0a.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/6b/27/f66b274b94effa978e14bc9cc31b5a0f.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/7d/03/f77d03c20f89090db57a8a5521d8a581.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/9f/8a/f79f8afbab5dc78c71874fe72f0b5ada.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/ff/e8/ffffe801e395942a649affc416ba2174.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/22/0b/09/220b0915ebd461952b029d86d5d8f9b8.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/9e/7b/69/9e7b69c685366263f3c8adde5b4e81cd.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/bd/33/0a/bd330a7aad3877cba8b661d16df8c969.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Duck Wallpaper",
+      "wallpaper_name": "Duck Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Duck",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/736x/ae/b1/90/aeb1904abb381700e1460e4636127cdc.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

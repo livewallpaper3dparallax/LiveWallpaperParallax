@@ -1,0 +1,1199 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/3476245386",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/6283755011",
+      "main_ads_natives": "ca-app-pub-7316385158012425/5308201805",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/4970673347",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/75/f7/d9/75f7d9dbb7e7e5ebb1170bbdfc5e5cae.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/98/ce/cf98ce8e223bf61d610897c5f118f99e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/f7/d9/75f7d9dbb7e7e5ebb1170bbdfc5e5cae.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/f2/ae/0b/f2ae0bacc11a7ac1309735b2f1ea9746.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/e1/f4/29e1f4ba9dd5cc6a2c8d47ea85e7291f.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/15/1d/08151d5428cac012638890e160e1e7ae.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/c2/df/4bc2df28e1f692bb4a7328a7df61d69f.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/0c/aa/d90caa2149514fae22452c3fd8572918.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/a6/4b/aca64bba2b23b687500428ec36baa8f8.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6c/fa/60/6cfa60365b5b5c3dfdaf88e96060900b.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/65/9a/59/659a59e61ce8e1f01712806ae988efe6.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/f8/bf/0b/f8bf0b4774753761f89fee9a29d24c34.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/e0/1b/b3e01ba0a21ae3664beaa5352d67511e.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/f5/10/52f510b25baea685be11b4fced1f28ba.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/ab/23/a3ab23a548b2ca49be270d3a97a3071a.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/bb/ac/d0bbac18c39346a75e4d846703bcbc82.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/33/6c/17/336c177cf59f04438fdf458e44b67654.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/21/39/b32139e5d4f4adfdc2bcc151caebba6a.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/6b/d3/706bd338bebe0003178cc3a2542500bf.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/11/2c/fa/112cfa5293fbb29513920b88e7bba7ee.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/e5/e7/8de5e7826a49b100db22b85919951ca5.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/80/e6/cd80e6d6f466361187ffcb2eb81e5b6b.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/18/de/5b/18de5bbac427780dc6637b9fa58e8481.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/37/18/483718a4625f6be0af2182eb35f0cef8.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/d9/64/7fd964489d25ac96abbc1db6625f3e2f.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d3/63/d9/d363d9af4eef94016451d0bf25c4acf6.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/8c/20/bb8c20f858de6753f0ba4126b2d331fd.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/94/38/e29438efed4327773b6f0174114c9aaa.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/b8/24/c3b8246c1fac8be4c59ab80b1199ad2c.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/35/91/66/3591669e4a71cef34c388f295df03cc7.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c4/48/82/c448821f0cc8ddb19e25fd84221c63d8.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/08/c6/0508c69c5534964ac91844a4a09cf926.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/6e/b9/cb6eb96782764f416e4010883b7f5f88.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/44/2e/7b442e6b9a9604565b80b18a7d734c3e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/28/dd/aa28dd9f5cf8fc1566ec8fc5f4fd914f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/40/0e/d4/400ed497d5582fb35ca46acd058b30ec.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/03/5c/1a035ce2a5144c3e8d20e34602769ed1.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/eb/ce/37ebce08c69db0e3d7cdc0d75d3e525c.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/e7/c7/ede7c72cf812b1ed0817d78856d5600d.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/63/f1/7d63f10c945a2d1c61a6c9e68ca190f6.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/f3/ff/82f3ffadb10e72577b30029ca887d75f.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/cd/3c/1fcd3c99d5f3fd97079120a4bafc5db5.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/e5/e4/5ce5e4f56152ae26204a994ced32ff12.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/85/af/4e85af5f59d99fcc9c528de449cbbcc4.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/c6/c0/76c6c0c664bca0e3a3684d32b1f9c76b.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/2c/b9/d02cb945b97312b946637ec683e5dfb5.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/5e/8e/455e8eb4247821d78994b153fdc09e59.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/41/d8/d841d8862302b5cc347a6488dc182e89.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/92/cd/d092cdaa3a22bcba40159085547e977c.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/a3/bc/1aa3bc918ba3b60b1f67c5aac536741f.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/c0/cb/87c0cb43c9d06b7f36150cfb6b375c14.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/dd/32/05dd3242b564cc6ac338b2419795196c.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/c5/a4/acc5a4a41a6edaf6e20b948f31f12d2f.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5e/e8/c3/5ee8c35d8d4a537da2d8fb1fb53d2c6b.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/00/42/c100424135c15c8356004b3a0eb966e8.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/5c/2b/b95c2b8969b52c2fc3e0782bf142e500.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/e9/c8/cbe9c8075020648d837cd49072ab36f9.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/a1/31/29a1311926fd7b7f263e440dc19798b2.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/5f/56/765f56893fd24aad9162b002af28db8d.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/1e/c4/7b1ec458d648ad258d345eaf2af375f8.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/5e/cf/bc5ecf513cf9ce3f6aa0dcd93a022344.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/45/3a/7b453a9d72296feaf1ea019ca5840c28.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/c6/57/cbc657189a1ea5eee50a09d68339b28b.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/03/16/5a03169a44b4dea2107a9e28847dab62.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/b6/85/3c/b6853c828f6f5c0e526466fb6ddad8a1.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/f5/1f/c3f51f1cfa6e355cbc9613fc5e9c3062.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/4e/ab/3d4eab0fee2fcc7ac4ed0f7688b47574.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/ab/b7/a7abb76639c93b9d5f9e14af3b9428ad.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/08/0c/e9080c6f30a88e3fe7556efb71dc2ce9.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d7/6c/44/d76c4401f7bbc3dbc75c2d276315e4cd.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/81/95/f281957f8cd99fa25eca506d6035da53.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/33/8a/8c338a91edec72a320133da8d8668c89.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9b/b1/e7/9bb1e7ed237886941c7e7505ddfcd131.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/3d/97/db3d9729c87df1931185407e0bb4d434.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/dd/e0/b2dde01a79e5c6d78333ef8f661cbbd5.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/ba/4f/ffba4f631dae69275298502b36af4096.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/af/2d/eb/af2deb704d053f8307759025e00071b2.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/c7/2b/f2c72b8a262138417dd07a8f8908bdd2.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/0d/f9/ac0df94b5e4a7c660d399a6e7c231195.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/45/79/9045792801647bd1309a81d120395fa8.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/10/62/4b1062a0ceea5a18079372f45ee79985.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4f/6e/24/4f6e24801505a036e62a72c06b82df51.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/58/88/16588867948ef54512b7d315ca0938a6.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/58/c6/0b58c614002f857408ddea1469b75899.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/02/37/5902374c1fb38ba42937aa18bb7c3499.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/09/4b/ee094bfdeb7b1b170bd71c7af49d2130.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/dc/8a/91dc8a0c96f85b9e346517217ec18131.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/38/39/4b383943ea28512b5a7847e6928a751e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/69/cd/db69cd2e758de35babb8e9d4231d3444.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/c2/54/42c2545a9a8dd601e0bbe9cc882ae1e2.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/63/b2/9d63b2869ce3de04c5b6c2645708c43a.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/89/93/c789938f81fc0d54b76a083a737486b7.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/c3/3c/7bc33ce2caa0b6bdfc80b30d59a5626e.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/cc/7f/d0cc7f320db096b3890fcc6adc00ef4f.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/ac/c9/30acc93df6a36196aba810c983ef43b1.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/d7/fc/ced7fc4d7016fe13772bde32317208d9.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/eb/a8/6eeba881428eda02be25b424e24b7acb.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/f6/d8/d8f6d8c7a850b6146a7beb6ed35021b3.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/49/a4/ca49a462a41b97832fd10e8b6cc7a315.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/c8/42/7cc842c1fb07a219cfaa5c493c718b3f.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/b0/f2/83b0f2ce900b1853bfb08ad67f7cb025.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/9c/04/0c9c04579b30ac1e7fbead9d636d0c30.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/e0/73/96e073c2a2f826ab2bdfd05e2f5a5145.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ad/49/9d/ad499d9fab6af35e4774ecb7a9abcd7a.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/25/1d/b6251d5299bf62ff2a4473acb530dd2a.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/2d/8f/402d8ffa6c10bb55bcfae9599232974e.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/fa/ae/c8faae076fd4b09f7879e5ee3006a0c9.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/60/8e/32608e548786ccd51f307881a73aff9c.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5b/d7/80/5bd7801086d59e0a8379f776904bb2c5.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e5/e0/02/e5e00275e395a4f4696a2f9cfa6a38e8.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e5/2f/fe/e52ffe9eddc4f53ba05efe9217a417d3.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e3/d5/52/e3d552f6b55762767f0136251c755854.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/11/d1/8c11d1cfa07ae843133d9b28b7807e7d.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/48/57/c64857db2a134acb60d5fdfa009e3fd8.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/22/fe/fc/22fefca93c0d776779bf8a15f84eed0e.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/6e/74/666e741b35161bd9acc39ce62d7fc752.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f5/d3/7e/f5d37e563333ae3f60db9e9591524608.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/3e/a4/3b3ea42bba00435ce9fa765c5dc7e554.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/b1/6d/e2b16dddf4884ee068b64ebb2560009b.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e5/92/c6/e592c6cd3c1f31b22853836b6df1eb67.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/bd/5a/acbd5a55b99ba46ae182aa4acf3d9581.jpg"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/be/1e/e7/be1ee73a782fb6bd2a08805a0bc78b10.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d7/4c/ec/d74cec0e2d2ca9888dd5f2ed0d6c0c7b.jpg"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/81/eb/3081ebecf982e931cc947c19d54b050a.jpg"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/70/6e/97706ef21bc9491cd593c1aeeb33bc26.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "Dolphin Wallpaper",
+      "wallpaper_name": "Dolphin Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper Dolphin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/92/e8/0392e87be1dfcdf371f6536ab62bd16c.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/4176751838",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/9616780770",
+      "main_ads_natives": "ca-app-pub-7316385158012425/4364454098",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/6116519466",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/01/1b/49/011b49febfdcf198124c8a7f2cb81137.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/01/1b/49/011b49febfdcf198124c8a7f2cb81137.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/01/a9/9b/01a99b70942c59df6d74353001bfc283.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/ce/8e/03ce8ea437159a92097a83fdf8e4d692.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/f5/14/07f5142325c4339409a53be17c03a12d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0d/e1/c4/0de1c4fd744af9d8eb18c1db1f678ca7.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/30/99/133099dde355872403c0810ba756bd41.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/e7/76/13e7763947fea60a39e5b6632e48dda6.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/0f/e1/160fe1bf7e9029dd51b976d94a213c4a.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/cc/bf/16ccbffd35aae89b6d4abb0acc4bbe13.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/48/ec/1748ec5b0761331e5dcd2dd7af0f42ce.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/34/c6/1a34c6caa7b4c12cd4ef7fa0061cbdc6.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/4d/da/1c4dda16a7cb7a8ac24bcbf1d9060669.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/64/04/1f6404f2ea572e7fc75db1c9c15201ad.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/67/95/1f679579f2fccf57fd1035d1cf32f539.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/8c/11/1f8c11583160f237995062a962b78d83.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/a0/40/1fa0407d5429ea672c3aa9da4798a84e.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/97/f8/2097f88c39c601a97559cec2601254a1.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/22/db/2b/22db2ba0fcca93d829116db8c01a72a0.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/1a/37/251a37bb911e8a45233c85deb2a37738.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/26/fb/27/26fb2785649778dd55ba2f9ad879c242.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/00/26/2b002680f04257aaa9811ab68cb15535.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2e/c5/1c/2ec51cfc16931d93505fd8105b985934.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2f/95/44/2f954450f41b0e0fc57886805f51ac8e.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/5e/de/345ede519c628b02a4dd278b361a572f.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/35/ff/7e/35ff7edde56c5fd8b85cc57bf7bac0e8.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/3c/c5/373cc5530294d3a1145a3f5d96dc3246.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/eb/67/37eb675648c0c946ea384edea76e3939.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/97/c7/3997c77b045010c46301301653425517.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3c/05/32/3c0532b10ce8aff3172a52127e2bd727.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3c/9d/f8/3c9df898193cdef254080f86de7da5a8.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/f7/33/3df73314a9e07522e8629a432748adf4.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/fb/f9/3efbf9db66e9b8e1d4144a4a3254ab8d.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/38/0e/40380e373f33e33e3fc9f0d9a984b10e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/38/86/4238866cf23048cb0061b76c28dddf2f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/a3/86/42a386c7dd4d1a1f45d82c2e8e06f919.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/43/0a/35/430a35fb36ec3515017cca4acf2cfb11.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/98/a6/4498a699d4be8338074065a758110a54.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/4d/76/454d76aefd785116004b9add4ee6cb64.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/2c/d9/462cd900e1431d97744331e9ce7d114c.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/5a/6d/475a6d47de4a0d30fe8d670c3fa8302a.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/53/f1/4b53f16176c35393894ce57691f1bd30.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4f/e1/fb/4fe1fb6f8204b87a2bcfb783ab152d32.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/50/bc/2a/50bc2ae0a94e1b704f168aec3193a69b.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/b9/4a/55b94a7b86a52650190aa29c283b2ed1.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/ba/09/55ba09f709a6fef19527a2b0b75f6f1e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/c4/f2/62c4f27d52bf6ab4b95423c639fa34b6.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/62/db/6762db963842706b210ef64076b2db4d.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/69/02/03/690203478291314fc85e6a25c77e8463.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/69/f1/0e/69f10e17787277383dcd2cd2943b6d58.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/60/79/6b6079f4228cb91f3c95fe3d1105118b.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/68/84/6b6884705beac3d30b9e669aa3f3063a.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/ae/c5/6baec5918f2491d89b117eab15a5ca64.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/3e/ff/6f3effcaabf9209779c61918281cbbb6.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/a9/62/70a962ae332018d577c99ad9f9ed729a.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/54/e0/7754e0edbe6278064583d94d8c6e68fd.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/d5/50/77d5504280f8a55aa05a23558d9eabf6.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/c7/f7/79c7f768fc81516e05eddc4f138aabde.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/4b/6f/7c4b6fa6d36b89d5f4fbceabd77c7615.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/db/a9/7ddba907fce686e957cb64a09402fe0e.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/e8/8c/7fe88c72ca1a80e313180d65c806874e.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/81/50/f5/8150f5ea9ff77f8a5be7c25bc6714e9c.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/54/8d/83548dca11f9ad7787d60e7b58e15662.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/fa/8b/86fa8bfdc834a284980c4ebfd6c4903e.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/7a/29/877a29d8f3a8ac1da1022659621ad32a.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8b/32/c6/8b32c66bdd3c347b43d7985272c6f0de.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/12/6b/90126b1cb3a956a52744478e189c52ad.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/54/fa/9054fa6e24f0ac36b01200d4041cb83c.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/0b/18/930b18cbaa616e86394ef20edb55243d.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/d7/32/93d732e2958226d074efe8d269ec38d7.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/f1/84/93f1842ff3cb20756af7b4a474c1d4bd.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/0d/4b/940d4b4cd6dc831aabcd93516d95e4fd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/95/1b/6c/951b6c52b6de8f2920eda0883a63a2ca.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/56/44/975644241e8c114f070afd98bb5edebf.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/1e/c9/991ec95e65f4b5dc8f910500853da0b8.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9b/a7/ed/9ba7ed2a61ee52ce49711198e2dea9e2.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a1/22/6d/a1226d0674fe0be4e6addd34f027478e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/18/dc/a818dc90227af018796535c6bb99fa2d.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/e1/b1/a8e1b11b11680bdbcaa20c23d5ff388b.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/98/b0/b198b040ef8a8f95a5d687cb8079fec4.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/37/9f/b3379f57e2ea51ceb75de39894a74cc5.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/e8/21/b4e8218241c959ce858a98d53f149625.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/8a/f6/bc8af642a3be9ea1943a5ea26fdd92e8.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/ee/b7/bceeb795a611f8e68e8767daaa41b6a3.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/9e/09/c89e09ee349f5efc53ea5126ec182724.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/f9/74/c8f9741f84f95bda7019c6a6ae34475b.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/a1/24/c9a1245bdcdae8a0a15da2bdc145e56c.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/5e/6d/ca5e6d19fe0b3c62df7a0ef37d63d312.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/a9/00/cda9007369646bc10c03064712ac4a3a.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/73/8a/cf738a5c7c868cdd079ef5f78f07d0c6.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/fb/b5/cffbb5fa7b3baea99d058cceef075290.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d3/e5/81/d3e581a7829bbf995ad1430c83f39ea1.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/72/ee/d672eef4d1a77c9d791a3708e88ffb97.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/1b/03/d81b0398c63f79daafc6284109f9efbd.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dc/bc/ba/dcbcbab6940f27e3ce2ae99a1b3e4184.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e3/6d/83/e36d831322dfe3bd07208e0f783d2cde.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/ae/3d/e6ae3ddaeedc0d630dc6d6c3767ab5ac.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ea/cf/87/eacf8787e14a51b8058116b195cf607a.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/46/f8/ee46f8c204a74a86c666f0c981bd4fa8.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/fd/53/f6fd5360974e5d93374d36c7866a6f55.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f9/1f/bb/f91fbbed52b54f04f2ad1437b0f09c2f.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/6b/70/fa6b70a8662b04a78a86d4540b473993.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/8c/1b/f5/8c1bf536218bb076aff90932f7e5e9ee.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dreamcatcher Wallpaper",
+      "wallpaper_name": "Dreamcatcher Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Dreamcatcher",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/ac/e2/6a/ace26a318d6fb4f2b8e72b9418e233ca.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

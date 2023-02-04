@@ -1,0 +1,1118 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/7869403079",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/6556321404",
+      "main_ads_natives": "ca-app-pub-7316385158012425/7853107112",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/4927560875",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Element Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/06/63/4e/06634e3cad2f06dc590db5c46691a8eb.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/06/63/4e/06634e3cad2f06dc590db5c46691a8eb.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/1a/9b/081a9bd305f2aead95f9484e17e16475.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/16/9d/0b169de3eba53d943538ab57ad5f0d9b.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/62/eb/0b62eb643f8a556bb70985d3a6ce5c14.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/8a/6e/0c8a6e51d520d403d24b960e9718ad9f.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/a3/71/17a3711fcea36fbc83486533409906e6.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/cc/db/19ccdb73b17c541d9f1e41d61a3bec1b.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/11/b9/1e11b93964226d1d036a940e6e651f27.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/5f/70/1e5f703fc1f2485863e62f240132717e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/da/49/23da49d51f0b51b37916365914384467.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/a9/7e/24a97ed3e5e350c17b351e13c23e440b.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/26/51/2b/26512be771fd89b8f4400e83a2cd605b.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/51/5b/29515bb5e56501a607d7f2dff666a48b.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/8b/a3/308ba3c12443ad5fed93a2d889fb7972.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/f8/db/30f8db9e612038a4380997d877dea4ba.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/31/11/f0/3111f03360b2f8712e1104f7e01355f2.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/31/24/4f/31244fa11c63fb0439655c42b5831691.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/33/77/0c/33770ce333d91b62b443e82f691b9358.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/70/a3/3470a356e372876d1dc9c77a425cf243.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/38/ba/e7/38bae7d816a09798f1008e88a27ed6ec.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/57/4d/3e574d2832fd402ffaed68a3a815563f.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/6c/3f/406c3f669adade4b4f80988c4ca891a3.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/41/2d/48/412d488505fd2fdf70345be0bbfd419a.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/66/42/4266426eb4ff9a7314bbcbe17fd0c0b2.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/7e/6f/447e6fc59afc415f647f00cf8af000e1.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/e7/03/46e703923d0bf98cdc6823266abe3639.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/20/29/4a20290a69d8b2dfd5f2c5b57916c315.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/cc/b5/4accb535a6e792f17f01e5a8b0c0a402.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/94/d9/4c94d924cd44056b1cac1b6b80d69cf9.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/38/52/4e38521e8e1a83495072a85bf7345ae6.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/0f/03/520f03c1db6713e4b0e1d5951e7d94dc.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/fc/af/52fcaffea99048c617401067041fa0ca.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/54/45/d1/5445d13dc681eac5721c40a7f9da466c.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/ae/6c/57ae6c8619c4800037b8303fd7ea71a9.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/c3/b4/57c3b44d0f86edaa265b0faa2de8fe30.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/74/c5/5974c5fd8bc66585dac7b42dfdd2b3f1.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/be/e4/59bee4d24bccdd772408d3b75ac9415c.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5f/b7/c6/5fb7c65e8e3e8249622b34f4cce0b4fc.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/b5/e2/61b5e221b802cf2bbb30bdf515db2870.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/26/ce/6326ce7ae827f639c9bdf64cc922a82f.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/0a/0a/670a0a4f4256db932c7c23456e8edb25.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/e2/e9/70e2e9e5181f14ad5fa863540b524f52.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/e8/20/70e82034a7258b125aef0580459e4680.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/5d/55/775d55b6362920b08c9d53d5e426a7bf.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/78/cf/8e/78cf8ef4c69ecd9da7f572375d43f57b.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/03/f0/7903f0ea752e95bad0ae51a25e097c0b.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/43/39/7943396afb6597157dfe98ac821ed688.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7a/e8/1b/7ae81ba175bbebc706b628dafcadb405.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8b/51/cf/8b51cfaf57daaf2f701ed49b27d67751.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/fa/16/8cfa1630b048c7b937466e41898d1c3a.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/c3/99/8fc399b225ea338ec776c73e2195da2d.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/6d/7e/916d7e8fb50dda8b1bcb4f54c3d1677c.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/b9/31/92b9315b4c88e456fbc93ea54853c386.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/be/90/92be90c93eef8afc4a4bdbcb436073eb.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/b4/be/93b4befc86f5a72f24b46822b5af661b.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/cf/4c/94cf4ce9892c537ef07099106dc1508e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/ac/ee/97acee65313b0f16a86eb8d8dc2dc0b8.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/5d/f2/9d5df296aee33b7918fa41a55f99b881.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a2/a3/5c/a2a35c21fe147451907df7bdc4bd171e.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/58/02/a35802eecdebef7ec784ea37cedb50ee.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/73/96/a473969c26027a4b81a776e4b34b0498.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a5/92/07/a59207db0b8593184bb4835f9204acf1.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/b5/96/a7b596bd3277101735a78adbfe841251.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/fa/9e/a7fa9e95a186708588d80a2c2b42fa4b.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/61/51/a8615118bcc87ffdf6f6f3d4272bd1d6.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/4a/6d/ab4a6d24f67a7c28c603b4635c1c5ae7.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/81/62/ac8162e096567fe057f2baf404cfc2b3.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/ca/ce/aecacef75e963f74f29649133f87ba3f.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/0e/d5/b00ed5224037f335c5717bdefd4e7467.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/d8/2e/b0d82efcb5dfa458b4e2389549707cd7.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/40/a4/b140a45715e814da330756777f4dcaf2.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/67/2b/b1672b0de8db7e0fa1ca67cb56b5af43.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/4a/56/b44a568a5e00e947dabfe5a9a86e0c7b.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/b7/e9/b5b7e93300ccd3912196f53cf6b4beb6.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/5c/4d/b75c4d793d6ae588c088c52a528915c5.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/bf/0a/bbbf0ae1544ffaa5233f10419a5d184f.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/1a/85/bc1a85c48eb41eb32ccd25432e2e9482.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bd/21/2d/bd212de43c995887adc96725e51b799b.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c0/af/f2/c0aff29a4c736659b804814349c90a43.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c0/ed/49/c0ed49686fb15179a6b81f9a78c64b85.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c2/20/fa/c220fa525457968b494de71699731a18.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/3c/93/c83c93f16904864ce95faa83b05a1f0c.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/bf/50/cabf50ee8046f83f53a7bad75f99d31f.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/3a/4e/cd3a4e7b31db508cc6f45f3602751ddd.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/b5/f7/cdb5f7311e71bdc9a4f82eeca6e1d06c.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/d0/e9/ced0e9aa2b8d29db8cfae8571595ba05.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/dc/c3/cedcc3618cfef2a71ce485815e059b6c.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/07/20/d0072029fd2fa9be2eb20ca4c4c94f3f.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/ce/0f/d4ce0f7f6bdcab65d8fdd14791f44fd4.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/e1/6b/d4e16be17531834d52ead601e3712dd3.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d7/46/c7/d746c75f5f5517be9bdff000de8ec9a0.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/11/8e/d8118ec3b71d3d7cb0256d1ec6f3a8de.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/52/52/d952529b7c968f5bd710802e30584d3b.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/76/a9/da76a9afd80c3b1fa0abc37b757f0333.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dc/bb/1c/dcbb1c52e43d9625d62e038e0fa1af0b.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/86/da/dd86da06f6811d187f00a405a5e88a11.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/c3/ca/dec3ca6cf05146cc5571225eb795b709.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/df/7b/58/df7b58e5b48dc7f82534fdc211c94a00.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/f8/f5/e1f8f596b48e0fe21eda331f74643c55.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/92/59/e29259a4ebd267553a04b0ba81d16dd3.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e5/90/6f/e5906f3256fd96c42303b74e31ff06c7.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/04/47/e604474f0ffa8951d0f00e6e1bf83606.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/9e/1d/ee9e1deaffe36babc9c464d88c1472b9.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/60/a2/f060a2f5a7b31c9526192432a29fd59b.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/b9/16/f2b9166e4daaea38708eb026146af503.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f3/27/cf/f327cf9114b41c1155bb01128054e056.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f4/32/c1/f432c1a66c0bf165f1b819f411878d56.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fe/d9/8d/fed98dcee4feb7b12bcb04d2f6685984.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/28/83/ff28835f8c889f74c8e172b07aa1f1f6.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/18/38/46/1838467d3670e54236d8619d79b9fd7d.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/31/0d/80/310d802f0a9a9df837fa0ec661c01210.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/5d/37/67/5d37670cc2751e624d0610392c339ae5.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/61/35/25/6135255242324a59dd2217ef9825cfb7.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/7b/fb/5e/7bfb5efac98b8bddeb447e83e27c1065.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/ae/23/9f/ae239f31e93b8b356917a63c438ddc0b.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Element Wallpaper",
+      "wallpaper_name": "Element Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Element",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/bf/c6/1e/bfc61e8dc0d8fbe934ebf5985b9f0b4e.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/2055352506",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/4738174406",
+      "main_ads_natives": "ca-app-pub-7316385158012425/7736437484",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/1254789619",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Doll Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/14/ab/44/14ab444faa5da64d9e70e15c512a13ca.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/14/ab/44/14ab444faa5da64d9e70e15c512a13ca.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/d9/82/2ad982a731aa62b8fea74b447b81ca70.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/54/38/32543820e1393d78fdfe734508c583d9.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/bb/98/32bb9892fd1ac69ea56fc210053834f6.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/35/54/23/3554237653c538770dafdb11d9d03489.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/62/ea/3662ea63795bf15bc3f86761570a913e.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/20/85/3e208564096ca71f7181695186fe6d04.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/1b/f0/551bf094c8689fd26372b21f3ea72133.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/89/a3/6389a351eab893996c0b0938d05d37f2.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/65/8e/3c/658e3c02023b314539c1aa6f3b44130d.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/65/dd/d0/65ddd00398655124ff89e52f57a2afd7.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6d/0a/5b/6d0a5b78eaa20c54a1b1e86092012c2f.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/0c/13/7b0c137cc8fa0804068e48102f25d478.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/a2/5f/82a25f2d120375f8f9f592fb76180b5c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/f7/d0/96f7d075a192e7372f9c949b4fab6009.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/ec/71/b9ec71c54b4fe4473b3243ab42d20421.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/5e/ae/ba5eaea7527c1e40e7b57752eab1c9ab.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c4/c5/81/c4c581039479674960c05f32784f1c06.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/a9/62/cfa9628b3c40f4af2946ca90e84ca7c7.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/4b/8e/d04b8e7f0bf180d0234e009db46f5fed.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/06/d5/e706d56ec3c06c5ed82a3eba31df118c.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f1/c1/30/f1c1306d4c412c353faabeba121d5a88.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/5d/01/ff5d01f780951562bea806fa64f7acf1.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/48/60/4248606758694d0e71296cba58ed40fd.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/8d/74/c88d7466731382262b64804e606ed3cd.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/dc/c0/b8dcc0cf51ee422b5184deb7337728c0.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/ba/0e/7d/ba0e7d2568ac4df66a4e990f2a00cfee.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/ac/69/05ac6927f39348b5be2881dc4665252b.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/d4/b8/92d4b868f6791447d82256cb0560a33d.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/24/2b/b1242b2cc5d327e85cc02c384534cda7.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/76/c4/bc76c4bf5bf7b6a1c34dc166f7f3c09f.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/34/d8/7634d852b7d60403c3ff9fd4ac7df5e2.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/a6/1e/d6a61e0375295071546dd96060bed25e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/1e/e2/9e1ee26558883bc795c46f804d88bfc4.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/14/32/4b14326ef13125f8f4c6cb79ada8c7ab.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/f9/b0/b8f9b0bbff25283ea9a4b1535a166d6d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/c9/1d/97c91da55dd8481fbe129a9831e23e8e.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/fb/d1/eefbd130f70cec8675fe6e28a912fee9.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/4c/e6/bf4ce627cd635a255a3aa331d3994261.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/35/51/5a355115f1da1889b49c0fda8501fcbb.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f1/af/43/f1af4370070d6d6179d2bfba886510b8.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/fd/97/3dfd97331381788363e55c82a0fe7238.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/e0/d9/77e0d98b356ebec0df7f71545412edf3.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/e2/b3/e2e2b382a9dd46abaa3d37b543fbc26a.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/28/d0/4528d000a9b8baeb238ac780c0685a87.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/b6/75/ceb675232bef602e6da21908ea2f7b31.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/99/c5/ec99c55255de651f7a8ef01ee795f68e.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/07/9e/85079ec575e46fb33d5a718f42530a97.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/af/d7/0e/afd70ec79c4a3013e7a8bb222f74c681.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/cd/dc/70cddce8640ac648835351629a98a0db.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/38/a7/ca38a7a5870c36df3a048fdc97bca218.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/0d/d1/e80dd19ec8a31c53fb5a909724aeb259.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f9/30/04/f930043c400208e9af61c3d4f5a3dbc4.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/13/13/88131341a6c3830fc09af0a16e5fa4c4.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/e1/88/1be188a34c6bd8ef77b38b48c47b65d8.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/31/86/823186e13af7cfd9d84f3ecdf7ad558c.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/e2/09/bce20936adc3c28d02d91f743caaa894.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/7a/91/9e7a91a1eb48e1b6d9cc5b457cf24be9.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/ee/fb/ffeefb7944b1c61de812e7b30930975b.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/95/40/4e/95404e84ad4971ff0865a369be383850.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c0/1a/43/c01a43566324beefc5835582b2de5318.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/18/85/32/18853267cdd79cf35602a62f70f3d0ed.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/dc/60/fbdc609dd3c2e91d8171de0f6e82ae9f.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/29/12/072912933218cc5c1af50be479eef4cb.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/63/05/23630549be47e810446fb37cfdf87e73.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/a2/83/75a28387a648cf01d3e111e30d856db6.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/22/14/ab2214692b46eeca61883e7cae5ce8b2.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/0e/cf/a30ecfb2679d52491903665f0a1632c5.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/42/7b/b2427b07a8dd7753d94f1f1598fe5949.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/66/19/0f6619ccd0ab908cda40f2b878439dd5.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5f/2f/69/5f2f696869bea7edb14505cc0812b522.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/17/51/e917512338830477cd8fc2e861b2f28e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/15/82/5a15820951754404a3df1a97d1241310.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/64/29/b464299ea38e9e9e9a4ff433e7fa6d7b.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/54/1b/e9/541be93b2811cbcae1c2a89f3f21297d.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/a6/83/dea6836153920fe2df19c9771417fc9c.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/9f/c4/3d9fc45506d508c357cb31296615c3d3.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/ab/4f/edab4fcd69d7b2d59a6bfb92dd521eea.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/01/ca/82/01ca82e3e683ba66df7ce5bc3c978cb5.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/a0/ef/45a0efea4a8f57c3db8027739d8d3255.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/7c/b0/577cb09bfde3d052b4703f0dc273017c.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/65/17/a6/6517a6cc00494c34888e7e54d121ec43.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/93/70/2c93705cdc3bf2472d6882cf6396e19d.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/ae/ae/60aeaefeabedf06e1648374a50fd1136.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/f9/31/a3f9311e812908074982347d7a3c8460.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/81/1b/c2/811bc26cb35f4da729ea8302e55f5375.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/c4/38/99c4388263fabe33279faab8bdeab8f2.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/f1/23/c6f12322190d27781da93b842cd1ca35.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/3a/fb/133afb8a8572030c2b828468e390f24e.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a6/02/20/a60220d8b1861e56e046cdcf0104516f.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/5f/64/305f64ef516dc16183c9c056c6402eda.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/fa/be/87fabe5dc4f1183f8f338a999e406f95.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/06/9d/0d/069d0dfd29c3b61e3f3d2c6f8831cb15.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/12/21/5d/12215d2c0ce2860d9b40280e4e70bf65.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0a/04/41/0a0441eb5846fc468355723b70d617c4.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/12/36/6b1236acc69dcaaf7853931d388d0d40.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/65/f8/04/65f8041cb228c8bfbd5fe2eb9cd0a168.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/20/ef/eb20efc732ff16edf6a7e1c743faf47a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7e/2a/eb/7e2aebaa365a34650969d98c023e36af.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fe/fa/fd/fefafd752b6bdb75ed33bafb54fa0127.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/df/92/45df92e58eb309b3a234c285f77e53c8.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/0f/47/1e0f479d669b5b5dc6a26e707fee5d4d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/98/44/cc/9844ccba58ef481cd71e75a39d1160dd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/30/cf/2030cf798b7575ce3de496065d3e6797.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/d4/96/0bd4962d6de47539fb0130601fc3fb19.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7a/d8/c3/7ad8c39c4c843eb98e4f0078639139c3.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/c1/f9/99c1f9be018ed5fe5da28b7bcd9b0794.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/db/c9/72dbc9aef966795054b225bfc6c99280.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Doll Wallpaper",
+      "wallpaper_name": "Doll Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Doll",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/d1/61/8fd16123ffc8033826669ad1542b4d44.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
