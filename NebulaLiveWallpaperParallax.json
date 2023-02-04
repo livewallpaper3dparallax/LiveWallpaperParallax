@@ -1,0 +1,814 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/7242323904",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/4118850003",
+      "main_ads_natives":"ca-app-pub-7316385158012425/2805768339",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/9886182009",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/38/77/ab38770bd1f92afcc66b86cca466070d.jpg"
+    }
+  ],
+  "Wallpaper": [
+
+    {
+      "id": "714242822170033912",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/38/77/ab38770bd1f92afcc66b86cca466070d.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/54/88/6154889725b9e19be85b09f4a44c12d5.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/74/b6/5e/74b65efe2152afa22f28255bedc13b45.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/88/78/c98878d5374232d4aa903e582a73d1c2.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/cb/b4/75cbb4b51a10f7ce196a46b3b8bf4d2b.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/7c/58/3e7c587588305d9fec5cc282daf215a4.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/de/40/abde4066cb3ed2e08808374743107f1b.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/10/86/4e/10864ea5d80d5540cceb374689f981bb.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/cd/48/bacd488494b9db7c151bd31377d7181a.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/7b/6e/997b6e4e56e87051fac99864219db426.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/71/98/c971987db585d0bb0090f3184ef7a7c4.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/78/05/d1780512e24d2907554bc49aa6eca99c.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/11/fa/1b11fa6b563ff7ac7012b640b432f9ff.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/04/db/ac04db17d62dfa11e86b3ebd40fcd02d.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/f2/24/5af224815a3422e83a4b4744a203e94c.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/8e/21/938e21122025136eccc5197ac54b169d.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/88/a8/2d88a85a06d3aab812570d092ff518fb.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/6d/0c/e96d0cd19ab634755a31beed4aa07f17.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/50/da/32/50da3208117e6ce9105036d1917329bd.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/41/2f/37412fcaa06c2e8cb8c4feea46b776b5.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ad/83/c0/ad83c0807d3ee6873443b248d7a85a85.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/23/5b/c8235bb18cb11ed01f54eb8117508189.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/b2/e0/cbb2e0e424801f381df0a14b4f599016.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/7b/86/487b86e9d48e34fe768266b950478218.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/af/bd/e2/afbde2809d1c146f6eb12e5052739be7.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/1f/dc/851fdc5681276992cc5a9ca16e30057d.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/9e/49/cd9e49e4425d5025595b3cd7db9cd9bd.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c2/19/d9/c219d9b5d0a149ed9790e29fdbea1228.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/0b/95/7d0b95e9e4895fca4126a2e6ac8904c4.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/4b/a8/d94ba8db125a176aad2287d60f2e6e3f.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/a6/06/3aa606d15375f0d5658d7f881b8a4f74.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/46/e3/2546e3c0d4f5d8ae20f7e8d13de5fb83.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/dc/d1/92dcd1801494be52d21a7341ce6d3eec.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/b3/93/9ab393176e45ef420a176951bb64bf3b.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/7d/f3/aa7df34deca53f4f7d73c2971ffb7c5e.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/95/55/7395559c4fce054508e021d5c13fa616.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fc/0d/32/fc0d32c7cade0619bdf4212c6810fb6c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c2/8c/9c/c28c9ce4e91e41016ad7cc91942aa10c.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/45/2d/b6452d57d6d420fc70b5ab9d50fcff50.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/ca/cb/8dcacbb1afb59ebafb0e98217013ec47.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/4b/73/594b730e3372ac75f3dcbc894ceeecc3.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/80/51/e1805198cff5e0418c8e6ebf8fba6cb3.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/da/77/ddda77b127f586badc2f04551b8d9b34.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/fa/ed/19faed64b7eacc759f269fb97173e921.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/11/7c/8b/117c8b51d1815a68a7ec470592ebb38f.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fe/ba/8f/feba8f3f43a6247a3517b4bbcc76a1c2.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/96/6c/ef966cb98b2b14490570287e9cc98291.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/d2/96/32d2961d58d1b962ea385a2f406e16f3.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/85/58/f28558a99d3430f6c02f36758ed62e13.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/53/f4/a753f49fd2d70714514bf89d925c3525.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/52/e2/bc52e29e8f21738ad1ea332430d8b1c1.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f5/c7/13/f5c7132e2725a483d76d9917bb739a80.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/cc/a0/87cca0ec40ea3157c56e5c5d98581917.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0e/52/a5/0e52a5e95bed82553acea75ac6e402a8.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2e/01/59/2e0159c0f61c5834e60b90c0ee437464.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/f4/8f/9af48f044fd230ab6bd7412e660867f9.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/59/19/ac5919d4f9aeb4417972d8c8433ae747.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e3/77/0c/e3770c5fd3f07befd8e267b3097d2e29.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/89/20/308920c178c310cc42009f8a5c96bcf1.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/70/7e/1d707e688da1ec1787970e9cb4ec1ac8.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/b6/61/e7b6616e1ae0f03f3e174d2ea65e3c26.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/0f/ac/ba0fac7da85b80e17238f933d5a9424b.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/2f/4e/362f4e39e560aa14ff3539778e0d7eb6.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/e6/dd/48e6dd371598353015d578b9ec9753bb.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/03/d7/b703d708bf5ae4f3a8548e92304a3d6f.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/c4/13/3dc413199c63c9b6a8da2edcecaf402f.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/59/e1/7259e186d69115e617439d057f718b26.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/ce/c4/84cec48ee84be3f4ae8013a84bf11601.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3f/fe/e5/3ffee5d896b4603febb46985bd08c575.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/30/89/b630896241a73b77e910db7980da9c8e.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/68/df/a1/68dfa1dbbfb2a5e8255fe8027a5de1b0.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/f3/32/1ef3328133b22ace2b8beb840b563ce0.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/48/84/6a48844a5227026e7e6db7465444ebaf.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/23/0d/42230d58a030aa9f2082c1b962b2f7c0.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/1f/2f/761f2f77b274c3ebe28ceae7ff6fe7ff.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2e/5d/90/2e5d90afa454a6da4d84c7fb7ec32595.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/dd/64/23dd649f2e4cc70b5e16d16102a9049e.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/67/39/a967394fd56e68b64b9ccb39ca49d668.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/a9/ad/03/a9ad0342aa3909ab55f21091451c000d.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/b3/ef/f6b3eff430b3fc9eb3de5dd35e1e0f11.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/09/c9/b009c942b5ef765dbf991ce96aaad133.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Nebula Wallpaper",
+      "wallpaper_name": "Nebula Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Nebula",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/47/d3/8f47d306c3060a376081fb81fd277575.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/7277164680",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/4560884895",
+      "main_ads_natives":"ca-app-pub-7316385158012425/1875281306",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/5706715107",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Pink Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/c3/89/a0c3899f0fdcc6cde5f716f2d1a88636.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/c3/89/a0c3899f0fdcc6cde5f716f2d1a88636.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/78/16/827816b06fadf1b278cb1275410fa757.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/8c/11/ca8c1162760686f7841fea93dfdd04c2.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cc/47/8f/cc478fc4d03ef1b3394be8cecf5482de.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5b/a7/35/5ba73574145466bd5cdd8d4bf1bafa27.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6c/90/1f/6c901fc0ce4801f211a3d68e5279682a.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/d2/45/3ad245c7bec92595e547ce07bd6d9054.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/8c/0f/b28c0fd864ddb7fd0b7661f898e5adf7.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3c/c6/d7/3cc6d7ef9548a707232b1dd8bb7f9ce9.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/35/dc/8835dc1ce4145ef29f2b888468940599.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/15/10/6a15105e82031b931389755fb2f566af.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/df/b7/4d/dfb74d31af725a5c20321cd9f5894930.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/f1/4b/f7f14be714fad8f849230a987240a73e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/cd/cb/1bcdcb167b928ce1a914c27fdfc228c9.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4f/49/6f/4f496f16370955a34a8383b41f5c57d6.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/12/a6/2512a6fada260c503b58d5d09b7deba4.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/31/de/91/31de9158ccff7b67ef66730fc34a2177.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/ec/41/deec41df8ad56c3423ccbcd6db21ed9f.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/14/7b/7b147b829a18cf20e9dc7740c2c78d8d.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/68/1f/0b/681f0bb443d99f7786b0421ddaeac3b7.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/7d/42/557d4228276e9f553e233fb4a2302f89.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/53/57/5a53570b89e39ad1fabc9e07a53735b1.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/35/b3/a435b37c00a0990deb3e922bc28ae931.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/55/c4/2d55c4d9e4f315bf00b2f55f95dd0730.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/8d/9a/608d9ae02f398c250b5defd7b9a1a613.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/79/22/5779226f089a76e8705488aad36fd928.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/ee/f9/6aeef92f9a5c455bcafa4e98b877bb6b.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/98/76/dd98766205705235eab2b12d45ea5701.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/56/62/fb5662a5cd987f7433a8860da48c5d66.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/db/9a/84db9a6cb63a51216ff27948599c3716.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/e1/92/a3e192b93dcbcb50872d00ced1ec1c30.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/c9/63/32c963afb6f4d5d2a172ea4adcda3143.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/39/13/13391364a0a2e34caf5d1c5e36f87803.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/42/f8/6b42f8b0d1a4c8fb7ff1ff129405b1bf.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/be/d9/67bed91849a147011fc1ddbd8b8d6d4c.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/f4/d7/b9f4d7bfbaeade05a42344a5e35defe6.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/3c/6c/293c6c978c6f0ccada0aa58c38842697.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/77/c0/9177c0af1a8f55eab4f688a2231cc69d.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/77/d7/b777d7741b40388cca2515d449a3c5c0.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/49/a4/2d49a4484c8f70eaf6f770dc6290e432.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/81/65/b38165b08c12a50491014e7841cd5f8e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/ec/26/66ec2647ae46f1b8ec60e20b23e730df.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/31/78/793178080f253ee556d1874115e9d6f3.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/fd/20/97fd200d473222b2454d0b83131bd2ad.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2f/05/ab/2f05ab49111a4d58d1ba85fb54bd23db.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/07/d7/3607d7e4001b5737deb820adf10e30a0.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/d8/ee/bbd8ee0306981ec3154e2961494b3d30.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5d/56/44/5d56448ca4a567674a623b0f87072455.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/70/7e/db707edb4b623713d06334b7ccc829a3.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/d1/79/bbd179a68f965a80417f7660eeac6ec6.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/d0/dd/0bd0ddfb08aadd5fdbe15afac2a7a81a.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/c0/ea/3ec0ea0875713673936b0590f189a83d.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/58/bd/2b/58bd2be544046f558c37127dc1160a28.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/80/6d/f3/806df365b070f26eec8386df5a41a648.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/8a/cd/e98acd9180fad292dbd1594e97b8963f.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/71/62/2b7162e2f8bc71be6946112105e310cb.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e4/11/4e/e4114ea2e16b8060a26eb0ad749ad110.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/9f/8c/849f8c26f6058323d12a162741257780.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/eb/87/a0eb87d92941713d7043ad9fa5fc7fef.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/d0/3b/eed03b320a9e0ae4afa4dae6e1991c6a.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a6/25/96/a6259694484fce69ffdd90643d01410a.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/13/83/0c138325de59243e145cc2c222e9010d.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/0f/d2/7b/0fd27b85ac7b399846f6a0939a44c097.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/18/cc/4418cc14fc72714dff56cb3494901a8b.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/ea/53/2dea533332b578c3451db5e5e7838b14.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/44/e5/7344e59caf53a031bdfecd1bcc03ca46.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/a9/ad/c1a9adba3ab8307f848d7fb2e46c0d2a.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pink Wallpaper",
+      "wallpaper_name": "Pink Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e3/8d/c0/e38dc021e27043ebc75a13108ef5331c.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

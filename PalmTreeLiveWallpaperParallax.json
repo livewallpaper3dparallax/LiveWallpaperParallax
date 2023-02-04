@@ -1,0 +1,1101 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/5076159715",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/1342311728",
+      "main_ads_natives":"ca-app-pub-7316385158012425/1032703424",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/8024653035",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/27/3b/a6/273ba6077272ba5f21ee584d16bee2df.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/3b/a6/273ba6077272ba5f21ee584d16bee2df.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/11/3d/33/113d3311dc206f7b645870fefd731e42.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/32/a7/3d32a7b00ba0ccabf80b6a78cb36163a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/37/fc/8f37fc3d832e4393b55114f5209fff79.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f4/0f/6c/f40f6c87f9e25c777addff10379a8def.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/3f/6a/493f6aa0ea8bc4d1f3856d91be55b207.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/be/67/20be672852debe72155058dbc5bef237.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/d6/1c/47d61c75fda202bf2f55d10384b710fd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/ee/46/f2ee46b1b00c02778b3307310a7acfab.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/64/ec/09/64ec09201896386b20832e5302072e08.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/4e/59/c94e59c3ca58acf76b82578ede81f969.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/40/85/b840858a0a74448dd48e3c01ddb48786.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f3/a9/56/f3a9564ea5b99d84c00c733e72ba7cc1.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/76/bc/cd76bc49d525472340d7be2bb0decd71.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/04/bb/8404bb26ca44e251a176424f533a0391.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/4e/54/554e541330172afd13da410961c901e8.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/b1/ad/bfb1adff54d4df1b7b0b8e6cb6d9c80f.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/69/4a/ec694a9fc72aa2c4bd5d79c1aba365e2.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/78/fd/1978fd097432c0a6e69c75d95efbbfbd.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fc/87/37/fc8737adb06f8b3e48ebfa1089bdd452.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/6b/3a/596b3a069f05a7a5e0cade0cded4c17b.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/30/08/d43008ce5c42107817bfa42bca0b4a2a.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/81/fe/9181fe952680ad1f537ddfdc3504f588.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/87/a7/ce87a76beab5689a12b97587f9e3fe10.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/f5/8a/2cf58a311664635baa1cf4797ded726a.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/64/3b/63643b450c4350d157f722268f96b7f2.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/a2/02/eba20279989bd8c6318c8df74d9b8542.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/16/d1/d416d100025d95ca7df410af9965e49a.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/d0/43/8fd0437ed8878db5215deff0694058a1.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/9a/22/329a222474dddc6d8ce5d155ffb252d1.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/2d/96/922d968974c89e9a8fd33a2163dbf13b.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/08/73/b6087370e5ff46214fd8a92bede06f69.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/30/b1/4430b12e8f757b9e8ad77aaabe8db8bd.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/4f/af/194faff595cb6f1906a84b388c7e9b01.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/91/40/c39140acc9444f9b82b84e223f0723ff.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/a1/1f/57a11fa69e5221da7de043f71fb7166e.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/e4/82/4de4820d9279cb68f4c8e7f2a4d2ffd3.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/12/b3/a1/12b3a15109e471d385a8c0faf822adf1.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d3/92/bc/d392bc36bc6664b3400fc76a164146e1.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5e/ea/35/5eea35a6b3051cadf703f15b8fd5120d.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/f3/ed/d4f3ed01f20cfd9f0cb846ba08683fe3.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/70/63/a37063be00bcd53a48c87e212db0b83d.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/49/24/6a4924e66fbf36f03b5f7afe9c75a1fc.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/95/5f/3a/955f3ac9a83107ec4cc8c3b7df721114.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/8d/5e/778d5ef510fab54bb0312cb664738cc2.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/eb/9c/cbeb9cd0680c4a7346ef8a48ab82aa07.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/80/f2/72/80f2725cc1930df83a3f5746473a06c9.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/51/e9/f051e9ef6e74019f53e976423b3a79eb.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/2a/0d/942a0d004d1b1d396c1728cfa2d6cf97.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/b7/40/efb7403523b22980f8a84a94732da54f.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/47/31/4b47311802eaaaaa4e16f738a2f461ee.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/f7/dc/93f7dcc482ac97531bdd4f643dcce55d.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/69/af/4969af88f58796145ae8b52c68abe1a5.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/43/ab/66/43ab66f51ade3100ef64e30b7c9e1352.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/2b/8f/992b8ffc5e3b38c622e8a5d2017635af.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9b/45/c8/9b45c8d1e0149b270b4584d499c5061e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/fb/3c/e6fb3cf32d9b622d7833934f414e02e8.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/7c/9d/367c9df417f0b690d01b7ecd72466299.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/42/3b/a3423b5ef711d2e8a63fb80d07370b44.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/c3/34/e7c334a501a24a24ca192335441df386.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/a8/56/49a856b3caba484c4167b1b65dde23c2.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/8d/8e/d08d8e2bf55097dcbdfc9252da876e65.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/1a/56/2c1a56e6073e2d42232516d9d8974521.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f1/22/f3/f122f36ab9e3145e20146531b30feb46.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/b2/00/62b200e84ce3dfd285e4a540367ff0aa.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/8c/4d/cf8c4dae92ff3a9e8fbc6106b489d8a6.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/87/88/c1878819e5c98816a9052769355d0093.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/32/76/9d32766d07da7383f9d9c772ef532c30.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/c2/b4/1dc2b468169846a53f64b6c35da99fa4.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/8d/ad/bc8dad4acd22eca95a640525652b9ce9.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/30/85/1e3085a9d450c1010315570d34d847e7.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f3/4f/76/f34f76ec6940d691096654bae08b4ee8.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/31/d9/f631d9e2fa314cf8c1fdb5acfa29cd8a.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/49/23/ed49234939db7e7a18d9460c6c69b03e.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/d8/be/b7d8beec99bc0970712ec50611f7f820.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/74/93/f6/7493f6947c4b97a514359c872a174652.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/53/68/455368edc83c3f51fbaf5962fc0043df.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ea/9e/7a/ea9e7a142ef25700a3c6e24b3e58a911.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/14/28/171428df52d0cd780dd5a1fb3d578e28.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/a7/7c/eea77c046a6d40ca04062ec7e79e4e8d.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/2d/ae/b12daeeae3394901d1c6279d0e08987d.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/be/6f/8cbe6f4545abd93127b2f237490c11dd.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/06/2c/24/062c2470412f763e8edc4a46a91a1992.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/12/c0/5112c00fa3343e11d0e436106d916384.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/fb/e1/73fbe1f047bf1a58464da96307a209d6.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/94/47/0794470eb448c7d028755718afd54123.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/90/90/59909002b4800c5e7180cbe34a89d1ca.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/6a/93/1c6a93e1920d07e4ff38a91c4f39b0c0.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/83/3c/d8833c401af9f7fb8ff6d8618552ab54.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/43/eb/32/43eb324c771c3e987aaceaee5fc321db.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a5/a1/17/a5a117aaf88bebcaaf2de577976914fa.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/64/f6/8f64f6388fcb2ca8468d24bdee200f6f.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/e4/08/bce408408a3f056ad0365edfdc06d38d.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/b1/bb/0bb1bb8828141bb3011d189b2c3cb244.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/99/4b/ed994b353617c7a11f900354755e53e5.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/4d/20/824d207d1a3692ce73d2119453527122.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/95/70/eb/9570eb835be57458663a4f9e92075f1c.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/aa/6f/08aa6fed8d0305317d89ff2d11ed2d1d.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/d8/67/0cd867aeb54258f8797a18f289ccafa1.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/4e/01/304e012cedf4c530913f7292d2fb7980.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/1a/0f/3b1a0f0214a6543b5338c80f0f63405c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/3e/34/073e34661b5650a7beb456260db02626.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/fb/00/b6fb00b7f1cfd76ff3af0499bbb4ed6a.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/5f/22/915f22216c703a6107c7c97c52211933.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/39/e7/b639e7113df62330a41df20f0d98bba3.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a6/97/7d/a6977df991598760a8e0fb5d62a06c94.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/1a/7b/851a7b2af9c7d3b97e27af060eb898e5.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/82/3f/3d823f422acedb85936f7f30daa590f6.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/64/c7/da64c7f3b6da085631701bcb2ed5cd51.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/88/bc/7f88bc90bee96fc51fac2920f37e1b4f.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/f4/88/99f4882bc9fefe87d10d5281f4470012.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0e/5b/6a/0e5b6a488cb0297461934f76ae393385.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f8/0c/34/f80c340e6909e779e1af7b880db882f0.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "PalmTree Wallpaper",
+      "wallpaper_name": "PalmTree Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper PalmTree",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/bd/6c/48bd6c54a39f9dec7ae265dfbba456c5.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

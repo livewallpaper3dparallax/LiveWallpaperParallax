@@ -1,0 +1,975 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/5273817875",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/3960736206",
+      "main_ads_natives":"ca-app-pub-7316385158012425/2435901546",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/2647654537",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/originals/03/e3/bd/03e3bda34fe17ba0808b3f80c6ccb266.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/06/ca/76/06ca76a3337981b81ce5bc26d92d6190.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/9d/8a/1e9d8ab331086104a8318fe3be6fc83a.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/66/74/c4/6674c409ca73b2e03a27e1df1ea88123.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/91/c3/7791c3d733c29524b2167171d33e9f2b.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/06/52/2b065269f6f27caf696e81d4a575c014.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/ed/f1/caedf110c4747f29b4517c02a4def9e6.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/02/c0/b402c0a1a0976b906c58f5fa1b6c9643.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/61/51/a8615118bcc87ffdf6f6f3d4272bd1d6.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/c0/ee/4ac0ee7bc2a545110f4089a5840daae3.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/f0/58/34f0582e586be55bd9222570e2701909.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/92/0d/cd920d78df36a419c4b2e54c185fa2c5.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3c/87/2f/3c872f1f2528edbe44974c728bc4a7b3.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/62/b4/8d62b49dc53a23f77b6622a233b1ff79.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/3c/de/723cde91d5ef0cc0a5fcccb9c8b7fb6f.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/ba/57/79ba578c4795301c2714eac117669728.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/ff/da/94ffdaf70481cee522a5829334a0db1b.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c4/43/07/c443071a81a8d78662ec4dad49e2b035.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/41/e9/6b41e978ea1c2dd8da48dae462371dd7.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c4/f2/11/c4f211ad35d6c2a738139085e827acc6.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/b7/31/e9b7315c69515105a7f15e5fc9ec3fa9.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/29/60/862960ea6005d7b8ad5e1fc4a20244ef.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/97/2a/03972aefe1f0cfc9bc88b3afc8e9284c.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/ec/f9/0fecf905e8e79d4f346a1ffcb81c2e76.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f4/91/61/f49161d144f0bc11acb6b8698cc0b108.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/e6/e6/bae6e6f3d3be615d4eba8f515994f8db.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/01/36/1601366c05b3c2fbd944f4ea3f7b1cfc.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/05/62/e20562658dc0c395c42ad64f3d327823.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/04/e2/84/04e284ba6697145eb987f931eb9b8b09.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/03/d0/d103d04ad5ee92303f65d41aa9f875d0.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/69/e1/9b/69e19be1b3591840099e1d7b6741dcb3.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/23/de/bf23dee89a78ff0e2db6ca3c6f6a436f.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/45/b2/0b45b25dcf6a4b24f4de4963ebeffa8b.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/b1/7e/16b17e8cdb63d58804228ba4fd982193.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/28/8a/ae/288aae984450b1b646b70d48f8ba122a.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/21/68/a8/2168a892d290a5e53c3907d20e968ece.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/f3/d4/03f3d481c308be18953f90b6a17ec325.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/ad/28/24ad28968739ee4a16caf251afcb1578.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/71/8b/ab718b1db23379f2a8b0b873e653f3ca.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/29/cf/0529cfed7d6f2a895b9b840a83c1a4f0.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/40/2f/61402f35a9d66d4435d1e2fb31c73bf7.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/f6/f6/27f6f6feca91ff7c4e5d2bc83b96ff23.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/94/68/629468e435abaee2cd6c4d1be762f56a.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/c0/2e/cac02ee8370ea4d4d35af9c40def3bd0.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/20/29/4a20290a69d8b2dfd5f2c5b57916c315.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/af/c7/82afc78adbb329e95579fe6737e65d6b.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/24/0f/52240f76029de001403b90ee60607476.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/26/ea/ef26eaece94c87bfbeda6332155e8d19.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/71/67/e17167d3c8994c20adc423aabacd8ea6.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/36/91/3d3691f51a7b0dac9372ba1d59c264d8.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/b5/5d/92b55d224dd66d5de9d2065e512f809b.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c6/88/ba/c688ba8378324db9a471dd3d12d0555d.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/a4/16/2ba416fb5caa0e4267a9992ae8d82968.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/e8/1f/b7e81f02e067cfd302e2bac2b7848414.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/73/49/d573492f1f9d38e0d0e8e9fcc744bc45.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/19/88/7719882c494d82d077ab2d357d2a0d01.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6d/7d/fd/6d7dfd0b7b4c16a929f7a0f6e9b4741e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/4b/3e/d14b3e7248fbc9fff94bbfc6d29efe4f.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/db/17/9ddb17218f51876ae2f66f57e15ae8d7.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/6b/a0/926ba0a42d7aa86a6e6d04bbf12d7fb5.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/14/06/63140694b545c3b4a44f6a82173c8c1c.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/c7/d6/2bc7d6c039ef85088ca58b32e7ed600a.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/cd/bf/3acdbff1a4a866b13c405141abfa13b5.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/40/3b/96403bed7519a24672c73797d081c027.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/3d/0b/193d0b1dbd9f533cfd0e69979f10e306.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/7d/f6/ff7df6f2ce941afec54196503c092da2.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/92/59/3092597057e82a518dbf9d8e5c654cdd.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/5f/cf/4a5fcf43d4bb5774e96f64d743d38e81.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/bd/df/3abddfff619bf148aa0b664d13a24a11.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/81/33/8881333cd854053a9ce6cacf9934f3ba.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/9a/d6/199ad63dca9bc4954c0f5c731b1cf3ed.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/bf/e0/1abfe0476322ed0fbd9224ea5c5081f2.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/d3/47/30d34704f954b2dd696993d90afa8dc0.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fe/99/48/fe9948c1f645107f1659c6cc27853e50.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/82/1f/bc821f633fd3612435338de463376e77.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/97/a7/6697a78347277861ce1c982047285645.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/78/b4/7678b43945cd19f7e6fc0aed27bd4d88.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/4c/02/854c02c543d9af736cdfd8d5a7464a38.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/35/98/9a3598ae6981cc5da035463067fb7602.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/39/ea/ff39ea83f92a80c58997e491549187bc.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/13/64/e113645f2e28e5165e60a581b0400d7f.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/b0/3e/7fb03e873c601f7aec2b986446fe9e44.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/71/26/4571267ce191b84b22c21cb3a3d6fe0e.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/ec/93/23ec93ccceaa0fbac9b7c880e8d8f114.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/80/90/488090153454da204bc849e40d5ce215.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/33/bb/a0/33bba04cb8143b1a24bbd68769377b47.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/81/12/39/811239ef31c1e6d850bebbb9bf940f34.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/b4/fb/05b4fbc3f169175e6deb97b3977175b6.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/df/58/1edf58e130973ee1cb49112a2776652f.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/80/08/52/80085249ef10a6e46c5eac9999293dee.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/0e/30/160e30439a507e50a0e87eb526af8a57.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/be/5c/0e/be5c0e4094052d751c7eafc5d1a06f07.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/e1/4c/7ce14cb0b0b334ac2ff42d67c4f98d48.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/e8/eb/8ce8eba2c591a9affa6b89e3b0252343.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fd/27/fc/fd27fc4777823cec3163529936995ac2.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/49/d9/d649d9a99d7cf838f33f76195277c4ff.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/07/ba/0207ba143188102686ab9d0157d2842b.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/47/df/c747df42e1b4872ef7345ad05de6f5d6.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/cd/a3/83cda38fda633957b448b254d083bb34.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/88/63/778863aaacac6248470fcf5fc80b6ada.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Solid Color Wallpaper",
+      "wallpaper_name": "Solid Color Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Solid Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/3b/bb/463bbb8a13251e929b71fdbf70b5c3be.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
