@@ -1,0 +1,1137 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/4864955469",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/1199659739",
+      "main_ads_natives":"ca-app-pub-7316385158012425/4094799275",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/2781717606",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Lily Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/98/80/8e/98808e1657c42d7f72b188d56131cd93.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/98/80/8e/98808e1657c42d7f72b188d56131cd93.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/27/d7/7927d7a281ed65fa4c803eb461fa7a8d.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/a9/47/a3a9471296b7d728cf1248bae0d0d2d9.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3c/11/18/3c11185431b684887337f62ae0f346d4.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/98/6f/73986fc0f09ad0139569c12f0e5812d8.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/c7/f7/79c7f768fc81516e05eddc4f138aabde.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/d9/c7/e6d9c7694aa2d0f0fa3376f718648994.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5e/bf/ce/5ebfcea65e760760ee1284df659fca75.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/86/1a/0f861a390c7a2458ed350c9f334a3fe2.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/77/cc/d577cc8df87da28d9b276052f6dea8b6.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/c7/09/1dc709060d9ff182607183a4d3506979.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/1a/18/d51a18b5909b01f825b679d714b89657.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/bb/2e/7dbb2e584ea5065991289bfeaf042852.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/25/b5/0725b51999eb15cec1e891605daf9fa8.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/ed/3a/f0ed3ae41e987389c42f446e0f27aa7b.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/8b/a2/978ba2d95561a206c2ff027d40af5651.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0d/71/9e/0d719ea723fd811d3c1e4ae4a61e0657.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a2/40/c0/a240c05aeb7a86378ce11f423ec30f71.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/af/8d/48af8d98a4eee3fd5af8ee9d673d0099.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/26/94/aa26943bc0c26a7e2cc254b3253a2943.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/e3/d5/27e3d54e3cc18913445ce8b5d2e77f72.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/04/0d/c2/040dc2ca753b2899c05589d20592b937.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a6/66/57/a6665781098885acac1b9cafe9123ff1.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3c/25/b4/3c25b451337bd1a5733014587b8e16ff.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/26/ad/2b26ad225dedaee73c0e186c3d9e3420.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/b2/a5/a7b2a5f39315a26ee4ee8726391e8402.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/2f/d6/612fd60aad37bba1640f2cd1e19fb9e9.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0a/26/16/0a2616f6001bd2ae60053e048e08c016.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/47/a5/6047a57b5fec4f3c20ea7ce1b344396b.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bd/a4/3c/bda43c8a040f825167947df36679c18f.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7e/62/32/7e62328a706f35fe3ce46bad8ce9b48c.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/d9/b8/fad9b8b79b9400cd4a01cd24c7438275.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/68/99/7f6899df0b4cd3997dfcc8b4dea7f757.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/db/57/abdb57ffdee6cbc8d1646aeeb1dd0ae2.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/4d/80/1f4d8042505cf8cd79563445f5ae0241.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/20/c6/1d20c66e674222adb43449a1dbece971.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/de/9f/49de9fc67715e8fd8838c9210ad48cae.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/71/d2/f271d23e21910097cb0334a73a9f6b1c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c0/b4/2e/c0b42e36ab1fc3beff96ca86e71b323a.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/e9/31/7fe9319d3ee22fff36cd0c6805987fa6.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/dc/d5/f2dcd54eb4b4f60be2a8e757f662c0e4.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9b/dc/50/9bdc507bfe15c423b4ccf3b335d3ea76.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/31/c9/d2/31c9d28b82fdbaf562be4422b10e6977.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/45/e3/4845e3647663aeacfede1ad70fa665c5.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/93/e0/3993e0ee51028c8f24045bfeb8d21d50.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/0c/3b/ef0c3b3d736d89fc356ee60177b1d97e.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0d/91/77/0d917750247c06c6fd637fb54f64cea7.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/01/c2/4501c2eb0cc91e96ef1b1a7f0f143273.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/bb/20/34bb2098ed5d2129479c1be2e5e9022f.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/b7/3b/29b73bab72aed085cc3c35b6e6be3524.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/6b/5a/036b5aa46a3c1cc8e154d6d730b6999a.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/c6/5f/92c65ff0724fd711e9234aa2e734cc8d.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/bf/42/ddbf42e2c3bed2d2940c4b005f53882e.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/5d/b8/155db88556e9d3656154360cdebbb437.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/a3/1e/59a31e1b38675af94a6aaeffc8458b4d.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/77/8c/ae778c774a7210854a5cb6cb6437ca15.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/1a/1a/521a1a4f4acf06d5cd5f09e4d2cfcb95.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/42/45/e9424503b2c754880a85b04ec2f4b37b.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/3b/e4/a33be48e6be8f91ce549021248574ce3.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/ba/82/cbba82d1279f46bf61df521495147fff.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/50/c5/50/50c55000855d223384803729938980fc.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/16/b3/3916b31145d7316f56e9e15eb97603e1.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/69/64/c4/6964c47160d514a88ead62ade0e2531e.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/d6/f6/acd6f660a6254ff111d61c6a0381adf6.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/75/e2/f775e24c9579a8a3f380551b5aec73fe.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/d8/67/47d86708f7999e03b8b2668412da1592.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/ac/5f/87ac5f84e3ce15ddbb28475ed840189e.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/2c/5f/1a2c5ff05992d22360ec35404c5ba3cc.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/d6/fb/3dd6fb3cb9d9a15972b288b7863e2a81.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/a2/d8/eba2d845643fec16e18f81df2d835a87.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/b6/f9/5ab6f9ed8fac090d058011b300de6a7b.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/f1/fe/44f1fe61db2fe982f71f2f6da4c7c421.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/33/ea/90/33ea9066f13e0c98db542aac128ed3dc.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/98/0d/1a/980d1a0bba3603f3bc1581d3999b7b96.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/80/b4/0b80b4215b3160fbf0ee0d572d0b8172.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/e4/d8/9ee4d89b8ddcc05e5afe0dd16d4a5ebc.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5d/91/f8/5d91f8db89dddfb8468ab6d645a4ce8c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/8a/d2/ef8ad2b6f44be46a011418c3cfe758dd.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/35/9a/b8359a78fc02f7cf5e66aa7267888e07.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/7f/69/857f69f67669afe4f21f901fa06d9e91.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/6b/26/f9/6b26f942a3a26075475c86d5b4519e3c.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/46/66/b84666c6550a685b5471a4165e576634.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/1b/dd/b51bddf015a155fc97a95f3e1796b759.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e5/b0/35/e5b03535ea399800d5d144c55cb09ed6.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/c8/44/66c8446b7206f83b3b3d4ea9313dd559.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/cc/40/bd/cc40bd4704aa4fd25e0b5a7e5e09ea26.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/d7/57/07d75731c0d2e473e9525f176900b4ac.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/56/c0/75/56c075b872fab1c6d4685dc884a15ede.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/09/82/1f/09821fd9f5f8610bcf40c63e4e92e016.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/cc/67/71cc67507725778746198ffcffbf5364.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/5e/1a/b95e1a3ce1e10a8b05a7f8db5711a25f.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/54/56/08545616f1dc46b94b15c57d794fb9fa.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/31/07/c13107ae4d7170d03de94446c73b8d2f.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/51/c7/ec51c74a4e1c857168b57ed78f133dde.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/e7/42/bce742a7158e40d0694174711d9e80c7.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/f3/51/daf351622660fb13fe43392a894a5d4c.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/e1/2d/ace12d01fafba981ed3cd0b8684a8b88.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5b/4b/62/5b4b623b1cda956aa6203bce88e65a66.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/50/b1/4550b107bf842518d543f790eff94ba8.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/3b/1b/6f3b1b315584e2c9819c5ebd74e1a0af.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f4/38/c9/f438c9e485805f457c4bd07be045476a.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/80/ae/5780ae172aea7afc1f83af8530db4e8c.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/cb/26/4dcb26ee3e91d9b47a9d521a32cca649.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/e2/36/20e236b160809c20ab68ddc3e876ef07.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/6b/25/e96b25a48ca8859b549717720813c65a.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/7a/be/837abe8128289b1873973a8f12bc0443.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/da/cb/60dacbfc7273be4baa46b1c059cab077.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/01/7f/46017f3767ad9f0b6e8154a1f73933ea.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/46/67/344667b5a9ebf7aeb83a5f0520cc2f29.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/34/19/473419f9d23c832d5e3593ac40637d8a.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/7b/8a/b97b8a1292c50ec4ff5dbb3eff70f505.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/8c/53/bf8c53212f32fcfabfe010a76f31c2c1.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ea/b5/58/eab558c225e313e39498b4c8c6ae8a0d.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/c8/d4/3ac8d44e41e9d3c484448de6f6bc2e1b.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/f6/59/92f65902e565b9faee6fdf3c44b7998a.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/48/44/0f4844400afc949d3ef755e1520966c0.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/aa/77/1faa77b5e44fa869dbf66ff3cfa4dbef.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Lily Wallpaper",
+      "wallpaper_name": "Lily Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Lily",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/51/c7/de51c7cb9282fae789a6aa57c11a1894.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

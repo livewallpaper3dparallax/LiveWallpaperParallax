@@ -1,0 +1,1244 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/7568507408",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/4632735760",
+      "main_ads_natives": "ca-app-pub-7316385158012425/6053898148",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8474502764",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/9f/af/85/9faf85ca3a71193a96d54a4d44b2215a.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9f/af/85/9faf85ca3a71193a96d54a4d44b2215a.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/bc/b5/e1bcb538374394fe6067fdf19522ffec.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/43/89/7a/43897af12f14c77669022af7e159029d.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/54/39/b85439084a183c633c0c64c69ad1d874.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/65/f6/5965f6c42614c7479393fe5df69c21f1.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/93/39/7c9339c2ffec7664058d5b98aa24cfdc.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/b6/4b/8ab64b28374308150858e2ed1fb77840.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5b/6f/08/5b6f08b2dd231b4a4bb8949cd7a08be8.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/e3/c8/abe3c8be1941a976c033f548c2b19f67.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/71/c0/2471c087ff2823e14bb0991ab74a248f.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/3e/ec/1d3eec7aa2d1906d86dc717397313d18.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/cd/b1/24cdb12247115415d4074acd8b6db6b0.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/28/4b/7c/284b7cfece0adfb8558987f17c0071bd.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/19/e8/dd19e80ebe2fe277f4e84845e456e14b.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a2/cc/fe/a2ccfecbc3f30b35305fd2684e7706e1.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0a/ad/83/0aad83e056e742029b7091376ad82f97.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/ed/36/eded3671fc8661410d53c4def4d84495.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/21/3d/51/213d51d7b247ce85130ede4555bfe76e.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/e5/c2/25e5c2e650c8389fac27d0d9ee1d3742.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/10/6b/2a106bd608e7740b79033cfe8320f9a3.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/d5/14/5cd514e48e88237f45e82db90412b89b.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/64/a3/b4/64a3b4237ac0f181264de22dd3b9de77.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/05/ff/cf05ff5eaaade46974f7b7a4ceca6620.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/a7/7c/a0a77ca993eb8234396f552956bd43a8.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/53/59/99/535999676dbff55d262cd489546154c0.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/0b/0d/e10b0d6e9d99e6a4ea72c25fdc403794.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/58/89/e65889265e2d3ed4dcbfb6b5b6035066.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/9e/26/d69e26ba8c7f507d48688a879b2be1bf.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/4e/3a/bb4e3adb7099b9abd20d080b77816c77.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/19/aa/9e19aab444cef20e1b3a252bff4e23bf.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e4/10/2b/e4102b0ea44617d4e375e383807ac149.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/68/50/90/685090ea3bcfe226833482b377d19d28.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a5/59/a4/a559a444836bd9cd1396ddf3b17887f3.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/64/ac/4a/64ac4a9e1d503035a3eebe2751d36bb5.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a1/95/ab/a195abb752d9e7fbc0591d236fac911f.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/a7/47/5ca747ca4b8b6be2eeb0012cdfa02f74.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/56/e8/43/56e843d1a250f227ed09e04cb11246ba.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/da/de/92dade95bc1eb4a1c9a46f3ac367f179.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5f/1c/71/5f1c718e3a0408605ff7e8cd510dd37f.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cc/44/fc/cc44fc1da5477abf67ade5fabb8aa618.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/ce/cb/96cecbc4920ac054d5f3ac3efee62532.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/04/1a/25/041a25bbb37195385a5c3000e2e3bc43.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/e8/e3/05e8e38b4fa89a99f93161d9e1afd721.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/8f/e4/6e8fe4ed4a7e94c4ab7f8a715f4070eb.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/d0/75/c7d075e914ecf03a6195df231d4a961c.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/0c/47/6a0c4741ce95d0150fa4f039bef1d694.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/a8/c1/62a8c1c7f02489292bdcd003e0820047.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/6d/53/ce6d53a2406a48d0fb5ff38424e6637f.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/16/4d/7d164d4c1359514712896ba37c435cb7.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/d0/9a/bfd09a60817f99536802c3c22870998a.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/a9/8c/0ca98c23a5fc34a62939d3aadd64015e.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/b2/95/3eb295edbace48f446722e508c0df9b6.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/c7/8b/b2c78b0bf8f14f0ba205b0ff20901383.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/de/7d/92de7d1c058d19ed19bf96362f539d75.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/8c/26/c88c26cd01ffb29e8c4b7467abf9176c.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f5/05/21/f505213f5eb372cfa82de41560f8a51c.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/cb/56/4acb56dcff3146c7c887eeb9d56018b5.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/81/c8/b781c86aa139515c29c3edae80d51471.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a1/01/60/a1016057cebffafefede2542519379e1.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/6e/6c/a86e6cc26c997dea612e20b8dca79e4a.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/7d/39/197d3940b7f9f3e0ec09bb6afc986eb0.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/be/74/d6/be74d69f97ff00a8b252e474e70e439f.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/12/6d/46/126d4632247115416f09ee8cf357ccef.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/41/0f/2b410f02b6f1ddfaafa410829465095b.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/a7/48/48a7480a299e0506f10c8164d3a96829.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/ca/ce/aecacef75e963f74f29649133f87ba3f.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/b5/30/46b530e2e27ff07282ad7cadb726aac5.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fc/07/50/fc0750c63e08aca7a3db3f4962de3644.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/55/c0/1555c0cf5fdc6208a8e57c0a05423fc1.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/74/60/67/7460672214b03d446bbccc7a2a9ea3a6.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/22/cd/a1/22cda14c567f0f0451a803fb216e2c56.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/a6/97/b9a6976ae632f5ee8ead9319ad755961.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/9d/d4/4a9dd458767ff3b2b4124accb2db77f6.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/84/e9/a984e9bba02d531b0508a2b5dff197e6.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f8/32/b3/f832b343d13d4ceabf41db8bc600e04c.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/9d/db/399ddbdafe0776f360ed870ae86237ad.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/ce/8e/7bce8ec32b93a8a2f8241038ceb4b8a5.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/ac/f6/82acf635d97d5639eb66694d7f14e417.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/7e/d3/707ed3261662179ef8611d3b8ce8b2b4.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/93/aa/e093aabf1d59ccf2465ea86489f32083.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/22/f2/b622f21bfce18e302ffaebeaf2268a7f.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/26/a8/f026a8ed20ce8f12e2172e809c8499ce.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0d/4c/b9/0d4cb9280ffc5c7340c009eaa1aa5528.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/91/8d/7f918d18c9e3c5d177c0fbf1762b0344.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/31/57/95/315795d3f7cb781be753ceaface7a28f.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/09/aa/84/09aa84c84d783d70230837abe94e91e7.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0e/29/ad/0e29adfa4497e3aaf3c7e2d42e0a3839.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/b7/69/6eb76933c9be16e1f4fb70dbd8f29e34.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/b1/90/72b1906d5c01ed5d3c36229f1dceb827.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/41/ed/19/41ed19266bbba2443e15f6ad3bc7fe94.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/9b/50/4e9b50eba15783dbd4d76707937054a8.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/de/9e/9cde9e2f4b743ded903fccbe6c167263.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/71/b1/4771b1ca704a1fe89382c076b5f69f4b.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/d4/a3/c0/d4a3c0dbb2a1b06f2c4fbf9402c2b2e7.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/64/17/1e6417c3c1c54fff8858003c6697c8b6.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/c2/2f/e7c22f9162197ca9bd28552cc4704c75.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/21/26/20/21262093355edaf5fd3c7359c83f47af.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2e/d7/6a/2ed76a35549d16b37749a087f2da4d6c.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/cb/da/a7cbda6ae0808358e2875ad9283ae670.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/75/35/51753580db52b27f2128c137e9f8e079.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/96/9a/37969aa597985bbc2298ca2a82fe54fa.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/e4/dd/b9e4dd1e9a6880070d54d24b1f560227.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/87/bd/9987bd05ee6276c44be475786d4a8108.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a5/ff/c3/a5ffc3e35ec3ff3852e4452c60f33f38.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/73/6e/3b736e5dd9f916dde2158bfae877f52c.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/18/6a/85186a0b9d0bd93a505653aa1b3c873d.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/a2/43/b0a24379eb2bf423ac4341c18496c4c1.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/fe/f9/c9fef92fc4b831557851b4891128104c.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/ab/9b/42ab9ba5735fbdc1316599c0ee716689.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/04/48/750448e6cf5920c06c9178a76dc78611.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/f1/c3/91f1c3dfed55265ebe3a906136aeee70.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/c0/bc/dec0bc40f78b574a6bd2b96297be6a3b.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fc/74/a9/fc74a991befcdfa2c7ff8beddc08322b.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/0b/54/fa0b542208538eda74d268c32fe2e45f.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/c6/01/e7/c601e73efeb8936752ad50e0d0041d3f.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/62/c9/9362c97f1531371b7063d14324821dd4.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/fa/db/c9fadbc03db6cb6b6563d21c9a20cc4e.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f8/14/2a/f8142a452ec8b60d99480d05459515da.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/01/46/ae/0146aed3579293b69df1ad2abf77a0ec.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/fd/b2/defdb2f3582ef28f7323e250982e8a80.jpg"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/1e/e8/e71ee8b39154ab4e436699aaa084b1f2.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/11/83/b01183611b3aec621cdb4ad1ae7a5e45.jpg"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/f9/60/a7f9604a2a0c4377bb490034d75bf281.jpg"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/86/78/e8/8678e870abe8c0c863873dbd65f71f44.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/79/d6/6f79d6fe91113d751b6fb6c36aeeb004.jpg"
+    },
+    {
+      "id": "731060952026444941",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper731060952026444941",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/98/14/879814af7d83096ffa1664615b9b4fb6.jpg"
+    },
+    {
+      "id": "611715561905282987",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper611715561905282987",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/40/ef/d440efea32978aba8985bd72012246b8.jpg"
+    },
+    {
+      "id": "762163936957845179",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper762163936957845179",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/a0/c7/2ca0c7c6ce25264f90bc7f2089da6d3d.jpg"
+    },
+    {
+      "id": "762163936957544557",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper762163936957544557",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/45/44/8a45444a85a5582e03d2954b6b9e9a06.jpg"
+    },
+    {
+      "id": "762163936957544550",
+      "name_category": "Graffiti Wallpaper",
+      "wallpaper_name": "Graffiti Wallpaper762163936957544550",
+      "wallpaper_detail": "This is Exclusive wallpaper Graffiti",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/10/23/1e10239553e50096cc5451236c2341d8.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

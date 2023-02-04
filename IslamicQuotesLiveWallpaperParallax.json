@@ -1,0 +1,1613 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/8760517181",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/1826060280",
+      "main_ads_natives": "ca-app-pub-7316385158012425/7942259538",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8474502764",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/25/b2/4e/25b24ea5b123cf72c29c3f747b372321.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/b2/4e/25b24ea5b123cf72c29c3f747b372321.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/35/fa/9d35fac35cfa143cc016cc9021b81d48.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/54/6b/6c/546b6c26caaf4c508830ffc31c036ff9.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/89/71/7589713b9872de55ca9831eee331fec8.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/1b/67/3a1b6797f7deb24d0019da83cfeb7b1e.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/58/aa/9158aa899c5bc7ea4db07ae96b16edb7.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/dc/81/a7dc8153bfeacf6473b8c131dd036220.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e1/86/40/e186406883605f67636a95a88546d692.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b8/b6/e9/b8b6e91a50065b2ee67e93bd0d7eaf17.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/ee/78/cbee78df89bb7240ecab3f44e2e0d4ea.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/eb/2a/caeb2aa258de4d99f2e7d2558f806658.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/7e/f2/bf7ef2cfbec32d869725b06de838936a.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/02/09/8d0209a23095d874bc4d6b14a82435b6.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/28/d2/65/28d265df95d1c6b72bc93abd090bab6a.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/20/79/8c2079c97c5ea28bac76dfbaecb4a9d2.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/62/b2/e762b2943bde4c6ab5d958368aea72e9.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/00/b7/14/00b71490652ea011dcd6529f8c48a9e7.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/67/a9/ae67a9e5c24247345e33f3e2e645d628.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/43/7c/1b437c0bdcdcca6f34a83f5dd82d16c2.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/5e/58/c35e58b71648350a7a82535c384e1e57.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/4c/69/464c69a5fbd10c99371747456ffeb27b.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/e9/b3/03e9b3940209c0e0374bac1c555672f5.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/c1/5a/d8c15a1b8c4050567176c1f6a0aa4adc.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/a7/4b/5ca74b854d793eec74bfc0c86c4b2cb3.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/6c/f5/f66cf5750bfda9144bad0bdf8324e1d2.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/26/53/bc/2653bcca19d9a2f981bdee7cf09f154a.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/b3/20/24b32076e7cb9fbf130f8c9237f72653.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/36/23/4736238e8a5f706a8339e16bb7f72d1e.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/e9/4e/88e94e95f0a0d1403dcf761c174d29f5.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/f1/30/1bf130c6a8be4de3c66312acf1b4bf7a.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/d6/8e/8ad68eb0e40ec67aa1371560426cdf34.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/6f/58/f66f5867cf9b98f571150528f5780ff9.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/09/29/490929db2dcdd33932778074de535681.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/12/18/6d/12186d0f7099da72ed0f9da9fa900fb8.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/64/50/e6/6450e61468e45ceabf903443dfeefa13.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/1b/7f/991b7f08e10fc081a093f74f1ab81b14.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/86/8e/bb868eedc605d71e93a5c0b5afa27bc8.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f4/dc/7b/f4dc7ba8475cde293a6a97e12a6efd4b.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/84/5f/7d845f5d14b6711c23f9a7483b9de4bd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/ad/ff/99adfff9b92005e0a0f36563e6e05486.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/63/46/34634606d7cf9b039feee812537be96e.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/d3/0b/1cd30bc8b0e83a17199303d11ce2d264.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f1/4c/de/f14cde55ae2c7c0692f53d35196f07c1.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/81/f1/6081f172f471210cbfa70de81f00cfdd.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/43/12/4043125b851eddacfb7aeae7e1a5e6ed.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/99/04/d099044b5cf18d05a79e9173c4fb6057.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/79/2a/fa792a123ee16318f826fc6c32617c44.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/c2/ea/17c2eaaac87941498e7c74d2de59f852.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/aa/d2/bbaad22268b3b946f482c582becbcd44.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/7b/87/3d7b8757fd957653325577bf2a4ab117.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/9a/55/3b9a55aacb5378e453d67e817984c02e.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/38/05/0f/38050f7bc92858f42fe6f02cf6c20d46.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/54/10/235410ebeb1d700bfb7ae196b1bc4205.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c5/f1/6a/c5f16a70044e24c63fc0ca51b9ffa89c.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/15/a7/b015a7b73c41cc53d5f3385143614cc0.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/5d/07/b65d073d3a4ba2012319feb34e5d3a63.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/bb/a4/36bba4ec0197c731b3eeb82ae6e3857a.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e3/de/bd/e3debdf8529c2adfdeefdfc3260b6db1.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/77/26/3a7726fe764ed1aed724933bc6252d47.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ad/92/3f/ad923fde513c5d6f253c8536e28ec979.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/4b/83/874b83d58b64b3e27054585057f7523e.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/8f/16/b68f16d5836c08236ea3c27293c4e77d.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e5/90/47/e59047952c7f9c15072a875a502d50a5.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/b8/8e/51b88ee311994c66311f7009cab03a3a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/78/9f/1d/789f1d92e1342b16aed573795bdb2fea.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/85/eb/cf85eb9504d874cdcc411882900a9f26.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d7/e5/b9/d7e5b95da0b9a58cf4bbda7f861f4adb.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/9b/42/cf9b427ed6560357ec5fed6a8cd0c405.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bd/ef/26/bdef269b73728ee0232946711ea03db3.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/ab/f0/15abf03fbd7cff5442f42edebe06fb8e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/8c/ee/dd8cee42adb35f94d4807b83e4e67f24.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/cc/84/20cc84fcca4e78933655c826c4aea3c9.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/10/37/731037a682090d8270d6f92fb29a36f4.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/43/9f/86439f010faa214ff1d42ddba3791796.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/7b/92/2c7b92429743bd3750558330efc2e114.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/a7/1f/4ba71f657d3e9ae37f3a14fa2a06d090.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/20/6c/c3206cef49e8d1aa0dcc0efe148cdbeb.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d2/38/1e/d2381e38256fa11c1309abfc8ccafd63.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/14/2b/3c/142b3c816d20f6cbc4f7efcaac2fcd44.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a6/9c/ef/a69cef6c298e559ec044b7f79c212112.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/68/f2/d0/68f2d0d2c74d1ef905c8a093c1e4db60.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/d3/60/cad3607b2552b237072f2e53fcf396ec.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/87/33/b58733f3a78167d0e0962a0b70dc81f3.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cc/ec/3a/ccec3a26c992dedc711583c9fd8ef38a.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/1b/8f/871b8fdd6c74470d07da7ebb42a2c309.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/73/8d/3a738d96588e04fc7f6f32ad234d5668.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/ad/ba/55adbaa9ce2bfcce435d3ced8be31436.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/45/c2/ec45c27b4195585039e0390825cf1397.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d3/c6/6a/d3c66a8808e149941a14917973556fa4.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/88/db/4988db1ab0fd37f146a3b6128605b887.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/11/7d/1f117db8b845cb390c3ee991d7914d51.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/06/23/a90623a87f31ee5bde122d63274d42ee.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/5a/11/865a1185a3e3b3f42c2988a5a122f432.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/9d/55/929d553704257ff02302eb911adae27b.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/40/35/204035e3558eb4f48e27cbc94f43a891.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/35/8b/79/358b794d2fe85096c5d8ef8ca0f38c2c.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/5b/f5/e05bf5d055e9230187e382eb35438ab2.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/09/eb/bc/09ebbce7adcd2973d53068deac0f1472.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/5c/ee/6e5ceeea9d676f16258bcc434ed9dded.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ad/e0/76/ade076c32abfeb0450205daa5d8779ba.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/7a/c8/2b7ac84328512edd794edb731b311ee8.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/87/51/dd875110ba9e93e469feab025279abb5.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/33/9e/3c/339e3c8cfc7cc41146da682cd5b3e98f.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/fe/14/24fe14560ef5b521511e6673165fe425.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/0f/75/4a0f75779f90bbf4650ff8d00faf5bf8.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/fd/cd/1efdcd5857a2b8646d7b8158cbd26085.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/69/88/886988b7972d6ed8fec9b181698e1f8e.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/bc/4f/99bc4fbe8bcdf99e7a77389d8ff7dc7c.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/64/e3/c0/64e3c0830c94d9f688a55018bd78e5e2.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3c/23/14/3c23144095370b9922e939ca56f3ae73.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/cd/a0/05cda00a494789c4cf4e5d4893ca27e6.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/92/98/4792985bad0f455efd24ae8ab585d9ac.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/08/bc/5208bc50f059a49ad566aa8a01f7ab22.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/38/90/a83890d3442144cb7dd5a2eb167af633.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/36/b8/2a36b876da81ca01c01489323d561b59.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/86/d9/5986d9419202f3ed5d90042758d95288.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/78/d1/2b/78d12bab405d2cbcb3f5c69f6246a6a4.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c4/59/ea/c459eaa81bd3993e7b0dd3e33f9088eb.jpg"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0d/4c/f2/0d4cf2b1dcc13f86322ab3863a63567b.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/e6/22/76e6225cac2611bc82c589c9c427d2d7.jpg"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/f4/1e/e7f41e6f993483b29af5fdf589edf38d.jpg"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/28/c2/ec28c22a7a3998a990ab0ad3a961dd68.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/e8/e6/96e8e646d9d5a0d3407f3c041ae3c8c6.jpg"
+    },
+    {
+      "id": "731060952026444941",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper731060952026444941",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/9e/1c/029e1c3d315e292c76cb864b51769df4.jpg"
+    },
+    {
+      "id": "611715561905282987",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper611715561905282987",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/7b/dd/4d7bddf3cb7d96d54578502d56bf2a93.jpg"
+    },
+    {
+      "id": "762163936957845179",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957845179",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/f9/f0/a7f9f00c981d08b137294679256b5442.jpg"
+    },
+    {
+      "id": "762163936957544557",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957544557",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/f3/39/aaf3394821e100cee653bbfae1d83a8a.jpg"
+    },
+    {
+      "id": "762163936957544550",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957544550",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/29/16/b32916a53bad0970494c2a4dd5ab4012.jpg"
+    },
+    {
+      "id": "762163936957497726",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957497726",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/cf/39/facf39d88213b94a68030059d4756c2a.jpg"
+    },
+    {
+      "id": "762163936957432366",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957432366",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/a5/a6/4ea5a6cdd8d5432661b9b139ab1c8f81.jpg"
+    },
+    {
+      "id": "762163936957390277",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957390277",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/20/0f/bc200f8aa06a10ca708f193fed3b3d63.jpg"
+    },
+    {
+      "id": "762163936957370733",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957370733",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/a9/71/77a9715348acfe87cd11dfc9d4e8ece3.jpg"
+    },
+    {
+      "id": "762163936957354584",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957354584",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9f/df/27/9fdf27d23bc32f4c7421bde66be77a2f.jpg"
+    },
+    {
+      "id": "762163936957354561",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936957354561",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/b5/7d/44b57d98c49154cf8718aeba89be4681.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/be/21/b9be216d075cfd15ad62f617cdf5a624.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/f3/90/29f390cb4263e2dd12820c12136caacf.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/55/08/395508e23955206ed558c22f02a3aaff.jpg"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/16/22/3216228096f33f1902510e5b6428a75f.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/77/01/b17701d051b1a2601fc222e88f647039.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/2d/64/e72d64d6d52b75e8a57ded8398ef052f.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/b7/25/93b7255933777db5197cc3e44dcfc248.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/15/30/f7153060ce84bd68bbf155163a4287e2.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/94/4a/f9/944af9e1d6912834d90b43b924905729.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/51/8f/bd518fa6290e5d03833a502296fa85f3.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/01/1e/5c011e42932cdc381f849c0ef68dc08e.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6d/f4/f9/6df4f97bcdc4896e64053c7437b77fb5.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/12/f2/c112f29510c1a33e35e41395569b58c6.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/af/d7/02afd74e99419e7dc99f71de9137a66f.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/75/f9/cb75f955f891854948d86de6e1968b45.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/11/97/c2/1197c2f50d7074aebf1fae3e73b7120e.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/af/46/e0/af46e0b1824462e091f67863036a4369.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/64/2f/e6642f38e20676adc72e0d49a0044c7e.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/a1/3f/52a13f643cdeb7472819aac7e3c0455c.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/09/50/160950660d0f100e09e86c0d9989b8f5.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/c8/81/ecc881f8c2ce8e5c78fa8054b0a05449.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/67/92/3467924ef41ac01f98a08dd0070a1670.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/c4/cf/3bc4cfd0a6b8a4661cff69ba4845fbb5.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/74/4f/b1744f22468eb53e8b3510e17cd5e7dd.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/6a/d6/1d6ad653d988f6a127a9c2835ec9a37a.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/14/cf/dd14cf0ac390e6a8c19a2d5aa576183b.png"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/07/7f/6b/077f6b178dcd05d7cc9efc32a73885fc.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/78/e2/2b78e2f1c17a7fa67f0f6b7067bdbfa7.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/03/26/480326117828709252101c7b41dbf6a4.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/55/18/4755182b2e1c77665c9afa3cde2dfa07.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f1/6c/fb/f16cfb62bd1173abec9df0b755b7e520.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/e7/29/bae729efec98a06c3ca13e21576ec3f8.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/1b/a6/ff1ba665fb52510897ed2ec62e6ba1b8.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/2f/d9/8f2fd98e73c782f0c71a5d3bca8ecfdc.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "IslamicQuotes Wallpaper",
+      "wallpaper_name": "IslamicQuotes Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper IslamicQuotes",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/01/f0/2701f0239060c381bcd70798400a5c29.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

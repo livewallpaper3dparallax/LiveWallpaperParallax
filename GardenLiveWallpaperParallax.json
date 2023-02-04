@@ -1,0 +1,1082 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/3303342222",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/1373799992",
+      "main_ads_natives": "ca-app-pub-7316385158012425/7611905284",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8474502764",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Garden Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/7b/62/e87b6240dd215d229cc4ececf67270ff.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/7b/62/e87b6240dd215d229cc4ececf67270ff.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/e8/1e/83e81e54caf2e20aa30f7f94122df94b.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/99/05/729905336732c8eb7998b7f6b6600a13.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/8d/cc/758dccb45fb2c487f2476126a8e8d3b6.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/56/37/b55637ceb534d46f25aa8544d4a0b400.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/b4/f4/61b4f4855e89a1fe48b1a39d382e463f.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/04/9a/a3/049aa31b7a23aad651d108d8d83d5617.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8b/45/29/8b4529586e6341756e822c89c63d2c40.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/40/cb/b440cbc438af5803f64204d9e291f6d3.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/50/b8/a350b8a47eedbe8fdef659eabf9087a3.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8b/fd/1c/8bfd1c8cd93913cceb7cbe693ee253f3.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fd/35/5a/fd355addd3f1b829ac2dffd413407611.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/5f/0c/975f0c1f38223c8c73a3d634dc71a7f4.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/1c/53/4d1c53ebbcce55dbdaea166ee0a485b8.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/9c/d5/f79cd5740b2b0e32020cf34daa971403.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3c/9d/2c/3c9d2ca4bd04048c999c36b3753490f5.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/2b/5d/932b5d7436e130c4b21b59960a1f4e9e.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/3e/a1/5a3ea1dbdd08e0c043d1f5989e70f0ff.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/2a/8d/2a2a8dfcebd01f387f2bad8e1db1864e.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/e5/80/19e580719c86e20b3a6fcf0ecc67b9d0.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/03/95/d103952c2003751c6136b846b1d89d32.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/18/7d/d8187dae8c4e64eeab08d15f49334536.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/31/81/663181a599c7b8da661424c57717ac59.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/45/9c/b3459ca960736c19d03305c0b62bb01f.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/ae/00/44ae00ea539e34bac0e1a71696f7c009.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ff/30/fa/ff30fa1188d205d6d43917f346db9651.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/e4/8f/cfe48f0fc7d32d82b6c21deecd9bfae3.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/1c/95/c81c95f8f31272c0c325ba37de0a43ab.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/d8/a1/e0d8a183a2731414a75f03ee1e6b6154.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/ac/b1/eeacb183cb89b1e717a75b55b0488bba.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/3b/83/d93b834819355c15e2d7a66fd82299d7.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/7c/eb/ae7cebf2a918379b6cd5c909c5212596.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/47/ef/23/47ef23e7fb699d82970ddf91e5ed55a9.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/3c/0c/a43c0cc75728343878c7438e99858aca.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/af/d5/16afd544c148806abb728d2966b57a67.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/63/da/0763da6300267b4e5f223391a4c44d79.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/53/1d/f1/531df1a06a6c6e9ec1fe75fa25bdd202.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/ba/2f/62ba2fe2e69a0372d2be30f8ea814069.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/dc/23/b0dc23393026fc6b6bf82b5db4c4d3d7.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/4e/d9/3e4ed949ab8f6bcddef03f08aa2b15d6.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/c8/f4/0fc8f40cb0bd2b45415dce820c68ca31.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3d/4d/d5/3d4dd57ef37bf5376114a642457fa0ca.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8e/54/8a/8e548a3b8d85c37e8935e5c8a7ab0e9b.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/f9/3a/f6f93ace6e81eb714c7ecf136b5af815.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/08/3d/67083d70cb2370421f6bc34a63c9ff45.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/cd/1d/36cd1da7302beb8dcef3361423f91d6c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a2/1a/eb/a21aeb8054c0f4085d66a003a51c94f7.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/fd/83/03fd839657372ecdc1a03c16c4832133.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/8e/0f/928e0ff1b26ad7d899e1e89bc9424a0a.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/06/78/f20678ae08d419cf1aa2470a612ca15a.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/e6/a7/84e6a733eb9d6a700f9cbdd20bb92a5a.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/fe/b8/a4feb80aa8b235c77b18f6c1cc381855.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c4/c0/c5/c4c0c560eeace93784f2c613fb1f08df.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8a/2a/e0/8a2ae03bed79f175d85ee1ad25e259f7.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/ca/8a/ceca8ad38706e5104dc49b701939f934.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/cb/97/decb97de3577e5244c71b39129855e38.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/5d/0c/715d0cb77217a0840b9990456b5068af.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/8c/d6/cd8cd6bb459404fa90c1257cb6bf65f3.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/e7/33/d0/e733d0359bb8703c85f379f7bbaaf03d.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/54/b6/2e/54b62e2645b0823400150c994b7cff8f.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/eb/c7/2aebc7036a806c3372e15c44ac531355.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f5/c8/78/f5c878d32916eb990521204e700cc83e.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/29/47/9a2947d28107577f3c5ce01f9b8a7728.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/f8/93/bff8937c41acf48666c8fcf04aa93152.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/cf/30/70cf30507fb014a557c49fd8f69b7620.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f1/e0/0a/f1e00a2073ded1eb113084621c1b2d15.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/31/4d/61/314d61835726ba246ed6fa7e1e8eeccf.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/13/4f/62134fbab7bf87e1405f998b3c56fee8.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/1d/1d/5a1d1d7d599be9cdfc77d9dc81a34856.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/eb/aa/39ebaaf2316f3b4f777f3d7695f713fa.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/9b/ce/d99bce3c130e7f2bb059ebfccd9ce492.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/ec/a9/75eca971e7d838a792a99d918d3c6ac3.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/f0/a8/def0a8269aeffcd7e053d1829baab3d9.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/1b/97/f7/1b97f738a41f634566a571b9e9d19f38.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7e/c1/0c/7ec10c1c089796cdd1bbc8e52a728ba4.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/27/00/6b2700d0d550f899dd0fd09b6b6ae7ee.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/87/52/48/875248bbb143ad4e1af6c5ad08efa762.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/89/d3/db89d3d0543a7cad056299108d3d9df7.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/d7/92/b9d792a003f9903d279dbf4cfabab881.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/22/c1/ce22c113452455bc3955e7ea2ed72b05.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/78/e7/1c78e7728ce7aaff21216ef31cb9132f.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/a7/7f/81/a77f81f59419383dd67c9717b8a400b3.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/2f/8c/162f8c22815e1accec6f0fc02c3ee4b0.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/a7/67/52a7676b1b7e1f635ddd3683f45befdd.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/c1/be/75c1be49085565e47d89c45bd712d92c.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/53/ef/9d/53ef9d30e32dcacdb79e4284cd3b0d18.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/45/cc/50/45cc50d83ecd359511135ff583e3aeb6.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/a2/a4/f2a2a433fbb4ff77ac3483f74798fcf4.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/bd/48/c7bd4800695ab594582a63e0685e8e32.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/da/a4/d4daa416ce84d0597370ef40a8f6fa40.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/2f/2b/86/2f2b86d4c223e0749505874bc7095bb6.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0e/8e/46/0e8e4616290703a57831af22f5350432.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/18/20/5b/18205bb694b1fa689fe4afae33b7047d.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/e7/73/62e773cecf3163ebab370064a7c2fa1b.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/d3/51/b2d351b09bf67ffe32659f4ec927e7d2.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/f2/47/4cf2472c3f8b5751d597c84507e2cad3.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/3d/36/a73d36e19def3afd1a9cc3546cfaa082.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/93/9b/ae939b8645d71ac19c6f830a9a9920d3.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c2/60/2e/c2602ef5ffa9385a57a1477aea2ccd08.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3f/d8/94/3fd894a896afdcc4b4222d9ccac43043.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/88/a4/f288a4e6e77bc88c39535787fbc37542.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/9e/ed/529eeda27fac3b4f0bfaa30c5a90e5e8.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dc/ae/8d/dcae8da481695c2adcdcc73a21a4735e.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/00/76/23007668b61f54a507dfc2b375ce9df8.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/5c/1e/f65c1ea9e74cbaf0b3712e54e5079fcb.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/d4/d0/1cd4d00780e993d0082441182910023b.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/d9/2b/1cd92b5bfc3d068cedac306b4f21b609.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/af/17/df/af17df379af55ce6afd3b3b2dc7c52a5.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/c5/9c/fac59c684be1e08fbc79d508985affdd.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/17/64/c91764766fd72af53d47eae1af8e88e8.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/0a/26/830a2611ad221fcc0ec7a8461c6f436f.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Garden Wallpaper",
+      "wallpaper_name": "Garden Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Garden",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/00/fe/80/00fe8003a844d0faccd974a349cb5686.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

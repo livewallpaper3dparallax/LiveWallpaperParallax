@@ -1,0 +1,515 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/5072823118",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/2867679213",
+      "main_ads_natives": "ca-app-pub-7316385158012425/1554597540",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8474502764",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/79/f4/c379f4f9ede3ee6a66e8936447463df9.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/79/f4/c379f4f9ede3ee6a66e8936447463df9.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a5/a3/d8/a5a3d8333eaa4ae94aa759a866093ba3.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/8a/88/4b8a8844ab69b02430b47c184969fff5.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/df/ea/08/dfea08da365390c434c7d6837287aa5a.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/24/a2/1d24a23abf3d9f1e144f4ca440356e4a.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/0c/2d/550c2d1999da4d1b725e481da52a9163.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5d/cb/38/5dcb3818425e0af49491ca12406aba1d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/b7/4b/9cb74b0f4a80585381bea32a9da2cccb.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/98/4d/f9/984df9ba7bfb2579514a39cba0604ede.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/52/14/f052149836c3215f2eb2ce31a758ef47.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/09/f8/b209f81c67634de0db34821b0d06118a.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/01/25/290125341ea20895759053a956a4ea31.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/b2/78/6eb278c4848e4ac3e70ad94b28ed9d39.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/14/b2/1a14b2640f7fc3d2c97beff010172ea6.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/87/d9/2987d9f6a32ef73e1f4abda7725617df.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/f0/32/e0f032fcadb89e9a7d78ea1d94350ec4.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/b6/f6/a9b6f668fb7fe67f1d93f6b62569d68a.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/e9/35/d9e935885d0d8278506c8c065f570a21.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/5a/e7/735ae73d927e2fe8821f6197e6acea96.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/bb/57/3bbb578a260e251ebce55b0270f8b8a9.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/ce/d3/6aced3b777bf0c54d9eaaae73afa63aa.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/ff/4e/27ff4ec25be0653a76c9938068e2cc7d.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/16/67/9416674a0ae66ca38c35419acf817d7c.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/13/53/8413530f654fbd149b6bc711c36855fa.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/1c/c5/521cc5ff0e0fa694a4d1858c068dae72.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/35/e9/4e35e9d8a0d34cc2a896b481d1b7e6a3.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5e/f4/96/5ef496d037339b3cca6250dcfa3383ad.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/06/c2/2506c26085ba3b6d73c568e88526a42b.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/38/07/d13807c7f1fde6fb0014535aca50b6de.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/80/e0/01/80e0012161373de1d7fdbbfd8a73a5df.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/6c/7c/596c7c74dce5bc7a3bdb3b44710023bf.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/17/77/c6/1777c6845bd49adf7c88267517f74f32.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/22/07/c3/2207c3b20df640e32857a72b0936cf2e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/1f/e2/461fe2185159d9181264ba2d839f5f13.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/96/ae/b696ae5f0cd1137255423710fb9dcdee.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0b/26/e3/0b26e3c813e15451293f10074a7ba9af.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/18/7d/ef187dde9a6e7655d9e55267fe8b830e.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/60/6c/88606c57dc35a88595ae1dca58baab69.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/8e/69/758e69cffbd15876d99ec0bc96dea97d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/30/96/a2/3096a23d8fd6d9b27ee0ad2c1c400616.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/50/e8/3d/50e83d004222946c3332053bcbfb0020.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/10/be/b610be4ffebd6edb728e5b3b68602516.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/24/de/fa24dec9c0ad4d922165d17ec3170ded.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/a5/07/23a50782e0f56d87b086a9aca527cdc7.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/4b/73/994b73489991afa962640857d0aa1e0f.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/38/07/d13807c7f1fde6fb0014535aca50b6de.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/4b/f9/2a4bf9887bbbf4727a37e29260cd4358.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/4f/bc/8c4fbc8e91dc4ac5bd2659b866092f6a.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Islamic Calligraphy Wallpaper",
+      "wallpaper_name": "Islamic Calligraphy Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Islamic Calligraphy",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/68/86/b46886064addfe5a581ea1486d9d7cc2.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

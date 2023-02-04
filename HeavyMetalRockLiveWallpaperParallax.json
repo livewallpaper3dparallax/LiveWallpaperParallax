@@ -1,0 +1,389 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/6068557621",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/3596089915",
+      "main_ads_natives": "ca-app-pub-7316385158012425/2283008242",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8474502764",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/9b/4c/c0/9b4cc0f72fc6b10c3ec28371adcbdacb.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9b/4c/c0/9b4cc0f72fc6b10c3ec28371adcbdacb.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/7f/ce/3e7fce3215d256ee1d9ab037c42c4991.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c5/6c/fd/c56cfd7d4d4523b69f9c86598e88633b.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/ea/c5/3beac5a78d22d412f2fd668a3cd74e13.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/55/67/405567ce6778c898874765d8d8620c52.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9b/80/ea/9b80eae43e22257dac0c505a3e5d0d6a.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2f/5b/61/2f5b61e7e35094b4c7bfa3cf5e81488b.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/18/7f/e8187f83b9e8e2d739329214ad03971e.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/52/d4/aa52d4cc869ea6510928e3fb0b76bef9.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/6a/c9/716ac94702e4ad2846f9573b299802b0.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/cd/15/49cd15c0417336c87716b4a0b99ad203.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/04/b0/44/04b0446b0c00222e7bad151fad466087.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/ea/ba/3eeaba5b4b3424e0deaf9e7b44243730.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7a/0f/df/7a0fdf5c6a79c03d4c07135204886ea7.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/f1/ac/c9f1acac37d6e66ec3b03cb6daeae5fb.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/10/f2/26/10f226796279ffdbe5c0a9eb183f621d.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/43/ca/0d/43ca0d277cdebf8fdaf4fad6d065ead1.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fd/51/65/fd51652b07b37a0cb797bd95f672bbd0.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/61/2d/9a612deeb4b2583c471fe9a436193e73.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/04/79/d504799a9c01a4d2701849e737e4b6ed.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/06/09/36/060936c516904f5d3f96045ca738f43a.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/ef/49/1aef4930beaace8ae479e2775859e267.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/16/03/a01603de406bca13b74d77f9be08f339.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/21/a1/2421a1e585abd58f5c65387ef75af8a3.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/2d/ad/762dad115f2e63188d5a2d59451be4ec.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f1/ad/ea/f1adead71f82f10f489280e953c0b80f.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/62/b4/dd62b4ed03fe166c64a928d9324f7cb1.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/cb/dd/e7cbdd061029bf8e5438127d6a548ac3.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/3b/eb/b13beb01d3b0b1894b4e57e66710f638.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/61/2d/9a612deeb4b2583c471fe9a436193e73.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/aa/52/d4/aa52d4cc869ea6510928e3fb0b76bef9.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/a8/e6/9ea8e6d974eaf253caf5cde31785d0c5.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/e5/f0/90e5f021fbb05a29051188914bf2093a.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/3b/eb/b13beb01d3b0b1894b4e57e66710f638.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "HeavyMetalRock Wallpaper",
+      "wallpaper_name": "HeavyMetalRock Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper HeavyMetalRock",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/a4/05/f2a40542e599cb65d0fe0d804acdde5f.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

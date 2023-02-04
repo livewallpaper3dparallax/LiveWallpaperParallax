@@ -1,0 +1,830 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/9176268397",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/9924590892",
+      "main_ads_natives": "ca-app-pub-7316385158012425/6636352070",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8474502764",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Firework Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/29/34/c329348cec1d8e15f0042bc27f2b0af5.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/29/34/c329348cec1d8e15f0042bc27f2b0af5.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/86/fa/7186fa5b47e9cd372e75a1fc6747fe61.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/06/95/a7/0695a7f8b82a6d460f0b51966900c753.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/9c/51/859c511fbd7cd33188c6d9034de9d3fa.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/39/5d/99395d373cd0a08b98a6d7df8e013993.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/e8/b8/b4e8b86657011fe87dacbe7d07afffc6.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/c8/af/e0c8af287cd437fa43b9b5d311722a81.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/e2/53/c1e2539622a5e2f0258d543123773cad.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/53/ba/fa/53bafac1d5f58b3529150ad302697fc5.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/81/fc/2c/81fc2c4a63426ac728079e06f4ccddb7.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/27/ee/d9/27eed9bfbac38e649652a31ee69af350.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/a6/e5/7ca6e586d681dd59f94746661b9250a5.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bd/07/64/bd07645df3ca938f49f05a52a0014b6e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a2/6a/9e/a26a9e3df94d5cf84a68d589150be52f.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/ec/8c/49ec8cdb92c8fe0ebf750f5dfa0afb0c.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6d/8f/55/6d8f5528af07aac9d55d0e320a845e42.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a6/df/91/a6df916c1caea0e17bf9f0c96c86f3a4.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2e/d1/da/2ed1da44126c90fc943aaf973bd32c39.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dc/ac/57/dcac5720cb5d17e880558eecc68d0c6f.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/38/b2/b738b2ad7b0ee47aafec0ee2eb92b2e6.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/9c/78/739c7896deaf4487a208e9a2ac945e73.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cc/cf/d7/cccfd7f5b7bb71e94447e3fd9fed718f.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/76/4b/36764bd0f5fb87518a6584f47ff81a78.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/18/9c/93/189c938c7dfc87575f74c7e088fcbba0.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/3d/c0/e73dc0ab08c788b3ca6b8754a5b5b44a.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e3/ab/09/e3ab09395efa1a201da328d2ce5cfaeb.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/2b/6c/712b6c88c8fea2e28b5a6f9e5ac7afe3.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/a8/11/05a811a023380984552465557c624686.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/2b/9d/92/2b9d92186870943d0416a5360bf523cf.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/58/11/d55811a08091172d9345694e7b546288.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/b7/72/39b772cfc7e039045b818ba60f5204db.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/bb/f3/55bbf38148aa0181753f3fbf03d0c91f.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/53/0e/72530e4cad0fcc0d38841b976b1421ef.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/70/22/4d70227a08fbbf30c4006a8ab3f8e9a7.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/ef/ea/99efeacf1fdb82182837c054372ad90e.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/a1/08/1ca1083250e48598949c424c4be903d1.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/34/5e/d0345efe997dabb157b92b04058aa43e.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/b1/81/b6b1819fafefb34e5a77f0d5e61d1514.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/27/15/ee2715ccb6c59c56c52e640af076993d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/f3/bb/1ef3bb9f569b659a49dcd45251c1f998.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/41/5d/8e/415d8e171b1895f96f67b9cceaa6121e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/d1/7d/42d17dbd84af90ec440775ae8e297456.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/82/76/ae8276511b384a552743c31bf6a9bbf0.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0e/f5/96/0ef5968733dcc7a1c079fd2d6897d1c6.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/5c/4b/995c4bec09297bc1cdb1a64f0690b7c4.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0a/b4/5f/0ab45f0d6bf004b56acbd2a492f71937.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3f/25/54/3f25543d7f5f23e45410805c8e1ff9fe.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/9c/05/0c9c05547474b1c70970cbc3a87873a6.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7e/fd/f1/7efdf1eee267849e73b2a3bb1574f972.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/3d/c1/753dc19d0b0720576e90c470e09dd576.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/f4/d1/20f4d14e141a536406695db43e7fc8cd.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/0c/de/a90cde94f3cf092a180507f3e65b51d2.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/77/c5/1f77c54021c88d027016cb86d33e24b5.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/01/16/ac011647fea510930a786781fc1578ca.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/97/d2/da97d2780e3c615b458c6b393fe7afe6.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/05/23/c30523c20a3f0a57b4c2b8460ce4ee24.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c0/cf/4a/c0cf4a4e52b9e1ee3b8e09f7fa7e2872.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/0f/b4/8d0fb4a2a470d32a64cd982a83791bcd.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/3e/22/ed3e22bba83d9fff0acc3f4fcc2d3833.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/cd/b1/86cdb111d4af2ed2d7e3de1a1d50fcd7.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/66/11/d66611913f8a1f8d61a2a9e7656a60a9.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/69/63/206963edf5eee6b711d12291d331871c.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6f/7c/7b/6f7c7b3041c221da394d89d5673a90a5.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/66/24/4a6624e741b0ae77c350b03c89651dbc.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/15/3f/7c153f10790199ecbc1d895a5badaede.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/94/17/b7941787b627914d892fb8d125780fc3.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/85/6e/c5/856ec5a789cfc33bd89c8da319ea70b6.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/fd/a8/b3fda8abb8ff72921c9bcf98f74fe011.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/09/f1/c709f11b72b6208180109fff67852850.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/5a/80/8f5a801049ff497a28f66443c2bbb637.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/00/f5/b100f533bd08425ae718585005a7eabb.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/08/b7/0e/08b70e06b687dbd56b36ebbb33333b53.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/35/14/373514540af3d6ee821eded40d931759.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/10/6b/94106b7312de81408bb617d9f60765a9.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/70/03/6670038511535020aa1a0adbc9d6eac0.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/00/ba/6700ba626e228e9ff216a015cb9886e2.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/7a/32/38/7a32383c81341986b99904a8cd06534a.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/18/59/21/185921557e3cf20afa0abf282a8c63d0.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5e/b5/b0/5eb5b0b1579cd3b430d452bdd7bd091a.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/84/3c/3d/843c3d54098cdc1cebada0332f4132e7.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/b7/4c/55b74cc7099e780224f670d53b11509c.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fe/02/bd/fe02bd12c88e4a789fac7d2c311e6ca0.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/4c/20/4d4c209a35e39bc5cc1e1ed2a35226d4.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Firework Wallpaper",
+      "wallpaper_name": "Firework Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Firework",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/04/63/ee/0463ee42c42bff0fb39d9fa848f498d0.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
