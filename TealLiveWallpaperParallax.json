@@ -1,0 +1,1218 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/1020831808",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/8707750130",
+      "main_ads_natives":"ca-app-pub-7316385158012425/5816210526",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/9505556988",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Teal Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/0d/66/fb0d66ef4478a7d947f7b8d544c370f8.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ad/66/8e/ad668e1990fe1ce119b838da0f02c6e6.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/0d/66/fb0d66ef4478a7d947f7b8d544c370f8.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/38/f6/2d/38f62d4af0ebf317586ad8818c8114f9.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/ed/20/92ed2072fbb0c230160d5ea86c23cde4.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/67/d4/c867d457347ac630bbc187f0467ef16b.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/08/9e/9c089ece4c66201cc8d2b0838b6a53a5.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/3b/15/323b1596e3c8479d7439d48dd60c60f3.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/79/b5/bb79b5467d19fceef499a6b85939dbbf.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5d/9e/82/5d9e8299d62d4a3d3b8757bd496f35d2.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/9d/e0/f09de0ee454d2f646404e8cf08bb5165.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2f/2b/cb/2f2bcb75b8620e1b6e57a3e84fca930e.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/11/5f/37115f1dc3e0142a69cd7cfd8c475d96.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/30/94/3630949409eff6adee3a678999069141.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/8d/91/d98d91ff00c50d9b518520434a6c45a5.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/e4/d2/e0e4d2c1fa07c15a9272a4426d468b84.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/62/d9/8562d975eb0c0d5522e4bd18fe9be374.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/d1/f8/44d1f8f058574c3ea859bb77ad0e02fd.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6d/fc/7e/6dfc7eb9ed33651423d798330a63ee03.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/23/ea/ed23ea519185675b339902bf64ac4644.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/90/21/2d90212ed1bcd994358dd7411fe7eca8.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/e8/bf/e6e8bfb31b0118c8be9dfbd0e9969919.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/d8/62/edd8629b7fc139e966651439a0c5384a.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/14/a1/2c/14a12c530d67a28d86f262c5470b27f1.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/e9/5e/8fe95ecee884ae38154afdeba33b7686.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/5f/68/855f68e843b2b343092e147f93736eb4.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/ee/e7/aceee707f0b350449d0a74303215a222.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/57/c1/cf57c1d0cc9a164873f2ff34e412fca0.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/c4/e5/8dc4e5a795d2d350f76529e8dcf9fde2.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0d/74/c5/0d74c58ddd22c666c019622f213d0ad8.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e4/0d/ee/e40deebf7b6fdc58e27ef886848afd7f.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/fc/0c/72fc0cb30bc7b3db1edac2c9d2c2ea85.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e3/0c/81/e30c8104e58399700745262b5669be42.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/1d/1d/d11d1d2e50fb63fc612b44b9e61cec11.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/ac/59/baac59b614e3b32c4fe86dde443ebc45.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/17/9b/e2179b2cdc9b50f5e50905dbb4e89a8c.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/06/c4/20/06c420c3db604bbda34fadd55f79a14f.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/fa/22/5cfa223dc13b09e8d687d5bcb3607ce0.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/c3/38/62c338befd4879536eb80f6e94b00708.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/75/fb/ac75fb548ff39fc73efd77dfe53872ba.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/26/c1/13/26c11311d237cf97d071f218b9e7a228.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/a1/ba/72a1ba0a7afa8d23798bf3989a5ec36c.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/d7/84/86d784c9ab9e8e25e42f984e5658e926.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ea/eb/a8/eaeba80e75b888a46b83f3ccc6cc26f6.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/64/74/026474b3d40ea927190b4cb3658bded3.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7b/ed/67/7bed6756569499a34c03c42b392e4c7a.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/95/94/579594649221a4b208049f6d70038809.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/c1/4c/85c14cda93e495f9ed42516686bbb605.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/54/9d/a8/549da8ab6872831b57cc3bcf3933e82e.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/54/10/ee/5410ee08daef89051da07498cd66b6a4.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/71/50/eb7150490cc3f0449cc2f69a569388cd.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/00/3d/c0/003dc02406489b0baf1ea51fb1a06c03.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/f0/2f/72f02fe228a664b45f0e873c1df5f56d.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/bc/87/7dbc87253f82c75f24bf6d1cc55d4901.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c5/62/f7/c562f707da6382637c9470f3489a6f23.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/66/b7/4f/66b74f8469a8c91bc27ec2aa88538093.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/54/f8/5c54f83abee7f22a550d6800e2dd8a07.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f0/d4/9a/f0d49a9efdbb831849adb8729ecac00a.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/4d/12/ba4d125fcc89ec124dded76d1ccbf331.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/04/55/7c04554c9621a32df4f0dfbfe3d2df50.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/ca/6d/93ca6dc2bc1fa55195e6348521479d8f.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/22/bd/7c/22bd7cffaba2f3b01513aadf7a9225f5.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/17/12/d91712ca8568325b5512e06d08f35ddc.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fd/7b/63/fd7b630b7965da5e91cf477688ad647f.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/0a/34/a30a342d711ba3cfa463c16bf6098c71.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b1/a9/eb/b1a9eb2a34f6b690ae6320ecb3fb88b4.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/59/b8/4959b861393c8880baef5de170e187f6.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6d/b3/ef/6db3ef1aacff52814bbf5c573371062f.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/b7/26/d1b7263cb144c1c6b140991ade8baf51.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/77/0c/c9770c489c9e99fb4b50ae7e36e5056c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5e/69/36/5e6936100bac0d417c2e9e1308d038ad.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/0d/74/d10d74cba349c2a03a2972249e32f0af.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5b/8b/fe/5b8bfe2e85e1c621dc60419dd1665478.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/38/ed/14/38ed144d6df9b80c474e2ebbd85d2842.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/83/67/618367c8be572f084b09f4de0f0bfeae.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/e3/eb/b2e3eb7670fb676f74f7999d5609bc59.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/ec/c1/94ecc175c48e5c986e6e06fe35888666.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/8e/d9/468ed938ed63945501ecca214ad7a5aa.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/7c/86/677c8678fb1d7d50eba7b347446868bd.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/f5/b6/05f5b690557ae3ad0a512cd880ca5814.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/98/53/a09853b29d6232aedb58c5c31364922c.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/ac/34/acac34eaee884efb458b79c6ce130a8f.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7e/ab/ea/7eabeac654cfe2f95293a9d6d16b4c0c.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/a1/d3/9da1d359210e8d1fc81eb1aa90b0676a.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/20/32/8c20324e7572143e52b5000fcfd9533d.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/93/5b/65/935b65e25204ebb1e043cc77ced20290.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d1/91/5a/d1915aa3480ae2bd2ea4ed9da3ed6970.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/06/ee/50/06ee503e86da4cb589eb5c8f1e19b0bb.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/50/8d/22/508d225a16a14a0e6d3527319d2d1a61.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/6d/e6/466de6c792f3ebe7b381aa7e8a152c5f.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d5/d6/fc/d5d6fcaa11e2b45e1f83d9cf74c3b2ed.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/35/a0/21/35a021c4548502206bc0853ab1cf303c.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/1f/b3/7d1fb3ba73dd77fcb3e5c8cfe495d1ae.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3e/9b/a4/3e9ba4f9070c410fcbc796ad79a6cb21.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/34/70/0c/34700c2be16bed09908a20e3f73758dd.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/89/1e/4e/891e4efe254c6202447a47b3ca62e8f6.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/f2/e2/92f2e29c13ab12f51978a5e85f884ccf.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/0e/ab/440eab83a97afe51a4aaae6262970f78.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/57/e4/32/57e4327003c2a13efe19cc51c2b3ac20.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/36/cd/5a36cd1a1bee0cc6f63c5679b2426fe2.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b6/1d/c7/b61dc70ffef90018820f83c625fb4c3f.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/99/24/4899249291089425cb632c32f845c503.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/a1/58/83a158cff8328682b2a3e69ea0565373.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/d3/9a/94d39ac4e664540f4d65868aa09cb368.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/31/df/f5/31dff5fe08ff5f0c9d3fe526c4c9ac92.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/49/b3/4249b3645f62bcad2fc1ad037a86b140.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/36/3e/70363e1a4795bcea6ac607985738f580.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/10/46/01/104601f1dfea38ee369177841d2b8eee.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/03/f7/68/03f768e07e9d5d5c8ab09d3619fcf541.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f3/88/f0/f388f0eb5988c8de4355ac94a5f374e6.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/8a/e4/f68ae4fd22b4455727752628fbde12fc.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/26/ad/d0/26add0998f10c04abc29ffc865c99144.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/67/10/4b/67104bab968640b5dab769d481cb32d8.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/41/c3/48/41c34859a4c133dfd2f6c4fc157acb1d.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/97/16/209716ac29049e60789d14727ede951b.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/12/90/59129051abd447c3689875e52199487c.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/e7/75/b2e7756271c5182e14baa0b7fd0fa5cb.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/21/19/1521196cce61ab93a547e77d8a92278f.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/9e/ac/b09eac4a89460ff350a258a41c743895.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/91/c3/7191c383072de36c79a5612d15672b2b.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/b9/40/a4b940b22480ed76b9dc8c5939ae6e84.jpg"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/42/a8/d642a810a46e8e301528b58549c8e57d.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/fb/52/effb5206842f6b180072c86bdc59016d.jpg"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/b9/84/e7b9849228f6fc2dd9c357eb05116857.jpg"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/3e/0d/393e0da503fe9cd07110cd98b44d256c.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a5/33/21/a53321ac4cce7a3096484f8bb89ba02a.jpg"
+    },
+    {
+      "id": "731060952026444941",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper731060952026444941",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/3d/bd/493dbd4976a7ff71e51cfe3cf7de4e9f.jpg"
+    },
+    {
+      "id": "611715561905282987",
+      "name_category": "Teal Wallpaper",
+      "wallpaper_name": "Teal Wallpaper611715561905282987",
+      "wallpaper_detail": "This is Exclusive wallpaper Teal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b2/2a/62/b22a62cdba1cffea844712bc64729246.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

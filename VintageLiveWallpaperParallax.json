@@ -1,0 +1,723 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/6965640660",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/6628112204",
+      "main_ads_natives":"ca-app-pub-7316385158012425/5315030531",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/5652558996",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/22/db/2b/22db2ba0fcca93d829116db8c01a72a0.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/22/db/2b/22db2ba0fcca93d829116db8c01a72a0.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/06/e6/4206e6c67a460d01795e2bb054e33a10.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/a7/48/48a7480a299e0506f10c8164d3a96829.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/77/53/bc775325871cc9d91997802b93c4e4da.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/94/92/45/9492452a976a3a5461bebd41440a4bc6.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/67/e0/4467e0f3f9637aee39ff5f01e8276f19.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/f1/38/7cf138fd9527117fc229e36bf559132a.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/83/61/2d/83612d78b42fddf0c3212b2760d7d725.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ae/0f/79/ae0f79b25973d21d1503b719951b1d94.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/0c/c2/200cc2cbe7dc06f9635a509a8ff79b06.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/e1/6d/90e16da9958fbfde5b71761e6f9a9103.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/c3/d7/ecc3d7c724109a31286806cd29d785e9.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/1d/77/2a1d77a0b3a48ed8826f1a9c5ebc9da3.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f3/cd/61/f3cd61a755966664cf6289c871984e8a.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/e8/96/b9e896a3578dfad107596f0322b89951.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/f0/ff/70f0ff40c2f6993c2c748b3d34cd355a.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/df/7d/d5/df7dd552d141727ade586c0fae851d1d.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/9b/63/209b63e16ff9d40a4b2ba3d0e8a56653.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/b5/5d/92b55d224dd66d5de9d2065e512f809b.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/4f/36/604f36b8ae80564aa73c80c580c52c14.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/2d/8e/a82d8eb0e19d302c38d071fb2963d750.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/1e/c1/b91ec1df5b0566684cb10a78879349ab.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6c/e4/76/6ce476118ac694496a57aa7744297ded.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/be/b9/ed/beb9edbf1f639716d063e7ca18cd2bbe.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/11/82/6e11824ff0ed1c764da546aa0222c06f.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/97/1d/c7971d44c72cdcb943983df06c8e8d93.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bc/7e/e0/bc7ee083bb7a5f4256a06577434b256c.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7c/93/39/7c9339c2ffec7664058d5b98aa24cfdc.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/07/41/a40741fc7a664a7abf5ac1692040d448.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/56/8a/e2/568ae2b0de243f0545d9d2bf52d70ba4.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c4/ee/fa/c4eefa4d9e4f9aa69de78234dd429aa2.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/38/36/a938365ee9cad9c30c04e016f4d846d5.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/3d/f6/ce3df695814005b5121643455dc0463c.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/7b/e6/c97be6b1fb1c165011b65e71d87738ca.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/df/a4/8cdfa4a0a7aed2f810273f7cb5eb0c88.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/aa/dc/7faadc4efa8a52bf1e4bd3b9d689e554.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ce/a8/df/cea8df626fbbfd63105cc3919934b9b7.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/91/2e/ba/912ebaf4ed3cb6b8be4303e5391c729e.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/d1/ab/32d1ab1658dfefec218fc1b4a66781a0.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/1f/aa/1a1faa7d655c850d21aad9d813b99b20.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/c0/9c/86c09c7c028c54be372b00bee5ff4019.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/50/12/a2/5012a273d3b0fedaeaae0ddbfc7af93d.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/fa/78/fbfa7808f6ae3b10691e6386e0966157.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/1e/b8/8f1eb88a45ef032c4ff3dd02c68e7654.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/73/af/0773afd569b07fbd65edb6d86d288c4a.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/8f/60/638f60af9153464f19fc94c86984b161.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/55/a2/53/55a2532d9767c7d9c2109b45801fb5d0.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/62/16/976216c1e239613576b75e6d435bf8ec.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/0a/38/460a38fe5cf48622c86c84b51fefe8f0.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/8f/08/968f08a2c007621dba6394ddbaec0ba0.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/1e/5f/401e5f1ebf42f957609156d6bddda8d5.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/11/c4/2c11c4410b3504bb96cbc3ceb922258e.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fc/97/ce/fc97ced770028f1d32daa6b1400e7c78.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/d8/e9/15d8e9cefa8e01542868e28c63eaced5.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/e0/0c/79e00c5d6f82d64c5af53c24a0b6299b.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/64/17/1e6417c3c1c54fff8858003c6697c8b6.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8e/f3/b3/8ef3b3df1c2df6588a0eb73d352fea13.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/03/39/5c03393c16b6c47b46729f4cb8ecb9e1.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/e4/d1/cae4d1ab335e3b828948d6f773f96a7f.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d3/34/84/d334843566209982a3a24129d064babb.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bf/42/3a/bf423a8f4e01e90658388adf4bf7a2c1.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c3/5c/ab/c35caba897166440eb03099bddf0a775.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e9/6e/62/e96e625bd779c052c0638e1f52f77b73.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/1d/1b/2c1d1b313290936b85db698add2f2de9.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/79/ad/4479ad4e141095e0170f732577fa0f5f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/6c/eb/826ceb7896d2b756c2f72ba6c582d1f8.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/09/8d/73098d6799d7cc917c9c1ea38cbae0bb.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/21/bb/a0/21bba0ff02b29e90d7c94cc0e8f42767.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/3a/8e/513a8ee17bb1142d07bd3eba765b7b10.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f3/e2/ea/f3e2ea9ffe283db37e9aa1b8cc6eb321.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/60/10/1b6010996f792d492fc01fb606ac9efd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Vintage Wallpaper",
+      "wallpaper_name": "Vintage Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Vintage",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a3/f6/92/a3f6926cd3bffd67e0f776584dc2fd47.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

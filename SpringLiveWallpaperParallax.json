@@ -1,0 +1,1020 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/4890674499",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/7750424511",
+      "main_ads_natives":"ca-app-pub-7316385158012425/2390286625",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/5630423985",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Spring Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/4f/80/6d/4f806dc482170d8a22acc7cbc464820d.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4f/80/6d/4f806dc482170d8a22acc7cbc464820d.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d3/7e/4a/d37e4abbcb1fb66e75e1254e0ed5ccec.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bd/e0/c2/bde0c29e5418ccd59bbf34879e70d568.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/2e/2c/fb2e2c7f1d0b1b2929b58e64640a0bff.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e4/7e/3a/e47e3a0fbadb64497d38b2b08657312f.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/e2/e1/1ce2e1cc6f32e96c503db9b26b707a18.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bd/fd/3e/bdfd3e88411b1d3bd1dee5dfb3ca58b4.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/66/95/086695cd30dd8b2e2a09f875c43c1e88.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/d1/1c/61d11c5d50cb1e92df72f65dab07e26c.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/30/1a/05301a475c3824909f6a01691feaef40.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8b/8f/4d/8b8f4dbe5f3aa0188cae0f4695112f76.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1b/d4/a8/1bd4a8dc5850545b42d5be3dbe5ca5bf.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/10/a3/6110a3f4810ebc007589979c8ef99055.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/02/94/f702946523b07484585a20aef9436061.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/e7/e5/76e7e58b2ad3efefefffb971fb9ea29e.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/b5/b1/73b5b11b05935b27a402d00325e548f5.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/56/bf/e4/56bfe4bf9926d1b574a45270cb4b8920.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/54/70/ad/5470ad1cebfc0dd530d038ea50cc632a.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7e/17/4d/7e174d7536cb36542ebe1b0229b08141.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a1/76/26/a17626250e351287d41ff942e5cf22ee.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/e5/81/4ce5818bb7473952402d68a2b0962938.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/48/b6/6a/48b66ad2c53b8564fc4e8a5269c6711f.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6a/6e/17/6a6e172985f0f6e41df7dc851c8a6159.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/63/f8/0263f84d7f77e0fdaf7369c18049d625.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/ad/35/b5ad35fc5cdc53cae6615905223c11e2.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/78/ee/db78eeb47f4597b1b8318fea5db05681.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/9b/00/d99b00d32a55457b469b20b1ee4b31ce.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e6/14/62/e6146236824770071aff4e7cd30cab20.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/d4/cf/76d4cf518125202e72455463fcaef32d.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/30/b9/8830b965673a9d07c6ac126f71b14bf7.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/50/83/635083004be194ace81cef69eb32f655.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/f3/6a/9ef36a528a8f3a4152b7ed8164e94b9e.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/c7/79/13c779801b7f1f5bfd125740e67c1f65.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/da/8c/39da8c10345c8410bda01d2fa435cc40.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/42/58/aa/4258aa616851d39828bcff52531307e5.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/bb/b9/fd/bbb9fd838fbda8fa12c50aa69839791b.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/27/5d/4e275daa1fcce9e0a9ef7f445d7b3511.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ed/11/43/ed11435f8dd818687ed1d912f990aeff.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/92/8f/7f/928f7f47cba0bd9df26d9f2c75ea2331.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/35/ef/a4/35efa4b3494dca5f601fb3c18f8b32bd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/32/a5/2432a5f3d8089c055211c1054342fcfd.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/6a/76/026a76c9c6afc34505ba0de14d36dd34.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4a/0e/17/4a0e176acbb87f527b003832a45db48c.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fb/2c/ce/fb2ccecb6d414be94b23efc6c662609d.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e8/1e/59/e81e59e54ba5374e8a169426e3e2956e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/63/5b/a5/635ba51012e59ecd469fd8ef87630f23.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f2/d1/e9/f2d1e9a52569f9decdc397ed7e5402cb.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/65/dd/d465dd169b758f1f93e60868068ed1c0.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/96/07/1f/96071f84a1fd11d0e5f5821c22239fd9.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/e0/3b/85/e03b85f3ff62bc35275a7ec7c509d040.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f5/55/73/f5557336abb9082e12767b75c8624319.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/cd/1c/59cd1c4c8fbf1c90a4df332ff5f0063a.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/6f/65/4d6f656ddb9f32be68472edd7e633984.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/61/ed/de61ed3d38ab995940f14b45fe3553e1.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/474x/ce/50/39/ce503950ec8ed34be7aa13f8dc3b719f.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a9/8c/0b/a98c0b6ee783021143480aced1e2af6e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/76/eb/9a/76eb9a10b4d2f4a14fc45f2d4442c781.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f5/b5/ce/f5b5ce01500503f5bb6551ba93a86068.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a8/7c/ad/a87cadf4e669609cbff20970cac4ce4d.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/00/64/6a/00646aa906f4497a7a0cdf2d4b4332da.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/11/7f/c6/117fc66eadd77e10990050ef8ef2fde3.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/36/1e/c7361e0a4d6508b915a20330ec223cc0.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f1/90/03/f19003d08c5a9473c6fa6814afcced37.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/46/99/b3/4699b3377c43f8bf5d2930dd61592d40.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/dc/50/25dc50242d608b23fdb1672ca5d4a33c.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4d/90/2c/4d902c822da595d3d57c5490ccc3e92a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/26/1b/33/261b338ec8118c9c4104c21de73e7bb1.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/32/bb/dc/32bbdc3ec3c154d62b5e9290d9923b6c.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/10/e8/27/10e827dd0187231e63698d008bb72c2c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/10/3e/c4/103ec4a355e179976fac37bac5591de0.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5b/67/e9/5b67e951479eb482082a3fe2abc33a23.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0d/2f/e3/0d2fe314b3d9df541804eaac4673f8a8.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/56/6e/1c566ed7c004567c3ab1d760de8eea28.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2f/28/85/2f28856c818528ddd081972bf69b2016.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/78/64/c97864e3183a406de25ebdb4a2ae1cb0.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/56/74/ab56743974e132d0250ba1ad8159b486.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ec/20/cd/ec20cd5101b655567bc7069d5e35e81f.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/1b/0e/2a1b0e82196a1b98abbc3a05090535fe.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/39/ce/05/39ce055e34af90733321ac469d7dd776.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6c/ff/c3/6cffc31777865d6922800d945682e6c5.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/36/57/82/365782ac372e9f0837a1ae0d61e1348f.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/7a/b9/0f7ab9a7001824264b5aeeda5aa4f63d.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/53/96/a6/5396a63587a6e7904a9d26f22c125f8f.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d8/d6/d9/d8d6d9013ecc1925f4086cb273c04464.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0e/f7/f6/0ef7f6bde97910efd1d0a40d25e64c68.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/41/27/294127158254b67a4808836f73c370bc.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/52/f0/43/52f043ea38a1b5aeb5de6694ddfd06ac.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2b/6a/80/2b6a801f9dca0c0a39d06c2fca706f20.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3b/d0/87/3bd0871af1d6aa9caccb1f8c1c1c6211.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/3a/97/e0/3a97e06d7754eb0c5299fe5c69f3c607.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/1e/15/991e15f1052dfe6844f718bbc55a0dd4.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/d2/77/90d2777fb4a6be5395ea500648889a0b.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5c/f9/61/5cf9615dfe517cbba474a71fe3cb6d08.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/14/f7/4014f716ff106ca615a414451a705644.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fc/3a/2c/fc3a2cf5255341583555f07fc8ad8f66.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c5/b6/14/c5b614baf0a54f316d303efc954c24ec.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/af/2c/f6af2cee82deb1389a938b1b97a7ec14.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/cf/89/a4cf89a053d22b7a1df752162e53746d.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/a9/2e/0fa92ec8edcc7127241500d081dd35f4.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/49/cd/8b/49cd8b311cbb38bd2f081be5aa0a65a0.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/62/c6/96/62c696677d9d31037da0b0ad3a607016.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/28/49/94/284994cb7642eab0755a886843251064.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/38/80/da388089b661b33da8f12941c221f1ad.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/e1/79/71e1796b8d907948c4af07c099a3ce1a.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Spring Wallpaper",
+      "wallpaper_name": "Spring Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Spring",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/ef/cc/b3efccb73def129c38fff725f1261370.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}

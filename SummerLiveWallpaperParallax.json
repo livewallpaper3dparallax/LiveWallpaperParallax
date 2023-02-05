@@ -1,0 +1,804 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-7316385158012425/3762545218",
+      "main_ads_intertitial":"ca-app-pub-7316385158012425/2313462677",
+      "main_ads_natives":"ca-app-pub-7316385158012425/5674392681",
+      "backup_ads_natives":"",
+      "main_ads_rewards":"ca-app-pub-7316385158012425/8693655309",
+      "backup_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall":"3"
+
+    }
+  ],
+   "Categories": [
+    {
+      "name_category": "Summer Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/13/4d/fa134d75493c668b5d2a38cf08c90748.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/13/4d/fa134d75493c668b5d2a38cf08c90748.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/de/1c/51/de1c51aff9950bb4cb11f39f76b1f70a.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dd/f6/cc/ddf6cc8253f75a7cb1b082356f402cf0.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/23/c1/3f/23c13f585d3a00ed256f3a4cd4836894.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/f2/15/05f215fcf13858b1c76aa5f74716a5ba.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/86/8a/dc/868adcafc41e25ca326227728a85310a.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/47/9d/0c479da724f45dba397c1b48e4bd75a3.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/cc/75/1dcc750119436b24dfbcdf59fb45f56a.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/29/b6/9a29b674184840a82c5059d5694f551f.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/38/07/a6/3807a631ad8ee2eb1e1dbd6811a10134.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/09/77/bb/0977bbcbf633b0c13df948dd4626af68.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9c/58/27/9c58275320ad56b6f07343cc99d5e6c7.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/4f/d4/4c4fd460738c03cd1a4c15cc077b20b8.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/1f/aa/1a1faa7d655c850d21aad9d813b99b20.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/cc/ac/4eccac7c6cca94fc39808d0c4be2feba.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/85/4f/08854f08bbab8fad6cb4097c5d4e92e2.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1d/fc/35/1dfc354f8ecad0f835b467ef24501039.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/da/80/8fda806c5b326ba8987a1b6917d3f1d4.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/10/a4/e7/10a4e7cab6cda6daa5b2d2b400e2da24.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/57/69/1f5769875cfff77f949adc0b69c78764.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ac/2d/fa/ac2dfaec4effe152ea200a7e2b7bce76.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a7/42/c0/a742c0e7e4fdc85faf8f855c927b7958.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/14/7a/00/147a00e44b8292a22af5f8d1508c9cf5.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5f/3d/5d/5f3d5d016a3295b768898d06df45587b.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/29/75/98/297598918fd534afb9a48722b72edd6b.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/bc/da/90bcdad71fb9d969fcca9ade8c27a71d.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ef/4c/63/ef4c637605b0194c8d9f597a78ebbc8f.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/fa/de/60fade61662fce008a78f34661341410.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e0/92/03/e09203cfbae6767befa5a9805db3dadb.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/6e/54/7d6e5470dbdf8569d7b7463c55ef522f.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b7/cd/f1/b7cdf1df339c11648159c4e985f030b7.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/16/e2/59/16e25906aa0aaa6150232d8918d021f1.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cd/c5/a6/cdc5a6f9a18a9970ca08116854843e50.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/41/14/83/411483487a6a620756857f41ce52b125.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/af/6e/52/af6e52fadb88863d7d72557ca62e2500.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/eb/c0/a0ebc04fd8480257fea1b44fd2c14d6b.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9f/1f/a8/9f1fa8e9d8edd8ab528a27930962f3e2.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f7/c8/87/f7c8874311920af6396f798a6fc15c20.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d3/7e/4a/d37e4abbcb1fb66e75e1254e0ed5ccec.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/34/e1/eb34e113fa6a915b60cd32d54ca56b9e.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/88/2e/74/882e74de373b975b2405add924aa8e9f.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9a/d6/8d/9ad68dcf16d19e4bddd6b6c4ee79b85f.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/c2/ed/9dc2ed49ce5c69c7b3a861f07531da06.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/52/d8/a052d8401e9214f7bd43832ace3e969d.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/89/5b/a3/895ba349f75bd99df3dfd986db470c7f.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5f/93/4f/5f934f46f531248987399e198d36eb0f.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/ad/35/b5ad35fc5cdc53cae6615905223c11e2.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/fd/ba/51fdba8627ca22bb8fb43dabd79dc5f1.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/c2/14/a4c21448d0b784943fcd9c93d2d39b1b.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/16/9d/5a169db84e334cebfa35cd0a7c1be97c.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/12/5c/9d125c13962d4857a1ef6abb1a96f938.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7d/18/5b/7d185bd982e4ed4ed66c3ddf6bf4c8f3.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/82/b8/61/82b86195b7b20cc7986a811574066093.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/89/22/75/892275d17c8001856ca51a43f98faaed.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a6/fa/5b/a6fa5bfa72d6f754107f4ed62d85e857.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d9/49/60/d949600ee1f81292681d0e1252049231.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/3d/ca/0c3dcafbe630c65b6b2fee4947187b35.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/78/72/cb7872ce929c47206d8ce96ad7e5fa4e.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/65/38/c8/6538c85e1b00b5eea456eb172c21a66a.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/90/c3/8e/90c38e98557b2a2cfacdc94e2f2cf6d7.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/eb/98/da/eb98daf373e19bdeffd1d7763ebd89d9.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/7d/64/db7d6465b4e2297053d32f0228e13dc8.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/e1/3d/71e13d4fa0e2015a9f2713cdfec0201c.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/56/75/cf/5675cf7e43ac4e1e3d9c5d1957273a3f.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/80/c2/64/80c2641ee54a6e7d39e2c2410deb4341.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4e/e2/b3/4ee2b32444424424d869fc3705f41685.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/02/f5/be/02f5bec76171565ba30244ca8167c956.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/19/78/fd/1978fd097432c0a6e69c75d95efbbfbd.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/77/b9/0f77b919dc228a7690e1abf42893ee4c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/d2/d4/c8d2d4031c223520bc926ad6c38d5a86.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/e5/d9/1ae5d9474518bc49e9612f88900fca1f.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/01/e0/6001e0c544a3387616245dc176df501a.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/80/71/cf80715642a4adad1ae8e49083ee5dd5.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b3/19/03/b3190306ae02eb7d7124a8106c4a54f0.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8c/e6/66/8ce666f0fab5fa29be74a6dde93edf55.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6e/ea/48/6eea48d2c0118181b2d416c2b095d06d.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/71/5f/c2/715fc276026b9edecc4335c712586163.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2c/3e/46/2c3e46eefa90edb446ba40d47d56c4f3.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d0/8c/93/d08c939af2d94b611833956f2e866d28.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/79/34/73/793473cee5658cae8971728a92d64a0f.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Summer Wallpaper",
+      "wallpaper_name": "Summer Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Summer",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/28/d3/ca28d3ac32a3d24a3b379e05f2c06984.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
