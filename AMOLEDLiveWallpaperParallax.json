@@ -1,24 +1,24 @@
 {
   "Ads": [
     {
-       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-7316385158012425/3601944877",
-      "main_ads_intertitial":"ca-app-pub-7316385158012425/8046239303",
-      "main_ads_natives":"ca-app-pub-7316385158012425/1224576439",
-      "backup_ads_natives":"",
-      "main_ads_rewards":"ca-app-pub-7316385158012425/8911494767",
-      "backup_ads_rewards":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"1",
-      "on_off_native_listview":"1",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/8046239303",
+      "main_ads_natives": "ca-app-pub-7316385158012425/1224576439",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8911494767",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -26,27 +26,245 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_guide_wall":"3"
-
+      "on_off_guide_wall": "3"
     }
   ],
-   "Categories": [
+  "Categories": [
     {
       "name_category": "Black AMOLED Wallpaper",
       "wallpaper_url": "https://i.pinimg.com/236x/ae/32/4b/ae324b6b00cd42dee5e8f564dcfafcca.jpg"
+    },
+    {
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (34).mp4"
     }
   ],
   "Wallpaper": [
     {
       "id": "714242822171467322",
-      "name_category": "Black AMOLED Wallpaper",
-      "wallpaper_name": "Black AMOLED Wallpaper714242822171467322",
-      "wallpaper_detail": "This is Exclusive wallpaper Black AMOLED",
-      "wallpaper_type": "IMAGE",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
       "lock": 1,
-      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/e1/8a/83/e18a83750baf589c96f8472b57705d5b.mp4"
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (34).mp4"
     },
-
+    {
+      "id": "714242822170033912",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (37).mp4"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Video Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (36).mp4"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (35).mp4"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (33).mp4"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (32).mp4"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (31).mp4"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (30).mp4"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (28).mp4"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (27).mp4"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (25).mp4"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (22).mp4"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (26).mp4"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (24).mp4"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (23).mp4"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (11).mp4"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (7).mp4"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (21).mp4"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (10).mp4"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (19).mp4"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (18).mp4"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (17).mp4"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (16).mp4"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (12).mp4"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Naruto Wallpaper",
+      "wallpaper_name": "Naruto LIVE Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Naruto",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Naruto/download (8).mp4"
+    },
     {
       "id": "714242822171467322",
       "name_category": "Black AMOLED Wallpaper",
@@ -371,7 +589,6 @@
       "lock": 1,
       "wallpaper_url": "https://api.onedrive.com/v1.0/shares/s!AqglWydRhot5gQ-YHlopLzWk6mOc/root/content"
     },
-  
     {
       "id": "714242822170033912",
       "name_category": "Black AMOLED Wallpaper",
