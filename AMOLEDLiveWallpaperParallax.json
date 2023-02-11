@@ -3,11 +3,11 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads": "APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-7316385158012425/8154631079",
-      "main_ads_intertitial": "ca-app-pub-7316385158012425/7236031578",
-      "main_ads_natives": "ca-app-pub-7316385158012425/6019422328",
+      "main_ads_banner": "ca-app-pub-7316385158012425/3601944877",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/8046239303",
+      "main_ads_natives": "ca-app-pub-7316385158012425/1224576439",
       "backup_ads_natives": "",
-      "main_ads_rewards": "ca-app-pub-7316385158012425/1860685463",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8911494767",
       "backup_ads_rewards": "",
       "backup_ads_banner": "",
       "backup_ads_intertitial": "",
@@ -16,7 +16,7 @@
       "switch_open_ads": "1",
       "switch_banner_natives_ads": "1",
       "on_off_native_listview": "1",
-      "interval_intertitial": 3,
+      "interval_intertitial": 5,
       "initialize_sdk": "107355779",
       "initialize_sdk_backup_ads": "",
       "high_paying_keyword_1": "",
@@ -30,6 +30,10 @@
     }
   ],
   "Categories": [
+    {
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/DragonBall/Dragon (1).mp4"
+    },
     {
       "name_category": "Black AMOLED Wallpaper",
       "wallpaper_url": "https://i.pinimg.com/236x/ae/32/4b/ae324b6b00cd42dee5e8f564dcfafcca.jpg"
@@ -51,15 +55,137 @@
       "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Kakashi/Kakashi (1).mp4"
     },
     {
-      "name_category": "Dragon Ball Wallpaper",
-      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/DragonBall/Dragon (1).mp4"
-    },
-    {
       "name_category": "Sasuke Wallpaper",
       "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER/Sasuke/Sasuke (1).mp4"
     }
   ],
   "Wallpaper": [
+    {
+      "id": "714242822170033912",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(1).mp4"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Video Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(2).mp4"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(3).mp4"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(4).mp4"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(5).mp4"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(6).mp4"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(7).mp4"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(8).mp4"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(9).mp4"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(10).mp4"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(11).mp4"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(12).mp4"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(13).mp4"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Dragon Ball Wallpaper",
+      "wallpaper_name": "Dragon Ball 2 LIVE Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "MP4",
+      "lock": 1,
+      "wallpaper_url": "https://livewallpaperparallax3dhd4k.sgp1.cdn.digitaloceanspaces.com/AMOLEDWALLPAPER%2FDragonBall%2FDragonBall2%2FDragon%20ball%202%20(14).mp4"
+    },
     {
       "id": "714242822171467322",
       "name_category": "Sasuke Wallpaper",
