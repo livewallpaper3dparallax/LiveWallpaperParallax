@@ -1066,11 +1066,75 @@
   "Guide": [
     {
       "id": 1,
-      "name_category": "coconut",
-      "title": "The coconut tree",
+      "name_category": "Palm Tree",
+      "title": "The Versatile Coconut Tree: Uses, Benefits, and Care",
       "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2022/3/24/1/shutterstock_palm-full-coconuts-on-maldivian-beach575497081.jpg.rend.hgtvcom.966.644.suffix/1648128375983.jpeg",
       "description": "The coconut tree is known for its versatility and is often referred to as the tree of life. The fruit, also known as a coconut, is a staple food source in many tropical countries and is used in a variety of dishes, including curries, desserts, and drinks such as coconut milk and coconut water. The flesh of the coconut can also be grated and dried to produce coconut oil, which is used in cooking, cosmetics, and personal care products. ",
       "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-coconut-tree.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Palm Tree",
+      "title": "The Elegant Eureka Palm: An Introduction",
+      "image": "http://cdn.shopify.com/s/files/1/0299/1679/0868/products/ArecaPalmHedge.jpg",
+      "description": "The Eureka palm, also known as the Rhapis excelsa, is a species of fan palm that is native to Southeast Asia and the Philippines.. ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-elegant-eureka-palm-introduction.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Palm Tree",
+      "title": "The Majestic Beauty of Mexican Palm Trees: An Overview",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Washingtonia_robusta.jpg/640px-Washingtonia_robusta.jpg",
+      "description": "Mexican palm trees, also known as Washingtonia robusta, are a species of fan palm that is native to western Mexico. They are a tall and stately palm, typically growing up to 60-70 feet in height, with a thick trunk and large, fan-shaped fronds that can reach up to 5-6 feet in width. Mexican palms are prized for their tropical appearance, which adds a touch of exotic beauty to any landscape. ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-majestic-beauty-of-mexican-palm.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Palm Tree",
+      "title": "The Robust and Versatile Robellini Palm Tree (Phoenix roebelenii)",
+      "image": "https://www.thespruce.com/thmb/a_Si23MKQsoibfDZ3zaatdR2Atg=/1616x0/filters:no_upscale():max_bytes(150000):strip_icc()/robellini-palm-plant-profile-5191248-hero-0371be291a574102ad1209cdc9b2005d.jpg",
+      "description": " The Robellini palm tree, also known as the Dwarf Date Palm or Pygmy Date Palm, is a small to medium-sized palm species that is native to Southeast Asia. With its graceful, feathery fronds and compact stature, the Robellini palm is a popular choice for landscaping, both in residential and commercial settings. ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-robust-and-versatile-robellini-palm.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Palm Tree",
+      "title": "The Majestic California Fan Palm: A Guide to Care and Cultivation",
+      "image": "https://gardenbeast.com/wp-content/uploads/2022/05/California-Fan-Palm-2.jpg",
+      "description": " The California fan palm (Washingtonia filifera) is a species of palm tree that is native to the southwestern United States and northwestern Mexico. It is a large, robust tree that can grow up to 60 feet tall, with a sturdy trunk and a distinctive, symmetrical crown of large, fan-shaped fronds. The California fan palm is widely grown in desert regions for its ornamental value and is a common sight along highways and in parks. ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-majestic-california-fan-palm-guide.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Palm Tree",
+      "title": "The High Price of Exotic Palm Trees: An Insight into the Most Expensive Palm Species",
+      "image": "https://jayscotts.com/wp-content/uploads/2021/09/foxtail-palm.jpg",
+      "description": " Most Expensive Palm Tree: Palm trees are a popular choice for landscaping, and there are a wide variety of species to choose from, ranging from the common and inexpensive to the rare and exotic. The most expensive palm trees are often considered to be the rare and exotic species that are not widely available, such as the Double Coconut Palm (Lodoicea maldivica) and the Triangle Palm (Dypsis decaryi). ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-high-price-of-exotic-palm-trees.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Palm Tree",
+      "title": "The Majestic Mule Palm: A Sturdy and Adaptable Species",
+      "image": "https://www.thespruce.com/thmb/dmqRQxKrRb--LpjOPNGjrChKR9A=/3894x0/filters:no_upscale():max_bytes(150000):strip_icc()/types-of-palm-trees-2132854-hero-38539d840aff47fdb20792096b83189e.jpg",
+      "description": "The mule palm (Borassus flabellifer) is a large and majestic species of palm tree that is native to Southeast Asia and northern Australia. Growing up to 100 feet tall, this species is prized for its distinctive, symmetrical crown of large, feathery fronds, which provide ample shade and visual interest to any landscape. Mule palms are widely grown for their fruit, which is used for food and drink production, and their strong, durable leaves, which are used for thatching and weaving. ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-majestic-mule-palm-sturdy-and.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Palm Tree",
+      "title": "The Dangers of a Dead Palm Tree: The Importance of Professional Removal",
+      "image": "https://www.arborcareaz.com/wp-content/uploads/2020/07/Do-Palm-Tree-Trunks-Grow-Back-If-You-Cut-Their-Trunks.jpg",
+      "description": " The presence of a dead palm tree can pose a significant threat to the safety and health of the surrounding area. Not only can it fall or collapse at any moment, causing damage to property and injury to people and animals, but it can also spread disease and pests to other nearby trees and plants. This is why it is crucial to have a dead palm tree removed by a professional tree removal service. ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-dangers-of-dead-palm-tree.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Palm Tree",
+      "title": "The Importance of Removing a Dead Palm Tree",
+      "image": "https://jctreeservices.com.au/wp-content/uploads/2019/03/how-to-revive-a-dying-palm-tree-2.jpg",
+      "description": "A fallen or collapsing dead palm tree can cause significant damage, making it important to have it removed by a professional tree removal service. Furthermore, dead palm trees can also have a negative impact on the surrounding landscape. They can harbor pests and diseases that can spread to other nearby trees and plants, serving as a breeding ground for fungi and bacteria that can further spread and infect other trees in the area. ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/dead-palm-tree.html"
     }
   ]
 }
