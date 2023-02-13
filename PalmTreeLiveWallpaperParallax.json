@@ -1,24 +1,24 @@
 {
   "Ads": [
     {
-       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-7316385158012425/5076159715",
-      "main_ads_intertitial":"ca-app-pub-7316385158012425/1342311728",
-      "main_ads_natives":"ca-app-pub-7316385158012425/1032703424",
-      "backup_ads_natives":"",
-      "main_ads_rewards":"ca-app-pub-7316385158012425/8024653035",
-      "backup_ads_rewards":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"1",
-      "on_off_native_listview":"1",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/1342311728",
+      "main_ads_natives": "ca-app-pub-7316385158012425/1032703424",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/8024653035",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -26,11 +26,10 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_guide_wall":"3"
-
+      "on_off_guide_wall": "3"
     }
   ],
-   "Categories": [
+  "Categories": [
     {
       "name_category": "PalmTree Wallpaper",
       "wallpaper_url": "https://i.pinimg.com/236x/27/3b/a6/273ba6077272ba5f21ee584d16bee2df.jpg"
@@ -1074,14 +1073,6 @@
       "link": "file:///android_asset/guide/guide1.html"
     },
     {
-      "id": 5,
-      "name_category": "Palm Tree",
-      "title": "The Coconut Tree",
-      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2022/3/24/1/shutterstock_palm-full-coconuts-on-maldivian-beach575497081.jpg.rend.hgtvcom.966.644.suffix/1648128375983.jpeg",
-      "description": "The coconut tree is known for its versatility and is often referred to as the "tree of life". The fruit, also known as a coconut, is a staple food source in many tropical countries and is used in a variety of dishes, including curries, desserts, and drinks such as coconut milk and coconut water. The flesh of the coconut can also be grated and dried to produce coconut oil, which is used in cooking, cosmetics, and personal care products.",
-      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-coconut-tree.html"
-    },
-    {
       "id": 2,
       "name_category": "Tutorial",
       "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
@@ -1104,6 +1095,14 @@
       "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
       "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
       "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 5,
+      "name_category": "coconut",
+      "title": "The coconut tree",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2022/3/24/1/shutterstock_palm-full-coconuts-on-maldivian-beach575497081.jpg.rend.hgtvcom.966.644.suffix/1648128375983.jpeg",
+      "description": "The coconut tree is known for its versatility and is often referred to as the tree of life. The fruit, also known as a coconut, is a staple food source in many tropical countries and is used in a variety of dishes, including curries, desserts, and drinks such as coconut milk and coconut water. The flesh of the coconut can also be grated and dried to produce coconut oil, which is used in cooking, cosmetics, and personal care products. ",
+      "link": "https://guidewallpaperparallax.blogspot.com/2023/02/the-coconut-tree.html"
     }
   ]
 }
