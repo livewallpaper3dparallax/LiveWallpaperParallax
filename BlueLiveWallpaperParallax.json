@@ -1,24 +1,24 @@
 {
   "Ads": [
     {
-       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-7316385158012425/8558764258",
-      "main_ads_intertitial":"ca-app-pub-7316385158012425/7245682583",
-      "main_ads_natives":"ca-app-pub-7316385158012425/4619519246",
-      "backup_ads_natives":"",
-      "main_ads_rewards":"ca-app-pub-7316385158012425/3175974436",
-      "backup_ads_rewards":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"1",
-      "on_off_native_listview":"1",
+      "main_ads_intertitial": "ca-app-pub-7316385158012425/7245682583",
+      "main_ads_natives": "ca-app-pub-7316385158012425/4619519246",
+      "backup_ads_natives": "",
+      "main_ads_rewards": "ca-app-pub-7316385158012425/3175974436",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -26,11 +26,10 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_guide_wall":"3"
-
+      "on_off_guide_wall": "3"
     }
   ],
-   "Categories": [
+  "Categories": [
     {
       "name_category": "Blue Wallpaper",
       "wallpaper_url": "https://i.pinimg.com/564x/02/a3/ef/02a3ef60680199f35ff9c759edcf5570.jpg"
@@ -53,7 +52,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/01/9f/89/019f8948649fff6a94e09ed866e8ab57.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/06/ca/76/06ca76a3337981b81ce5bc26d92d6190.jpg"
     },
     {
       "id": "714242822151849900",
@@ -62,7 +61,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/02/a3/ef/02a3ef60680199f35ff9c759edcf5570.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/09/04/cf/0904cf92018b0a73c53953c8d8ebbb3b.jpg"
     },
     {
       "id": "714242822151849894",
@@ -71,7 +70,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/06/ca/76/06ca76a3337981b81ce5bc26d92d6190.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/09/64/cb/0964cb283499eb3d6181f80b713beaab.jpg"
     },
     {
       "id": "714242822151849869",
@@ -80,7 +79,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/06/e1/84/06e18445b14fdc48b3e037393d9cc0f3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/0b/bf/63/0bbf63f66b804828fa9d0727aaf7bc3f.jpg"
     },
     {
       "id": "714242822151697117",
@@ -89,7 +88,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/09/04/cf/0904cf92018b0a73c53953c8d8ebbb3b.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/12/8c/82/128c827b5fd6dae6c0c24e87900a5bbb.jpg"
     },
     {
       "id": "714242822151697067",
@@ -98,7 +97,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/09/64/cb/0964cb283499eb3d6181f80b713beaab.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/17/9d/52/179d52e7cf19e1cd546a8ef4778671d1.jpg"
     },
     {
       "id": "714242822151359451",
@@ -107,7 +106,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/0a/7a/5c/0a7a5cbedc571772c94427cefc646767.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/17/aa/d5/17aad5e0183bd47c02f99bcc698a8c92.jpg"
     },
     {
       "id": "714242822150098949",
@@ -116,7 +115,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/0b/bf/63/0bbf63f66b804828fa9d0727aaf7bc3f.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/18/04/1c1804e03e39fa1a1643fc1fcde09957.jpg"
     },
     {
       "id": "714242822150098938",
@@ -125,7 +124,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/0f/25/6d/0f256dd2a267eafcf9fdaec95d350d27.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/20/b4/d2/20b4d2a6a7ca25c71768995cb61326d6.jpg"
     },
     {
       "id": "714242822150098895",
@@ -134,7 +133,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/0f/cc/e5/0fcce546a8c421a5bdad5f7eb76e94ac.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/22/21/65/222165b572fe64c07890b22e32564f75.jpg"
     },
     {
       "id": "714242822150098887",
@@ -143,7 +142,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/12/8c/82/128c827b5fd6dae6c0c24e87900a5bbb.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/28/56/f9/2856f93a393395ea535dec7495b095dc.jpg"
     },
     {
       "id": "714242822150098881",
@@ -152,7 +151,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/12/f3/db/12f3db8b7e3b18cb503271245ff9de24.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/1b/28/2b1b28b49e3d85a84a26d85ea795fbc5.jpg"
     },
     {
       "id": "714242822150098876",
@@ -161,7 +160,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/16/fb/0d/16fb0d6e14272f28f798db0a65ee00d6.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/39/68/2b3968fb05fe91ba47980aa3d8f30ca3.jpg"
     },
     {
       "id": "714242822150098854",
@@ -170,7 +169,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/17/60/b0/1760b0775985b0ad90cc5e10db225c69.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/34/e5/cf/34e5cf7c71dd2219dd0e65698b98fc40.jpg"
     },
     {
       "id": "714242822149867350",
@@ -179,7 +178,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/17/9d/52/179d52e7cf19e1cd546a8ef4778671d1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/38/ea/f1/38eaf144699fa62c837d5e34e49c64b8.jpg"
     },
     {
       "id": "714242822149270900",
@@ -188,7 +187,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/17/aa/d5/17aad5e0183bd47c02f99bcc698a8c92.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/3d/16/82/3d16827458a67087ee2ce771b9316539.jpg"
     },
     {
       "id": "714242822149101280",
@@ -197,7 +196,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/18/b4/85/18b485d51d24e694957cfbbf6b449021.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/41/ba/39/41ba39245d695d3a0403de034062749a.jpg"
     },
     {
       "id": "714242822149101277",
@@ -206,7 +205,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/1b/6f/2c/1b6f2cf49c45d2eece7c1e62aead6fa6.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/49/11/6a/49116a241028602b2743849e397d1c40.jpg"
     },
     {
       "id": "714242822149101267",
@@ -215,7 +214,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/1c/18/04/1c1804e03e39fa1a1643fc1fcde09957.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/4b/fc/39/4bfc3943efa0272bd4a5a99f5abd317d.jpg"
     },
     {
       "id": "714242822149101258",
@@ -224,7 +223,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/20/b4/d2/20b4d2a6a7ca25c71768995cb61326d6.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/58/89/38/58893872e584c734bf1f16fe2044672e.jpg"
     },
     {
       "id": "714242822149100692",
@@ -233,7 +232,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/22/21/65/222165b572fe64c07890b22e32564f75.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/5a/a4/b4/5aa4b4e4a81afed38ba1d28244aeb2c5.jpg"
     },
     {
       "id": "714242822149100681",
@@ -242,7 +241,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/28/56/f9/2856f93a393395ea535dec7495b095dc.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/5a/e9/0a/5ae90a5437d56af6f3c5bdeeb6bdec2e.jpg"
     },
     {
       "id": "714242822149100668",
@@ -251,7 +250,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/2b/1b/28/2b1b28b49e3d85a84a26d85ea795fbc5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/61/45/51/6145514f3ca2de85d5a136413b6385f5.jpg"
     },
     {
       "id": "714242822149100658",
@@ -260,7 +259,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/2b/39/68/2b3968fb05fe91ba47980aa3d8f30ca3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/63/3b/15/633b15b8f4a2e026b209616df2ced966.jpg"
     },
     {
       "id": "649503577527932077",
@@ -269,7 +268,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/2d/ea/f1/2deaf1e6a0edd684406ecbfce2aef694.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/ba/31/6cba31daa90fbbbb4cb26f4ca3da2671.jpg"
     },
     {
       "id": "131659989099515311",
@@ -278,7 +277,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/2f/16/20/2f1620bcc01da38f58be32ae4abd698d.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/6d/d2/6d6dd262fb22b922e15aa39f1f763c57.jpg"
     },
     {
       "id": "384143043228848250",
@@ -287,7 +286,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/34/e5/cf/34e5cf7c71dd2219dd0e65698b98fc40.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/5b/09/6e5b0965cad9f1cbea6455b36a0db702.jpg"
     },
     {
       "id": "592012313529434213",
@@ -296,7 +295,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/38/ea/f1/38eaf144699fa62c837d5e34e49c64b8.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/df/8e/6fdf8e35bb892bc8f87865818334e96d.jpg"
     },
     {
       "id": "464644886567970648",
@@ -305,7 +304,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/3d/16/82/3d16827458a67087ee2ce771b9316539.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/77/1e/59/771e5990c491db5f2f21dec359006e52.jpg"
     },
     {
       "id": "852939616944933466",
@@ -314,7 +313,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/41/ba/39/41ba39245d695d3a0403de034062749a.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/85/82/30/858230ffe6495bc3a7502908790f6623.jpg"
     },
     {
       "id": "853643304386339341",
@@ -323,304 +322,25 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/41/f9/e9/41f9e9d8a22a04a11dabc5a2f1430aea.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/9d/28/5a/9d285ad5c75718fd2310b48e1f189e43.jpg"
     },
     {
       "id": "714242822171467322",
       "name_category": "Blue Wallpaper",
       "wallpaper_name": "Blue Wallpaper714242822171467322",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/47/bf/e7/47bfe7f270b186e00a04ef12d920c9dd.jpg"
-    },
-    {
-      "id": "714242822170033912",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822170033912",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/49/11/6a/49116a241028602b2743849e397d1c40.jpg"
-    },
-    {
-      "id": "714242822151849900",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849900",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/4b/fc/39/4bfc3943efa0272bd4a5a99f5abd317d.jpg"
-    },
-    {
-      "id": "714242822151849894",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849894",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/53/fc/22/53fc22a36313702ae2a790f0aadc0ed3.jpg"
-    },
-    {
-      "id": "714242822151849869",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849869",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/57/39/9e/57399e1b13c6d4c9d3c9fee80c97dd43.jpg"
-    },
-    {
-      "id": "714242822151697117",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151697117",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/58/89/38/58893872e584c734bf1f16fe2044672e.jpg"
-    },
-    {
-      "id": "714242822151697067",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151697067",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/59/87/f1/5987f1db575a22323db7e9a44c6342f0.jpg"
-    },
-    {
-      "id": "714242822151359451",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151359451",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/5a/a4/b4/5aa4b4e4a81afed38ba1d28244aeb2c5.jpg"
-    },
-    {
-      "id": "714242822150098949",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098949",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/5a/e9/0a/5ae90a5437d56af6f3c5bdeeb6bdec2e.jpg"
-    },
-    {
-      "id": "714242822150098938",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098938",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/61/45/51/6145514f3ca2de85d5a136413b6385f5.jpg"
-    },
-    {
-      "id": "714242822150098895",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098895",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/63/3b/15/633b15b8f4a2e026b209616df2ced966.jpg"
-    },
-    {
-      "id": "714242822150098887",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098887",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/6c/a6/8f/6ca68f4d907104ec8d7e0e215d1f033c.jpg"
-    },
-    {
-      "id": "714242822150098881",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098881",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/6c/ba/31/6cba31daa90fbbbb4cb26f4ca3da2671.jpg"
-    },
-    {
-      "id": "714242822150098876",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098876",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/6d/6d/d2/6d6dd262fb22b922e15aa39f1f763c57.jpg"
-    },
-    {
-      "id": "714242822150098854",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098854",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/6e/5b/09/6e5b0965cad9f1cbea6455b36a0db702.jpg"
-    },
-    {
-      "id": "714242822149867350",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149867350",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/6f/df/8e/6fdf8e35bb892bc8f87865818334e96d.jpg"
-    },
-    {
-      "id": "714242822149270900",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149270900",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/70/d5/3b/70d53b2c2026714c85df52cd0a7d9743.jpg"
-    },
-    {
-      "id": "714242822149101280",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101280",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/77/1e/59/771e5990c491db5f2f21dec359006e52.jpg"
-    },
-    {
-      "id": "714242822149101277",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101277",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/77/c2/26/77c226f65fcbab8d0fb6f6f256736505.jpg"
-    },
-    {
-      "id": "714242822149101267",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101267",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/7d/8a/70/7d8a70a391c72b8e0a9e889a64bf68ea.jpg"
-    },
-    {
-      "id": "714242822149101258",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101258",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/81/ac/e4/81ace4353640c336c306c4e91b6bd78c.jpg"
-    },
-    {
-      "id": "714242822149100692",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149100692",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/85/82/30/858230ffe6495bc3a7502908790f6623.jpg"
-    },
-    {
-      "id": "714242822149100681",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149100681",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/85/c6/af/85c6afbf691433b0df2b0d0d8186124d.jpg"
-    },
-    {
-      "id": "714242822149100668",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149100668",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/90/0f/ee/900feee4087c321f7ccc19e7174d3de9.jpg"
-    },
-    {
-      "id": "714242822149100658",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149100658",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/92/b5/5d/92b55d224dd66d5de9d2065e512f809b.jpg"
-    },
-    {
-      "id": "358880664069089576",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper358880664069089576",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/93/74/8d/93748dd1f6fa0217067eb83ac253b10b.jpg"
-    },
-    {
-      "id": "586875395186062912",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper586875395186062912",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/9d/28/5a/9d285ad5c75718fd2310b48e1f189e43.jpg"
-    },
-    {
-      "id": "62346776084541613",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper62346776084541613",
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
       "wallpaper_url": "https://i.pinimg.com/564x/a2/84/c3/a284c30df1ff0c7c4eddeeb1204ffd1f.jpg"
     },
     {
-      "id": "499618152421404401",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper499618152421404401",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/aa/5a/6d/aa5a6dfa36ec1417f36f1c8054d56adf.jpg"
-    },
-    {
-      "id": "585256914095741118",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper585256914095741118",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/aa/fd/d2/aafdd22f02473212de1ba73e5f53956d.jpg"
-    },
-    {
-      "id": "571605377716374282",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper571605377716374282",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/ac/87/e3/ac87e3af6503638137dd4ab618e8bb26.jpg"
-    },
-    {
-      "id": "714242822171467322",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822171467322",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/ad/66/bf/ad66bf6f11ab5b62f135e49df8827a27.jpg"
-    },
-    {
       "id": "714242822170033912",
       "name_category": "Blue Wallpaper",
       "wallpaper_name": "Blue Wallpaper714242822170033912",
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/ae/da/88/aeda8800969ddde73ccd5a64c93a1aab.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/aa/fd/d2/aafdd22f02473212de1ba73e5f53956d.jpg"
     },
     {
       "id": "714242822151849900",
@@ -629,7 +349,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/b4/f0/18/b4f0189cc95d1357c056bcb25f87cca0.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/87/e3/ac87e3af6503638137dd4ab618e8bb26.jpg"
     },
     {
       "id": "714242822151849894",
@@ -638,7 +358,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/b6/3a/a0/b63aa0711e800eaf450de550b20860d7.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/66/bf/ad66bf6f11ab5b62f135e49df8827a27.jpg"
     },
     {
       "id": "714242822151849869",
@@ -647,7 +367,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/ba/ea/9a/baea9a48805a03f020ba5230438a853a.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/f0/18/b4f0189cc95d1357c056bcb25f87cca0.jpg"
     },
     {
       "id": "714242822151697117",
@@ -656,7 +376,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/bc/e5/b7/bce5b728d14b19cf8a624e1ddafc627b.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/3a/a0/b63aa0711e800eaf450de550b20860d7.jpg"
     },
     {
       "id": "714242822151697067",
@@ -665,7 +385,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/bd/f8/fe/bdf8fefae2dddd208d7a6755b7936ad2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/ea/9a/baea9a48805a03f020ba5230438a853a.jpg"
     },
     {
       "id": "714242822151359451",
@@ -674,7 +394,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/c1/0e/0a/c10e0a1f85204e91343bbfb1cc0a61a9.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/bc/e5/b7/bce5b728d14b19cf8a624e1ddafc627b.jpg"
     },
     {
       "id": "714242822150098949",
@@ -683,7 +403,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/cb/16/de/cb16de89ef416ba0430f6bfa4f5795a1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/f8/fe/bdf8fefae2dddd208d7a6755b7936ad2.jpg"
     },
     {
       "id": "714242822150098938",
@@ -692,7 +412,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/cd/d6/d2/cdd6d2c7fecf272439be617d0a52a19c.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/16/de/cb16de89ef416ba0430f6bfa4f5795a1.jpg"
     },
     {
       "id": "714242822150098895",
@@ -755,7 +475,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/dc/db/05/dcdb0522df35e71fc34a2c7193e7cffd.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/de/d9/4e/ded94ed3e568d2b98bb00102c73459ef.jpg"
     },
     {
       "id": "714242822149101280",
@@ -764,7 +484,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/de/51/ea/de51eabc8793781ac926ed94bbfb18ac.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/df/9f/cf/df9fcfd751dcdf5384e352e8a6699556.jpg"
     },
     {
       "id": "714242822149101277",
@@ -773,7 +493,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/de/d9/4e/ded94ed3e568d2b98bb00102c73459ef.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/25/aa/e125aaf63810e48935d9c7c66b77cdd4.jpg"
     },
     {
       "id": "714242822149101267",
@@ -782,7 +502,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/df/9f/cf/df9fcfd751dcdf5384e352e8a6699556.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/9c/e8/eb9ce8f95019fed0f1e9a4241b4b4d28.jpg"
     },
     {
       "id": "714242822149101258",
@@ -791,7 +511,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/e1/25/aa/e125aaf63810e48935d9c7c66b77cdd4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/99/48/f19948fab0e77e1960a78bd40e7da988.jpg"
     },
     {
       "id": "714242822149100692",
@@ -800,7 +520,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/e1/4b/df/e14bdfcb2406bc5598b5ee4fdcf6a6ea.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/e1/f4/f3e1f41681d1153a99cdce63ed31f158.jpg"
     },
     {
       "id": "714242822149100681",
@@ -809,7 +529,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/e7/d4/04/e7d40463aa5faa206bf14a5e3b88ad0b.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/ac/b7/f8acb79c6d5898c18845515b181d1b74.jpg"
     },
     {
       "id": "714242822149100668",
@@ -818,7 +538,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/eb/9c/e8/eb9ce8f95019fed0f1e9a4241b4b4d28.jpg"
+      "wallpaper_url": "https://i.pinimg.com/564x/fb/69/d6/fb69d62274e562eeabdd593849ff8bd3.jpg"
     },
     {
       "id": "714242822149100658",
@@ -827,70 +547,61 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/f1/99/48/f19948fab0e77e1960a78bd40e7da988.jpg"
-    },
-    {
-      "id": "27795722692716389",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper27795722692716389",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/f3/aa/57/f3aa57722b9ed18492d39aec7358d8a7.jpg"
-    },
-    {
-      "id": "24769866692117946",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper24769866692117946",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/f3/e1/f4/f3e1f41681d1153a99cdce63ed31f158.jpg"
-    },
-    {
-      "id": "389913280252701740",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper389913280252701740",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/f8/ac/b7/f8acb79c6d5898c18845515b181d1b74.jpg"
-    },
-    {
-      "id": "361765782578553077",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper361765782578553077",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/564x/fb/69/d6/fb69d62274e562eeabdd593849ff8bd3.jpg"
-    },
-    {
-      "id": "79657487151474684",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper79657487151474684",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
       "wallpaper_url": "https://i.pinimg.com/564x/fc/75/fd/fc75fdea24f6269b1a3b3c43c916d3d8.jpg"
     },
     {
-      "id": "925489792152442896",
+      "id": "358880664069089576",
       "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper925489792152442896",
+      "wallpaper_name": "Blue Wallpaper358880664069089576",
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
       "wallpaper_url": "https://i.pinimg.com/originals/01/f0/bb/01f0bb1d2e9ee699f5f092b648133f39.jpg"
     },
     {
-      "id": "14214555063601230",
+      "id": "586875395186062912",
       "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper14214555063601230",
+      "wallpaper_name": "Blue Wallpaper586875395186062912",
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
       "wallpaper_url": "https://i.pinimg.com/originals/02/ce/c5/02cec5ed98c609e819fc62b5e91666ef.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/03/06/f5/0306f5f3a23bfdcda6dc58767e15f7a7.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/03/3d/12/033d12619dd93a6dbb44e171e2908c54.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/03/bf/64/03bf645a458d49bd4d95fec7d84bbfc0.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/05/0d/37/050d37ec06346fef1649ef65407f4cd0.jpg"
     },
     {
       "id": "714242822171467322",
@@ -899,7 +610,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/03/06/f5/0306f5f3a23bfdcda6dc58767e15f7a7.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/05/60/5c/05605caea1029ed34b9ab6e618cff559.jpg"
     },
     {
       "id": "714242822170033912",
@@ -908,7 +619,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/03/3d/12/033d12619dd93a6dbb44e171e2908c54.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/08/d8/84/08d8848eb4f72ce2034e5428fd62edc4.jpg"
     },
     {
       "id": "714242822151849900",
@@ -917,7 +628,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/03/bf/64/03bf645a458d49bd4d95fec7d84bbfc0.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/08/f5/cf/08f5cf51a72e06dd23131607a66a56de.jpg"
     },
     {
       "id": "714242822151849894",
@@ -926,7 +637,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/05/0d/37/050d37ec06346fef1649ef65407f4cd0.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/09/64/cb/0964cb283499eb3d6181f80b713beaab.jpg"
     },
     {
       "id": "714242822151849869",
@@ -935,7 +646,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/05/60/5c/05605caea1029ed34b9ab6e618cff559.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/0b/40/39/0b403973d148715f5994c7717779e2e9.jpg"
     },
     {
       "id": "714242822151697117",
@@ -944,7 +655,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/08/d8/84/08d8848eb4f72ce2034e5428fd62edc4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/0b/bf/63/0bbf63f66b804828fa9d0727aaf7bc3f.jpg"
     },
     {
       "id": "714242822151697067",
@@ -953,7 +664,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/08/f5/cf/08f5cf51a72e06dd23131607a66a56de.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/0c/bb/f3/0cbbf3904aeb6a71bdc277bdc4f7d796.png"
     },
     {
       "id": "714242822151359451",
@@ -962,7 +673,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/09/64/cb/0964cb283499eb3d6181f80b713beaab.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/0d/3e/0a/0d3e0ab631448abec30cf2becc35785b.jpg"
     },
     {
       "id": "714242822150098949",
@@ -971,7 +682,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/0b/40/39/0b403973d148715f5994c7717779e2e9.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/0e/0d/39/0e0d3919d38b1bde88801c36edf34274.jpg"
     },
     {
       "id": "714242822150098938",
@@ -980,7 +691,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/0b/bf/63/0bbf63f66b804828fa9d0727aaf7bc3f.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/11/16/aa/1116aa040fa7a85267f968d82b184837.jpg"
     },
     {
       "id": "714242822150098895",
@@ -989,7 +700,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/0c/bb/f3/0cbbf3904aeb6a71bdc277bdc4f7d796.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/13/2e/2b/132e2bd975bdbe0d1158541ec1a00600.jpg"
     },
     {
       "id": "714242822150098887",
@@ -998,7 +709,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/0d/3e/0a/0d3e0ab631448abec30cf2becc35785b.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/14/02/50/1402508c202133761dcddea9894fc7b3.jpg"
     },
     {
       "id": "714242822150098881",
@@ -1007,7 +718,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/0e/0d/39/0e0d3919d38b1bde88801c36edf34274.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/15/7e/51/157e51c5b9e118755be3c4cdd7391194.jpg"
     },
     {
       "id": "714242822150098876",
@@ -1016,7 +727,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/11/16/aa/1116aa040fa7a85267f968d82b184837.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/16/11/04/161104279a575a33bded23f8f9fb91c4.jpg"
     },
     {
       "id": "714242822150098854",
@@ -1025,7 +736,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/13/2e/2b/132e2bd975bdbe0d1158541ec1a00600.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/17/9d/52/179d52e7cf19e1cd546a8ef4778671d1.jpg"
     },
     {
       "id": "714242822149867350",
@@ -1034,7 +745,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/14/02/50/1402508c202133761dcddea9894fc7b3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/17/aa/d5/17aad5e0183bd47c02f99bcc698a8c92.jpg"
     },
     {
       "id": "714242822149270900",
@@ -1043,7 +754,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/15/7e/51/157e51c5b9e118755be3c4cdd7391194.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/18/96/82/1896823a9fb8e8930cbcecde640ba812.jpg"
     },
     {
       "id": "714242822149101280",
@@ -1052,7 +763,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/16/11/04/161104279a575a33bded23f8f9fb91c4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/1a/d0/29/1ad02950f85c1a6025d6dda45915fe43.jpg"
     },
     {
       "id": "714242822149101277",
@@ -1061,7 +772,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/17/9d/52/179d52e7cf19e1cd546a8ef4778671d1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/1b/eb/7b/1beb7b63364e7f6405519ba8a1f2d405.jpg"
     },
     {
       "id": "714242822149101267",
@@ -1070,7 +781,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/17/aa/d5/17aad5e0183bd47c02f99bcc698a8c92.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/1d/34/58/1d3458aa678931e4ce20446d718863c7.jpg"
     },
     {
       "id": "714242822149101258",
@@ -1079,7 +790,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/18/96/82/1896823a9fb8e8930cbcecde640ba812.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/1d/74/af/1d74af154b32a6e308287212264321fa.jpg"
     },
     {
       "id": "714242822149100692",
@@ -1088,7 +799,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1a/d0/29/1ad02950f85c1a6025d6dda45915fe43.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/1d/8b/7c/1d8b7c9bf39e375fcf7ae670bdc88f8d.jpg"
     },
     {
       "id": "714242822149100681",
@@ -1097,7 +808,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1b/eb/7b/1beb7b63364e7f6405519ba8a1f2d405.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/16/b1/1e16b12717b882f5d93de4f2850eded9.jpg"
     },
     {
       "id": "714242822149100668",
@@ -1106,7 +817,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1d/34/58/1d3458aa678931e4ce20446d718863c7.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/fa/5f/1efa5f5666d95f891ba72a5774fe763e.jpg"
     },
     {
       "id": "714242822149100658",
@@ -1115,7 +826,295 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1d/74/af/1d74af154b32a6e308287212264321fa.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/1f/4c/f2/1f4cf2f6fd77299d8c6cf268603b1666.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1f/91/7e/1f917e3bf25100b88eaad02c35f20ff1.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/20/b4/d2/20b4d2a6a7ca25c71768995cb61326d6.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/22/21/65/222165b572fe64c07890b22e32564f75.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/25/ef/13/25ef133c77d291da121aa9eaf1cc6535.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/26/b0/2b/26b02be1437aa3eed589a0b728577e82.png"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/27/46/cd/2746cda302b837f8089ed1285970893d.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2a/17/dc/2a17dc5e88228259e1f7b359767f62ff.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2c/b1/08/2cb108e130786a56429130e14ff867aa.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2f/48/02/2f4802e7cffe127e44b1fb292c8863d3.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2f/67/0c/2f670c6a33d49546e3e4e2e5b4010ac3.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/2f/6c/85/2f6c85f6a30709be5d982b45495786c7.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/31/70/4b/31704b6da0286f71251f393dba6a6902.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/34/89/21/348921b12d6dbfdad06699d365a91baa.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/37/bc/24/37bc24d6320c00d1f871ff261a39efd6.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3a/6e/98/3a6e985db38f620e23a10c2a7f74c3d9.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3a/e5/dc/3ae5dc9601043ec562eba2a2a4205642.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3b/8e/cc/3b8eccc47cb11bbc5ae213eb4565e5a1.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3e/27/36/3e27369ddbe2b0cf794503040aa2a8ad.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/3e/cd/98/3ecd982172ce0cda5fe501a320e299cf.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/40/0c/56/400c568e826449019ea162e5b77ee327.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/40/bc/c8/40bcc887c284bc3c0441affa500ba2d1.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/41/ba/39/41ba39245d695d3a0403de034062749a.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/43/1f/54/431f549b588fa3844d00b1e5be753f95.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/44/49/3c/44493c4399573d65a5554ff8fdd80765.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/44/af/0c/44af0c0409eca1de069959ec0afef435.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/44/c1/83/44c183774220adb0521cfd8593dc1d71.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/46/50/c3/4650c3837b220a66b5d956a5a0f171f0.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/46/a0/86/46a0863bfb22dcafaa4a5d7f50378add.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/47/77/a1/4777a1c0441d058cfa6e45ec35b2c3a4.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/e0/bd/4be0bd7e82b3d38ed619175820da6be8.png"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/fc/39/4bfc3943efa0272bd4a5a99f5abd317d.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/4d/34/4a/4d344aa417f266e9bb37a75ca98192db.jpg"
     },
     {
       "id": "943785665636379210",
@@ -1124,7 +1123,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1d/8b/7c/1d8b7c9bf39e375fcf7ae670bdc88f8d.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/4e/2d/f3/4e2df3f17036480a53e9ce7432bf144b.png"
     },
     {
       "id": "1056797868791042381",
@@ -1133,7 +1132,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1e/16/b1/1e16b12717b882f5d93de4f2850eded9.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/4e/99/55/4e9955a541c625bf32a1bf94d9440254.jpg"
     },
     {
       "id": "48273027249542210",
@@ -1142,7 +1141,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1e/fa/5f/1efa5f5666d95f891ba72a5774fe763e.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/4f/52/0e/4f520e6aaeef4519822429bf159b6358.jpg"
     },
     {
       "id": "3940718417209888",
@@ -1151,7 +1150,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1f/4c/f2/1f4cf2f6fd77299d8c6cf268603b1666.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/50/47/68/504768ed362caf0ac4758c0c080eca28.jpg"
     },
     {
       "id": "425168021084759006",
@@ -1160,7 +1159,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/1f/91/7e/1f917e3bf25100b88eaad02c35f20ff1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/50/73/3f/50733f53200b825f0c61e0a7d1088fa2.jpg"
     },
     {
       "id": "731060952026444941",
@@ -1169,7 +1168,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/20/b4/d2/20b4d2a6a7ca25c71768995cb61326d6.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/51/41/2c/51412c9b4ff11ac2c7f586209bac76cc.jpg"
     },
     {
       "id": "611715561905282987",
@@ -1178,7 +1177,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/22/21/65/222165b572fe64c07890b22e32564f75.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/55/dd/eb/55ddebad50b46227096f859ac67d4abe.jpg"
     },
     {
       "id": "762163936957845179",
@@ -1187,7 +1186,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/25/ef/13/25ef133c77d291da121aa9eaf1cc6535.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/55/f7/1d/55f71d3b742684e79caf2951e0ae65e5.png"
     },
     {
       "id": "762163936957544557",
@@ -1196,7 +1195,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/26/b0/2b/26b02be1437aa3eed589a0b728577e82.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/58/6c/35/586c357ff509c4420acdacc1651798e7.jpg"
     },
     {
       "id": "762163936957544550",
@@ -1205,7 +1204,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/27/46/cd/2746cda302b837f8089ed1285970893d.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/5b/3b/10/5b3b106d0f00e1f36bdd058536008877.jpg"
     },
     {
       "id": "762163936957497726",
@@ -1214,7 +1213,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/2a/17/dc/2a17dc5e88228259e1f7b359767f62ff.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/5c/08/d1/5c08d1bff66f42cc028d0ed088f1a689.png"
     },
     {
       "id": "762163936957432366",
@@ -1223,7 +1222,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/2c/b1/08/2cb108e130786a56429130e14ff867aa.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/5c/8e/01/5c8e01f8477c4ee5e4f9552633a8226b.jpg"
     },
     {
       "id": "762163936957390277",
@@ -1232,7 +1231,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/2f/48/02/2f4802e7cffe127e44b1fb292c8863d3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/61/bb/1d/61bb1dedcde77a9c049a6644fbfa6a7b.jpg"
     },
     {
       "id": "762163936957370733",
@@ -1241,7 +1240,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/2f/67/0c/2f670c6a33d49546e3e4e2e5b4010ac3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/63/3b/15/633b15b8f4a2e026b209616df2ced966.jpg"
     },
     {
       "id": "762163936957354584",
@@ -1250,7 +1249,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/2f/6c/85/2f6c85f6a30709be5d982b45495786c7.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/64/18/1e/64181e216acda32e08be8ffae1af8bbe.jpg"
     },
     {
       "id": "762163936957354561",
@@ -1259,7 +1258,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/31/70/4b/31704b6da0286f71251f393dba6a6902.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/64/c2/bd/64c2bd8978113fc60b2dcba0667519df.jpg"
     },
     {
       "id": "762163936956730517",
@@ -1268,7 +1267,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/34/89/21/348921b12d6dbfdad06699d365a91baa.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/67/0a/b4/670ab47056e106536ff3ea66a3ff2886.jpg"
     },
     {
       "id": "762163936956664522",
@@ -1277,7 +1276,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/37/bc/24/37bc24d6320c00d1f871ff261a39efd6.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/67/f2/eb/67f2ebc1ee916695108f757bfac0e1dd.jpg"
     },
     {
       "id": "762163936955911041",
@@ -1286,7 +1285,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/3a/6e/98/3a6e985db38f620e23a10c2a7f74c3d9.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/69/6d/24/696d240b7e8540af8ec82b39ca186a0a.jpg"
     },
     {
       "id": "762163936955911013",
@@ -1295,7 +1294,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/3a/e5/dc/3ae5dc9601043ec562eba2a2a4205642.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/69/85/fa/6985faed8c0110f04d3653772e671c44.jpg"
     },
     {
       "id": "762163936955640601",
@@ -1304,7 +1303,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/3b/8e/cc/3b8eccc47cb11bbc5ae213eb4565e5a1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/4a/e0/6c4ae07c4a10b35aa3ae6a451985b7db.jpg"
     },
     {
       "id": "762163936955594026",
@@ -1313,7 +1312,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/3e/27/36/3e27369ddbe2b0cf794503040aa2a8ad.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/6e/5b/09/6e5b0965cad9f1cbea6455b36a0db702.jpg"
     },
     {
       "id": "762163936955567696",
@@ -1322,7 +1321,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/3e/cd/98/3ecd982172ce0cda5fe501a320e299cf.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/6f/c1/22/6fc122d686ed4a9acc6b37090d81f00f.jpg"
     },
     {
       "id": "762163936955549676",
@@ -1331,7 +1330,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/40/0c/56/400c568e826449019ea162e5b77ee327.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/70/f7/45/70f745105caa689b3345a278717b59ae.jpg"
     },
     {
       "id": "762163936955395541",
@@ -1358,7 +1357,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/43/1f/54/431f549b588fa3844d00b1e5be753f95.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/77/5f/b2/775fb292b60cd7bd8b8500633a1bc569.jpg"
     },
     {
       "id": "762163936955042878",
@@ -1367,7 +1366,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/44/49/3c/44493c4399573d65a5554ff8fdd80765.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/77/b9/b8/77b9b8632378fe7b33a18e5440a05cc3.jpg"
     },
     {
       "id": "762163936955042867",
@@ -1376,7 +1375,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/44/af/0c/44af0c0409eca1de069959ec0afef435.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/78/f8/db/78f8db34f74f838800e04f7416b9514e.jpg"
     },
     {
       "id": "762163936954975867",
@@ -1385,7 +1384,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/44/c1/83/44c183774220adb0521cfd8593dc1d71.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/79/7a/86/797a86e1f64eab80b19fc7df02ebb682.jpg"
     },
     {
       "id": "762163936954962297",
@@ -1394,7 +1393,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/46/50/c3/4650c3837b220a66b5d956a5a0f171f0.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/7a/28/ea/7a28ead2c8df1ca1c4df4cd3ef71baeb.jpg"
     },
     {
       "id": "762163936954961611",
@@ -1403,7 +1402,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/46/a0/86/46a0863bfb22dcafaa4a5d7f50378add.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/7d/fa/fc/7dfafcdbac75dbe5f1c0027ef0386461.jpg"
     },
     {
       "id": "27795722692716389",
@@ -1412,7 +1411,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/47/77/a1/4777a1c0441d058cfa6e45ec35b2c3a4.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/7e/50/8c/7e508c265dfacfbd2969908c32c3703c.jpg"
     },
     {
       "id": "753086368955302585",
@@ -1421,7 +1420,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/4b/e0/bd/4be0bd7e82b3d38ed619175820da6be8.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/7f/63/1e/7f631e577ed5e5ffbbce726f8ec03489.jpg"
     },
     {
       "id": "1829656091530868",
@@ -1430,7 +1429,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/4b/fc/39/4bfc3943efa0272bd4a5a99f5abd317d.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/81/c5/a1/81c5a1b305ea6755505508d09dbae3ec.jpg"
     },
     {
       "id": "1121326007201543357",
@@ -1439,7 +1438,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/4d/34/4a/4d344aa417f266e9bb37a75ca98192db.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/84/13/a7/8413a765b72b69e84b546493ee4f507d.png"
     },
     {
       "id": "115967759146006445",
@@ -1448,7 +1447,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/4e/2d/f3/4e2df3f17036480a53e9ce7432bf144b.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/84/90/c6/8490c684ba699b40f39e3f60e8801102.jpg"
     },
     {
       "id": "776096948303992611",
@@ -1457,7 +1456,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/4e/99/55/4e9955a541c625bf32a1bf94d9440254.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/86/4c/53/864c53ac11dcf9f070aa2e8fe91724b0.jpg"
     },
     {
       "id": "586875395186062912",
@@ -1466,7 +1465,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/4f/52/0e/4f520e6aaeef4519822429bf159b6358.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/87/3e/b2/873eb2a28de127eed38da1f821ddd553.jpg"
     },
     {
       "id": "762163936956730517",
@@ -1475,7 +1474,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/50/47/68/504768ed362caf0ac4758c0c080eca28.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/88/42/01/884201b748e4f2bf4784f396be99011c.jpg"
     },
     {
       "id": "762163936956664522",
@@ -1484,7 +1483,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/50/73/3f/50733f53200b825f0c61e0a7d1088fa2.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/88/cd/79/88cd79cc07401ef3ad92b885d86ea0da.jpg"
     },
     {
       "id": "762163936955911041",
@@ -1511,7 +1510,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/55/f7/1d/55f71d3b742684e79caf2951e0ae65e5.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/8d/d2/b0/8dd2b01d13f584181456f18b4f6769cf.jpg"
     },
     {
       "id": "762163936955594026",
@@ -1520,7 +1519,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/58/6c/35/586c357ff509c4420acdacc1651798e7.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/8e/e1/af/8ee1afe0efc2c4468874e8207ea48f0e.jpg"
     },
     {
       "id": "762163936955567696",
@@ -1529,7 +1528,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/5b/3b/10/5b3b106d0f00e1f36bdd058536008877.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/90/fb/a3/90fba32387af2eeabb8a3962fae03e3f.jpg"
     },
     {
       "id": "762163936955549676",
@@ -1538,7 +1537,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/5c/08/d1/5c08d1bff66f42cc028d0ed088f1a689.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/91/e1/6d/91e16d748371e5b2bb2b5650c57e2b75.jpg"
     },
     {
       "id": "762163936955395541",
@@ -1547,7 +1546,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/5c/8e/01/5c8e01f8477c4ee5e4f9552633a8226b.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/93/b7/ab/93b7abfe7e4f54f8ee0ffcb7a3a423e9.jpg"
     },
     {
       "id": "762163936955381591",
@@ -1556,7 +1555,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/61/bb/1d/61bb1dedcde77a9c049a6644fbfa6a7b.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/94/fa/be/94fabe527e3fb76f9ace180efa0f4aae.jpg"
     },
     {
       "id": "762163936955240129",
@@ -1565,7 +1564,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/63/3b/15/633b15b8f4a2e026b209616df2ced966.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/95/8b/07/958b0767d66b9becff1d953a8bd8ba1e.jpg"
     },
     {
       "id": "762163936955042878",
@@ -1574,7 +1573,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/64/18/1e/64181e216acda32e08be8ffae1af8bbe.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/96/aa/75/96aa755d7d47b028116f21d648c44bde.jpg"
     },
     {
       "id": "762163936955042867",
@@ -1583,7 +1582,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/64/c2/bd/64c2bd8978113fc60b2dcba0667519df.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/97/01/e3/9701e35da7526dc0d451eb7180a61cf0.jpg"
     },
     {
       "id": "762163936954975867",
@@ -1592,7 +1591,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/67/0a/b4/670ab47056e106536ff3ea66a3ff2886.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/97/55/c8/9755c83a864aca0b0c09e7a0d8073fcf.jpg"
     },
     {
       "id": "762163936954962297",
@@ -1601,7 +1600,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/67/f2/eb/67f2ebc1ee916695108f757bfac0e1dd.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/99/0b/3a/990b3ac7533169a28f4b443162383273.png"
     },
     {
       "id": "762163936954961611",
@@ -1610,7 +1609,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/69/6d/24/696d240b7e8540af8ec82b39ca186a0a.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/9a/3d/5c/9a3d5c4a8d3283b4e2b9fa1f53db544d.jpg"
     },
     {
       "id": "27795722692716389",
@@ -1619,7 +1618,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/69/85/fa/6985faed8c0110f04d3653772e671c44.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/9b/0a/cf/9b0acf61c675e2cceb87c0c484c14e10.jpg"
     },
     {
       "id": "753086368955302585",
@@ -1628,7 +1627,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/6c/4a/e0/6c4ae07c4a10b35aa3ae6a451985b7db.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/9c/bf/08/9cbf0808d60215408f5cdea1c047ec08.jpg"
     },
     {
       "id": "1829656091530868",
@@ -1637,7 +1636,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/6e/5b/09/6e5b0965cad9f1cbea6455b36a0db702.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/9f/e2/56/9fe256693a2c25c9aca66f28e5bfeb09.jpg"
     },
     {
       "id": "1121326007201543357",
@@ -1664,7 +1663,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/72/4a/42/724a424c2b2cede9a9a4b80642fe2699.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a2/84/c3/a284c30df1ff0c7c4eddeeb1204ffd1f.jpg"
     },
     {
       "id": "586875395186062912",
@@ -1673,7 +1672,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/73/bc/d3/73bcd34f81b6dcc9aac810ff321e419c.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a3/bf/e8/a3bfe8ae7e31ee83057113d1be41101a.jpg"
     },
     {
       "id": "762163936955567696",
@@ -1682,7 +1681,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/77/5f/b2/775fb292b60cd7bd8b8500633a1bc569.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a4/91/6c/a4916cfdff238f053c77ad56cd250708.jpg"
     },
     {
       "id": "762163936955549676",
@@ -1691,7 +1690,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/77/b9/b8/77b9b8632378fe7b33a18e5440a05cc3.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a4/bf/69/a4bf697c9b8db37ca6b2895d5309f0d1.jpg"
     },
     {
       "id": "762163936955395541",
@@ -1700,7 +1699,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/78/f8/db/78f8db34f74f838800e04f7416b9514e.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a6/0e/27/a60e2713722605978cf2f5637b02b4cb.png"
     },
     {
       "id": "762163936955381591",
@@ -1709,7 +1708,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/79/7a/86/797a86e1f64eab80b19fc7df02ebb682.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a7/d7/13/a7d713b5a566d7f1406c1ac90200afbc.png"
     },
     {
       "id": "762163936955240129",
@@ -1718,7 +1717,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/7a/28/ea/7a28ead2c8df1ca1c4df4cd3ef71baeb.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/a7/ef/54/a7ef54cee53175ccedcfdf16562d54df.jpg"
     },
     {
       "id": "762163936955042878",
@@ -1727,7 +1726,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/7d/fa/fc/7dfafcdbac75dbe5f1c0027ef0386461.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/aa/fd/d2/aafdd22f02473212de1ba73e5f53956d.jpg"
     },
     {
       "id": "762163936955042867",
@@ -1736,7 +1735,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/7e/50/8c/7e508c265dfacfbd2969908c32c3703c.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ab/77/5d/ab775d5443b7fcdcba123dd9f9115d00.jpg"
     },
     {
       "id": "762163936954975867",
@@ -1745,7 +1744,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/7f/63/1e/7f631e577ed5e5ffbbce726f8ec03489.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ac/1c/15/ac1c154240b5b2fdbd5ce7a4ee3cada3.jpg"
     },
     {
       "id": "762163936954962297",
@@ -1754,7 +1753,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/81/c5/a1/81c5a1b305ea6755505508d09dbae3ec.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ac/87/e3/ac87e3af6503638137dd4ab618e8bb26.png"
     },
     {
       "id": "762163936954961611",
@@ -1763,7 +1762,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/84/13/a7/8413a765b72b69e84b546493ee4f507d.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/ac/8e/39/ac8e390db6e2991c70b71fdb64ae86c5.jpg"
     },
     {
       "id": "27795722692716389",
@@ -1772,7 +1771,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/84/90/c6/8490c684ba699b40f39e3f60e8801102.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ad/12/d5/ad12d5166f1fa444df16e8ca3d96c97c.jpg"
     },
     {
       "id": "753086368955302585",
@@ -1781,7 +1780,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/86/4c/53/864c53ac11dcf9f070aa2e8fe91724b0.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/af/e3/75/afe375dea334427cdcaa37c900df0b73.jpg"
     },
     {
       "id": "1829656091530868",
@@ -1790,7 +1789,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/87/3e/b2/873eb2a28de127eed38da1f821ddd553.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/af/e9/05/afe9050d9033924eead9e232696ddd0d.jpg"
     },
     {
       "id": "1121326007201543357",
@@ -1817,7 +1816,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/8a/8c/4c/8a8c4c4da9f3a9388f56f16d6257a45b.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/b4/f0/18/b4f0189cc95d1357c056bcb25f87cca0.jpg"
     },
     {
       "id": "586875395186062912",
@@ -1826,7 +1825,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/8b/11/09/8b11091a68ca239e429227f971154569.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/b6/11/30/b6113047da6d4dd2ccfa8015634d0fd8.jpg"
     },
     {
       "id": "762163936956730517",
@@ -1835,7 +1834,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/8d/d2/b0/8dd2b01d13f584181456f18b4f6769cf.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/b6/3a/a0/b63aa0711e800eaf450de550b20860d7.jpg"
     },
     {
       "id": "762163936956664522",
@@ -1844,7 +1843,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/8e/e1/af/8ee1afe0efc2c4468874e8207ea48f0e.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/b9/05/b1/b905b1177230063417cd3b33c3ab371e.jpg"
     },
     {
       "id": "762163936955911041",
@@ -1853,7 +1852,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/8f/e6/63/8fe663f41022765a8b0b14473fff745f.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/55/41/bd55416abab37f6fdcada14a810152f9.jpg"
     },
     {
       "id": "762163936955911013",
@@ -1862,7 +1861,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/90/fb/a3/90fba32387af2eeabb8a3962fae03e3f.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/d8/ba/bdd8ba219e37c64777fa3d571612a75b.jpg"
     },
     {
       "id": "762163936955640601",
@@ -1871,7 +1870,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/91/e1/6d/91e16d748371e5b2bb2b5650c57e2b75.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/c1/6c/73/c16c7315c04f822fcd3076059d40adc2.jpg"
     },
     {
       "id": "762163936955594026",
@@ -1880,7 +1879,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/93/b7/ab/93b7abfe7e4f54f8ee0ffcb7a3a423e9.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/c2/f9/ef/c2f9ef82b165442f594544c825634039.png"
     },
     {
       "id": "762163936955567696",
@@ -1889,7 +1888,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/94/fa/be/94fabe527e3fb76f9ace180efa0f4aae.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/c3/9e/54/c39e54af2d70caf4f614a0faa103dcca.jpg"
     },
     {
       "id": "762163936955549676",
@@ -1898,7 +1897,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/95/8b/07/958b0767d66b9becff1d953a8bd8ba1e.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ca/30/5f/ca305f1e42cfdbe311c6233d4b5d27c8.jpg"
     },
     {
       "id": "762163936955395541",
@@ -1907,7 +1906,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/96/aa/75/96aa755d7d47b028116f21d648c44bde.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ca/77/97/ca7797fe19e5e9a2fab4268f8b953985.jpg"
     },
     {
       "id": "762163936955381591",
@@ -1916,7 +1915,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/97/01/e3/9701e35da7526dc0d451eb7180a61cf0.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/cb/16/de/cb16de89ef416ba0430f6bfa4f5795a1.jpg"
     },
     {
       "id": "762163936955240129",
@@ -1925,7 +1924,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/97/55/c8/9755c83a864aca0b0c09e7a0d8073fcf.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/cb/50/62/cb50627bc2e6c8019a02a1923e104f64.jpg"
     },
     {
       "id": "762163936955042878",
@@ -1934,7 +1933,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/99/0b/3a/990b3ac7533169a28f4b443162383273.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/cb/b0/28/cbb028b2060654e61ab297b804babcca.jpg"
     },
     {
       "id": "762163936955042867",
@@ -1943,7 +1942,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/9a/3d/5c/9a3d5c4a8d3283b4e2b9fa1f53db544d.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/cc/75/f1/cc75f1fa08c280854e7e2c69eba1c7df.jpg"
     },
     {
       "id": "762163936954975867",
@@ -1952,7 +1951,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/9b/0a/cf/9b0acf61c675e2cceb87c0c484c14e10.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ce/5f/08/ce5f08c0861887ba353fb88a86d2832d.jpg"
     },
     {
       "id": "762163936954962297",
@@ -1961,7 +1960,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/9c/bf/08/9cbf0808d60215408f5cdea1c047ec08.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/d0/bd/33/d0bd33f1b5fda306bc0809cf217a9062.jpg"
     },
     {
       "id": "762163936954961611",
@@ -1970,7 +1969,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/9f/e2/56/9fe256693a2c25c9aca66f28e5bfeb09.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/d3/58/b8/d358b8dfed478bc565514c1ed72be0c2.jpg"
     },
     {
       "id": "27795722692716389",
@@ -1979,7 +1978,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a1/3e/2d/a13e2d6b9f65ba2d811a5e2385d71b20.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/d6/8e/0c/d68e0cafbc39a1595149a080929b70ed.jpg"
     },
     {
       "id": "753086368955302585",
@@ -1988,7 +1987,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a2/7e/8d/a27e8d3cc37626f21ad8989f2b9ea908.png"
+      "wallpaper_url": "https://i.pinimg.com/originals/d6/cd/37/d6cd37d53a4938ab4ec3c61a8c925267.jpg"
     },
     {
       "id": "1829656091530868",
@@ -1997,7 +1996,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a2/84/c3/a284c30df1ff0c7c4eddeeb1204ffd1f.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/da/00/9f/da009f9550a0016ad1f63523243fdba9.jpg"
     },
     {
       "id": "1121326007201543357",
@@ -2006,7 +2005,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a3/bf/e8/a3bfe8ae7e31ee83057113d1be41101a.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/da/6d/d4/da6dd42f17bd99a69b9572a66a59a26a.jpg"
     },
     {
       "id": "115967759146006445",
@@ -2015,7 +2014,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a4/91/6c/a4916cfdff238f053c77ad56cd250708.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/db/2a/1f/db2a1f3e339733c0f95d448e5cf31ca8.jpg"
     },
     {
       "id": "776096948303992611",
@@ -2024,7 +2023,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a4/bf/69/a4bf697c9b8db37ca6b2895d5309f0d1.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/db/8a/d2/db8ad2d530f6a0700dde3b22d72138dd.jpg"
     },
     {
       "id": "586875395186062912",
@@ -2033,358 +2032,70 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a6/0e/27/a60e2713722605978cf2f5637b02b4cb.png"
-    },
-    {
-      "id": "714242822171467322",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822171467322",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a7/d7/13/a7d713b5a566d7f1406c1ac90200afbc.png"
-    },
-    {
-      "id": "714242822170033912",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822170033912",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/a7/ef/54/a7ef54cee53175ccedcfdf16562d54df.jpg"
-    },
-    {
-      "id": "714242822151849900",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849900",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/aa/fd/d2/aafdd22f02473212de1ba73e5f53956d.jpg"
-    },
-    {
-      "id": "714242822151849894",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849894",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ab/77/5d/ab775d5443b7fcdcba123dd9f9115d00.jpg"
-    },
-    {
-      "id": "714242822151849869",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849869",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ac/1c/15/ac1c154240b5b2fdbd5ce7a4ee3cada3.jpg"
-    },
-    {
-      "id": "714242822151697117",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151697117",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ac/87/e3/ac87e3af6503638137dd4ab618e8bb26.png"
-    },
-    {
-      "id": "714242822151697067",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151697067",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ac/8e/39/ac8e390db6e2991c70b71fdb64ae86c5.jpg"
-    },
-    {
-      "id": "714242822151359451",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151359451",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ad/12/d5/ad12d5166f1fa444df16e8ca3d96c97c.jpg"
-    },
-    {
-      "id": "714242822150098949",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098949",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/af/e3/75/afe375dea334427cdcaa37c900df0b73.jpg"
-    },
-    {
-      "id": "714242822150098938",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098938",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/af/e9/05/afe9050d9033924eead9e232696ddd0d.jpg"
-    },
-    {
-      "id": "714242822150098895",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098895",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/b0/e8/39/b0e839c359e85952e3057ca2a4eb0274.jpg"
-    },
-    {
-      "id": "714242822150098887",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098887",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/b4/46/a3/b446a3290f7e819f461a0c2c0b6191ce.jpg"
-    },
-    {
-      "id": "714242822150098881",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098881",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/b4/f0/18/b4f0189cc95d1357c056bcb25f87cca0.jpg"
-    },
-    {
-      "id": "714242822150098876",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098876",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/b6/11/30/b6113047da6d4dd2ccfa8015634d0fd8.jpg"
-    },
-    {
-      "id": "714242822150098854",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822150098854",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/b6/3a/a0/b63aa0711e800eaf450de550b20860d7.jpg"
-    },
-    {
-      "id": "714242822149867350",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149867350",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/b9/05/b1/b905b1177230063417cd3b33c3ab371e.jpg"
-    },
-    {
-      "id": "714242822149270900",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149270900",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/bd/55/41/bd55416abab37f6fdcada14a810152f9.jpg"
-    },
-    {
-      "id": "714242822149101280",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101280",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/bd/d8/ba/bdd8ba219e37c64777fa3d571612a75b.jpg"
-    },
-    {
-      "id": "714242822149101277",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101277",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/c1/6c/73/c16c7315c04f822fcd3076059d40adc2.jpg"
-    },
-    {
-      "id": "714242822149101267",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101267",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/c2/f9/ef/c2f9ef82b165442f594544c825634039.png"
-    },
-    {
-      "id": "714242822149101258",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101258",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/c3/9e/54/c39e54af2d70caf4f614a0faa103dcca.jpg"
-    },
-    {
-      "id": "714242822149100692",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149100692",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ca/30/5f/ca305f1e42cfdbe311c6233d4b5d27c8.jpg"
-    },
-    {
-      "id": "714242822149100681",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149100681",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ca/77/97/ca7797fe19e5e9a2fab4268f8b953985.jpg"
-    },
-    {
-      "id": "714242822149100668",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149100668",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/cb/16/de/cb16de89ef416ba0430f6bfa4f5795a1.jpg"
-    },
-    {
-      "id": "714242822149100658",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149100658",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/cb/50/62/cb50627bc2e6c8019a02a1923e104f64.jpg"
-    },
-    {
-      "id": "649503577527932077",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper649503577527932077",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/cb/b0/28/cbb028b2060654e61ab297b804babcca.jpg"
-    },
-    {
-      "id": "131659989099515311",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper131659989099515311",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/cc/75/f1/cc75f1fa08c280854e7e2c69eba1c7df.jpg"
-    },
-    {
-      "id": "384143043228848250",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper384143043228848250",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ce/5f/08/ce5f08c0861887ba353fb88a86d2832d.jpg"
-    },
-    {
-      "id": "592012313529434213",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper592012313529434213",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/d0/bd/33/d0bd33f1b5fda306bc0809cf217a9062.jpg"
-    },
-    {
-      "id": "464644886567970648",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper464644886567970648",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/d3/58/b8/d358b8dfed478bc565514c1ed72be0c2.jpg"
-    },
-    {
-      "id": "852939616944933466",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper852939616944933466",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/d6/8e/0c/d68e0cafbc39a1595149a080929b70ed.jpg"
-    },
-    {
-      "id": "853643304386339341",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper853643304386339341",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/d6/cd/37/d6cd37d53a4938ab4ec3c61a8c925267.jpg"
-    },
-    {
-      "id": "714242822171467322",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822171467322",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/da/00/9f/da009f9550a0016ad1f63523243fdba9.jpg"
-    },
-    {
-      "id": "714242822170033912",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822170033912",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/da/6d/d4/da6dd42f17bd99a69b9572a66a59a26a.jpg"
-    },
-    {
-      "id": "714242822151849900",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849900",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/db/2a/1f/db2a1f3e339733c0f95d448e5cf31ca8.jpg"
-    },
-    {
-      "id": "714242822151849894",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849894",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/db/8a/d2/db8ad2d530f6a0700dde3b22d72138dd.jpg"
-    },
-    {
-      "id": "714242822151849869",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151849869",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
       "wallpaper_url": "https://i.pinimg.com/originals/db/e8/99/dbe899889eefa5515d5097e608ab5a60.jpg"
     },
     {
-      "id": "714242822151697117",
+      "id": "714242822171467322",
       "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822151697117",
+      "wallpaper_name": "Blue Wallpaper714242822171467322",
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
       "wallpaper_url": "https://i.pinimg.com/originals/df/c3/92/dfc3923812fc791501f996825ef2ab35.jpg"
     },
     {
+      "id": "714242822170033912",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e1/2d/eb/e12debe095860440c2f1b95d7f02d05f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e2/71/77/e27177c0f28a22186dfda6f66ba67f33.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e5/f5/bf/e5f5bf683d7b51844329adc06aea760d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/e9/9b/99/e99b992126119421c8a54496e0f69c83.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Blue Wallpaper",
+      "wallpaper_name": "Blue Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Blue",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/ea/26/df/ea26df5abbe319ce1cb5b7d708e7748e.jpg"
+    },
+    {
       "id": "714242822151697067",
       "name_category": "Blue Wallpaper",
       "wallpaper_name": "Blue Wallpaper714242822151697067",
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/e1/2d/eb/e12debe095860440c2f1b95d7f02d05f.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/ea/a1/9a/eaa19ae0d208c41250afcb39315d223c.jpg"
     },
     {
       "id": "714242822151359451",
@@ -2393,7 +2104,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/e2/71/77/e27177c0f28a22186dfda6f66ba67f33.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/f2/b2/a6/f2b2a62e80ab3840aea71fb79783c1d5.jpg"
     },
     {
       "id": "714242822150098949",
@@ -2402,7 +2113,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/e5/f5/bf/e5f5bf683d7b51844329adc06aea760d.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/f4/88/23/f48823e4acecfa02182752ec86e430f6.jpg"
     },
     {
       "id": "714242822150098938",
@@ -2411,7 +2122,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/e9/9b/99/e99b992126119421c8a54496e0f69c83.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/f5/dd/a8/f5dda8dbcb5a5864619668a614a4fd00.jpg"
     },
     {
       "id": "714242822150098895",
@@ -2420,7 +2131,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ea/26/df/ea26df5abbe319ce1cb5b7d708e7748e.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/f6/7a/1b/f67a1b510efc8f852fd05e0e40cd50a6.jpg"
     },
     {
       "id": "714242822150098887",
@@ -2429,7 +2140,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/ea/a1/9a/eaa19ae0d208c41250afcb39315d223c.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/f6/c0/50/f6c0500e09c9a319d6606f1500a2b183.jpg"
     },
     {
       "id": "714242822150098881",
@@ -2438,7 +2149,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/f2/b2/a6/f2b2a62e80ab3840aea71fb79783c1d5.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/f6/ff/4e/f6ff4e5200da14ff3779fefae4f530e8.jpg"
     },
     {
       "id": "714242822150098876",
@@ -2447,7 +2158,7 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/f4/88/23/f48823e4acecfa02182752ec86e430f6.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/f7/59/41/f75941c157a4fe35d3fb27c2614f2651.jpg"
     },
     {
       "id": "714242822150098854",
@@ -2456,57 +2167,12 @@
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/f5/dd/a8/f5dda8dbcb5a5864619668a614a4fd00.jpg"
+      "wallpaper_url": "https://i.pinimg.com/originals/fb/69/d6/fb69d62274e562eeabdd593849ff8bd3.jpg"
     },
     {
       "id": "714242822149867350",
       "name_category": "Blue Wallpaper",
       "wallpaper_name": "Blue Wallpaper714242822149867350",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/f6/7a/1b/f67a1b510efc8f852fd05e0e40cd50a6.jpg"
-    },
-    {
-      "id": "714242822149270900",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149270900",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/f6/c0/50/f6c0500e09c9a319d6606f1500a2b183.jpg"
-    },
-    {
-      "id": "714242822149101280",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101280",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/f6/ff/4e/f6ff4e5200da14ff3779fefae4f530e8.jpg"
-    },
-    {
-      "id": "714242822149101277",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101277",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/f7/59/41/f75941c157a4fe35d3fb27c2614f2651.jpg"
-    },
-    {
-      "id": "714242822149101267",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101267",
-      "wallpaper_detail": "This is Exclusive wallpaper Blue",
-      "wallpaper_type": "IMAGE",
-      "lock": 1,
-      "wallpaper_url": "https://i.pinimg.com/originals/fb/69/d6/fb69d62274e562eeabdd593849ff8bd3.jpg"
-    },
-    {
-      "id": "714242822149101258",
-      "name_category": "Blue Wallpaper",
-      "wallpaper_name": "Blue Wallpaper714242822149101258",
       "wallpaper_detail": "This is Exclusive wallpaper Blue",
       "wallpaper_type": "IMAGE",
       "lock": 1,
